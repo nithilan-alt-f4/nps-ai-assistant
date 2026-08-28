@@ -16,6 +16,7 @@ calendar-tokens.json
 # Aakash bot data (has WhatsApp session + creds)
 aakash-cal-bot/
 data/
+!public/data/
 wa-session/
 
 # Old WhatsApp/browser session profiles (may contain creds) - never public
