@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Debug Console — NPS Briefing</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23171922'/%3E%3Ctext x='16' y='23' font-family='monospace' font-size='18' font-weight='bold' text-anchor='middle' fill='%23ffb84f'%3E?%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="debug.css">
+</head>
+<body>
+  <header>
+    <h1>Debug Console <a class="back" href="/">← back to briefing</a></h1>
+    <div id="health-bar" class="health-bar">loading status...</div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab active" data-tab="items">Items</button>
+    <button class="tab" data-tab="actions">Actions</button>
+    <button class="tab" data-tab="logs">Logs</button>
+  </nav>
+
+  <main>
+    <section id="tab-items" class="tab-panel active">
+      <div class="toolbar">
+        <label>Source:
+          <select id="items-filter">
+            <option value="">all</option>
+            <option value="nps">nps</option>
+            <option value="gmail">gmail</option>
+            <option value="news">news</option>
+          </select>
+        </label>
+        <label>Type:
+          <select id="items-type">
+            <option value="">all</option>
+            <option value="assignment">assignment</option>
+            <option value="notification">notification</option>
+            <option value="circular">circular</option>
+            <option value="holiday">holiday</option>
+            <option value="email">email</option>
+            <option value="news">news</option>
+          </select>
+        </label>
+        <label><input type="checkbox" id="items-unread"> unread only</label>
+        <button onclick="loadItems()">Load</button>
+        <span id="items-status" class="muted"></span>
+      </div>
+      <div id="items-list"></div>
+    </section>
+
+    <section id="tab-actions" class="tab-panel">
+      <div class="action-grid">
+        <div class="action-card">
+          <h3>Sync</h3>
+          <button onclick="doSync('/api/sync/all', 'sync-out')">Sync everything</button>
+          <button onclick="doSync('/api/sync/nps', 'sync-out')">NPS only</button>
+          <button onclick="doSync('/api/sync/gmail', 'sync-out')">Gmail only</button>
+          <button onclick="doSync('/api/sync/news', 'sync-out')">News only</button>
+          <div id="sync-out" class="result"></div>
+        </div>
+        <div class="action-card">
+          <h3>NPS session</h3>
+          <button onclick="doSync('/api/nps/relogin', 'nps-out')">Force re-login</button>
+          <button onclick="doSync('/api/nps/debug/assignment', 'nps-out')">Debug: assignment page</button>
+          <button onclick="doSync('/api/nps/debug/notifications', 'nps-out')">Debug: notifications page</button>
+          <button onclick="doSync('/api/nps/debug/circular', 'nps-out')">Debug: circular page</button>
+          <div id="nps-out" class="result"></div>
+        </div>
+        <div class="action-card">
+          <h3>Aakash (WhatsApp → School Calendar)</h3>
+          <button onclick="doAakashSync()">Sync Aakash now</button>
+          <span id="aakash-status" class="muted"></span>
+          <div id="aakash-out" class="result"></div>
+        </div>
+        <div class="action-card">
+          <h3>Gmail / Calendar / Maintenance</h3>
+          <button onclick="window.location='/api/gmail/auth'">Authorize Gmail</button>
+          <button onclick="window.location='/api/calendar/auth'">Authorize Calendar</button>
+          <button onclick="doSync('/api/calendar/upcoming?limit=10&days=60', 'maint-out')">Check calendar upcoming</button>
+          <button onclick="doSync('/api/summarize', 'maint-out')">Summarize pending items</button>
+          <div id="maint-out" class="result"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="tab-logs" class="tab-panel">
+      <div class="toolbar">
+        <button onclick="loadLogs()">Refresh logs</button>
+        <label><input type="checkbox" id="logs-auto"> auto-refresh (2s)</label>
+      </div>
+      <pre id="logs-out" class="logs">(no logs yet)</pre>
+    </section>
+  </main>
+
+  <div id="modal" class="modal hidden" onclick="if(event.target===this)closeModal()">
+    <div class="modal-box">
+      <button class="modal-close" onclick="closeModal()">&times;</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <script src="debug.js"></script>
+</body>
+</html>

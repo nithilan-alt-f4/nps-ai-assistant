@@ -1,0 +1,22 @@
+{
+  "name": "nps-briefing",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape-nps.mjs",
+    "sync-gmail": "node scripts/sync-gmail.mjs",
+    "sync-news": "node scripts/sync-news.mjs",
+    "briefing": "node scripts/generate-briefing.mjs",
+    "export": "node scripts/export-data.mjs",
+    "serve": "npx serve public -l 3000"
+  },
+  "dependencies": {
+    "googleapis": "^144.0.0",
+    "mongodb": "^6.10.0",
+    "node-cron": "^3.0.3"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.0"
+  }
+}

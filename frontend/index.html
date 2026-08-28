@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>Synopsis</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,600;1,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <div class="header-center">
+        <span class="header-eyebrow">THE DAILY BRIEFING</span>
+        <h1 class="header-title">Synopsis</h1>
+      </div>
+    </header>
+
+    <div class="pull-refresh" id="pull-refresh">
+      <div class="pull-refresh-spinner" id="pull-spinner">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+          <path d="M21 2v6h-6M3 12a9 9 0 0 1 15-6.7L21 8M3 22v-6h6M21 12a9 9 0 0 1-15 6.7L3 16"/>
+        </svg>
+      </div>
+      <span class="pull-refresh-text" id="pull-text">Pull to refresh</span>
+    </div>
+
+    <section class="greeting-row" id="greeting-section">
+      <div class="greeting">
+        <span class="greeting-text" id="greeting-text"></span>
+        <span class="greeting-date" id="current-date"></span>
+      </div>
+    </section>
+
+    <section id="weather-section" class="weather-card"></section>
+
+    <main class="feed" id="items-list"></main>
+
+    <div class="bottom-spacer"></div>
+  </div>
+
+  <nav class="bottom-nav">
+    <button class="nav-tab active" data-tab="briefing" onclick="switchTab('briefing', this)">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/></svg>
+      <span>Digest</span>
+    </button>
+    <button class="nav-tab" data-tab="school" onclick="switchTab('school', this)">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c0 1.66 2.69 3 6 3s6-1.34 6-3v-5"/></svg>
+      <span>School</span>
+    </button>
+    <button class="nav-tab" data-tab="email" onclick="switchTab('email', this)">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 7l-10 6L2 7"/></svg>
+      <span>Email</span>
+    </button>
+    <button class="nav-tab" data-tab="calendar" onclick="switchTab('calendar', this)">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+      <span>Calendar</span>
+    </button>
+    <button class="nav-tab" data-tab="civic" onclick="switchTab('civic', this)">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18M3 10h18M5 6l7-3 7 3M4 10v11M20 10v11M8 14v3M12 14v3M16 14v3"/></svg>
+      <span>Civic</span>
+    </button>
+    <button class="nav-tab" data-tab="whatsapp" onclick="switchTab('whatsapp', this)">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"/></svg>
+      <span>Chat</span>
+    </button>
+  </nav>
+
+  <div class="toast" id="toast"></div>
+
+  <div class="detail-overlay" id="detail-overlay" onclick="closeDetail(event)">
+    <div class="detail-sheet" id="detail-sheet">
+      <div class="detail-handle"></div>
+      <button class="detail-close" onclick="closeDetail(event, true)">&times;</button>
+      <div class="detail-content" id="detail-content"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
