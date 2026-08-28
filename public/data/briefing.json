@@ -1,0 +1,265 @@
+{
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T21:35:01.953Z",
+  "stats": {
+    "newToday": 188,
+    "assignments": 15,
+    "emails": 5,
+    "news": 8
+  },
+  "narrative": "Good morning! It’s **28 August 2026**, a pleasant **20 °C** day in Bengaluru with a **49 % chance of rain**. Grab a light jacket just in case, and you’re set for a productive day at school and beyond.\n\nA quick look at today’s school updates: your sibling **Nithilan Manivannan** in Grade 11 Science INT A is marked **absent**. If you’ve already let the school know, you can ignore that notice. The **fee payment** reminder is still active – log into the NPS NORTH parent portal, have your payment method handy, and settle the AY 2026‑27 dues before the deadline to dodge any late‑fee charges. Tomorrow, **Friday, 28 August**, the **Intramural Sports Inauguration Ceremony** kicks off. All students from Grades I‑XII must wear their **sports uniform** and **white shoes**; consider packing a water bottle and a small towel for comfort. Later today, don’t miss the **Career Guidance Session** at **12:30 p.m.** – join the Google Meet link a few minutes early, keep a notebook ready for notes, and feel free to jot down any questions you have about future pathways.  \n\nHere are today’s top headlines you might find interesting: [[News: TVK chief Joseph Vijay meets Tamil Nadu Governor Vishwanath Arlekar for second time at Lok Bhavan - News On AIR]], [[News: Vijay stakes claim to form govt in Tamil Nadu with support of Congress, VCK, IUML, Left parties - News On AIR]], [[News: Six months on, Trump’s Iran strategy is starting to pay off - Al Jazeera]], [[News: CJP's Abhijeet Dipke beats ex‑boss Arvind Kejriwal on list of preferred PM: MOTN survey - India Today]], [[News: 'Need overhaul of education system': Dipke on IIT Delhi suicide protest - The Times of India]].  \n\nYou also have a few emails waiting: [[Mail: Run failed: Sync NPS Briefing Data - main (daf55d1) – nithilan‑alt‑f4/nps‑ai‑assistant]], [[Mail: Send anything from 5kg to 100kg – Uber]], [[Mail: Celebrating one million nonprofits with you 💙 – Canva]]. Take a moment to skim them when you have a break.  \n\nStay focused, keep a positive vibe, and enjoy the day—rain or shine, you’ve got everything you need to make it a great one!",
+  "assignments": [
+    {
+      "id": "6a91fdb9869a41ed2f666d5a",
+      "title": "Physics Practical Notes",
+      "subject": "Subject: PHYSICS",
+      "teacher": "Teacher : Mahesh Thomas Lopes"
+    },
+    {
+      "id": "6a91fdb8869a41ed2f666d59",
+      "title": "Basic Concepts- Exercise Ques",
+      "subject": "Subject: CHEMISTRY",
+      "teacher": "Teacher : Dr.(Mrs.) LEBY THOMAS"
+    },
+    {
+      "id": "6a91fdb8869a41ed2f666d58",
+      "title": "Physics Worksheet",
+      "subject": "Subject: PHYSICS",
+      "teacher": "Teacher : Mahesh Thomas Lopes"
+    },
+    {
+      "id": "6a91fdb8869a41ed2f666d57",
+      "title": "Chapter 1 - Sets_ Worksheet.",
+      "subject": "Subject: MATHEMATICS",
+      "teacher": "Teacher : MOHAMMED ZEESHAN"
+    },
+    {
+      "id": "6a91fdb8869a41ed2f666d56",
+      "title": "Structure of Atom- Solution for Exercise Questions",
+      "subject": "Subject: CHEMISTRY",
+      "teacher": "Teacher : Dr.(Mrs.) LEBY THOMAS"
+    },
+    {
+      "id": "6a91fdb7869a41ed2f666d55",
+      "title": "Revision Worksheet for Chapter 1- Basic Concepts",
+      "subject": "Subject: CHEMISTRY",
+      "teacher": "Teacher : Dr.(Mrs.) LEBY THOMAS"
+    },
+    {
+      "id": "6a91fdb7869a41ed2f666d54",
+      "title": "Relations and Functions worksheet",
+      "subject": "Subject: MATHEMATICS",
+      "teacher": "Teacher : MOHAMMED ZEESHAN"
+    },
+    {
+      "id": "6a91fdb7869a41ed2f666d53",
+      "title": "Revision Worksheet_PT1",
+      "subject": "Subject: PHYSICS",
+      "teacher": "Teacher : SURESH BABU"
+    },
+    {
+      "id": "6a91fdb7869a41ed2f666d52",
+      "title": "Worksheet 1 - Chapter 1 2 and 3",
+      "subject": "Subject: COMPUTER SCIENCE",
+      "teacher": "Teacher : GAUTAM DODDAMANI"
+    },
+    {
+      "id": "6a91fdb7869a41ed2f666d51",
+      "title": "Notes- Speech and Debate Writing",
+      "subject": "Subject: English",
+      "teacher": "Teacher : GEETA NAIR"
+    },
+    {
+      "id": "6a91fdb6869a41ed2f666d50",
+      "title": "1. Ch-1 worksheet",
+      "subject": "Subject: CHEMISTRY",
+      "teacher": "Teacher : Dr.(Mrs.) LEBY THOMAS"
+    },
+    {
+      "id": "6a91fdb6869a41ed2f666d4f",
+      "title": "1. Ch-1 worksheet Answer key",
+      "subject": "Subject: CHEMISTRY",
+      "teacher": "Teacher : Dr.(Mrs.) LEBY THOMAS"
+    },
+    {
+      "id": "6a91fdb6869a41ed2f666d4e",
+      "title": "Answer Key for Revision Worksheet for Chapter 1- Basic Concepts",
+      "subject": "Subject: CHEMISTRY",
+      "teacher": "Teacher : Dr.(Mrs.) LEBY THOMAS"
+    },
+    {
+      "id": "6a91fdb5869a41ed2f666d4d",
+      "title": "Practical observation Notes",
+      "subject": "Subject: PHYSICS",
+      "teacher": "Teacher : Mahesh Thomas Lopes"
+    },
+    {
+      "id": "6a91fdb5869a41ed2f666d4c",
+      "title": "Class Test 1 - Sets, Relations and Functions",
+      "subject": "Subject: MATHEMATICS",
+      "teacher": "Teacher : MOHAMMED ZEESHAN"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "6a91fdc9869a41ed2f666d9d",
+      "title": "11-02-2026\n \t\t\t\t\t\t\t\t\t\t\t 09:57 AM",
+      "content": "Dear Parent, \n\nGreetings for the day!\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
+      "postedDate": "2026-08-28T21:29:45.387Z"
+    },
+    {
+      "id": "6a91fdc9869a41ed2f666d9c",
+      "title": "27-02-2026\n \t\t\t\t\t\t\t\t\t\t\t 03:52 PM",
+      "content": "Dear Parent,\n\nGreetings.\n\nKindly note that the school house (colour) allocation will be updated later on your ward’s Parent Portal under the ‘Profile’ tab.\n\nThis information will be required at the time of purchasing the school uniform.\n\nRegards,\nAdmin \nNPS-NORTH",
+      "postedDate": "2026-08-28T21:29:45.151Z"
+    },
+    {
+      "id": "6a91fdc9869a41ed2f666d9b",
+      "title": "02-04-2026\n \t\t\t\t\t\t\t\t\t\t\t 12:28 PM",
+      "content": "Dear Parent,\n\nGreetings.\n\nKindly note that the recommended school uniform vendor will be present in the school campus as per the below schedule:\n\nDates: Saturday, 4th April and Sunday, 5th April 2026\nTimings: 10:00am - 3:00pm\n\nParents are requested to visit the school campus on the above mentioned dates to complete the uniform purchase for their ward.\n\nRegards,\n\nAdmin\nNPS NORTH",
+      "postedDate": "2026-08-28T21:29:44.915Z"
+    },
+    {
+      "id": "6a91fdc8869a41ed2f666d9a",
+      "title": "02-04-2026\n \t\t\t\t\t\t\t\t\t\t\t 03:10 PM",
+      "content": "Dear Parent,\n\nGreetings.\n\nKindly note that the Bridge Classes (Hybrid Mode) for the academic year 2026–27 will commence from 9th, April 2026 to 5th, May 2026 on Monday, Tuesday, Thursday and Friday between 11:00 am to 2:00pm.\n\nThe credentials of the online classes will be shared by the Aakash team two days prior to the commencement of the classes.\n\nVenue:\nAakash Institute, Banaswadi\nNo. M415, Building 7,\n2nd Floor, Kalyan Nagar Extension,\nAbove Little Italy Restaurant,\nHRBR Layout, Banaswadi,\nBengaluru – 560043\n\nTransport facilities (pick-up and drop) from the nearest designated points will be provided only for the students registered for transportation.\nParents are requested to register through the portal: www.samschoolbus.com. \n\nParents who wish to avail this facility are requested to fill in the details using the Google Form link shared below.\nhttps://forms.gle/HooLrbPyTGWHQPtS8\n\n* Disclaimer - In view of the prevailing uncertainty in the Middle East, school transport services will operate in accordance with government regulations. \nIf the number of students is below the minimum requirement, the transport vendor will not be able to provide transport on that route.\n\nRegards,\nAdmin\nNPS NORTH",
+      "postedDate": "2026-08-28T21:29:44.678Z"
+    },
+    {
+      "id": "6a91fdc8869a41ed2f666d99",
+      "title": "06-04-2026\n \t\t\t\t\t\t\t\t\t\t\t 04:30 PM",
+      "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
+      "postedDate": "2026-08-28T21:29:44.442Z"
+    },
+    {
+      "id": "6a91fdc8869a41ed2f666d98",
+      "title": "08-04-2026\n \t\t\t\t\t\t\t\t\t\t\t 04:31 PM",
+      "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
+      "postedDate": "2026-08-28T21:29:44.206Z"
+    },
+    {
+      "id": "6a91fdc8869a41ed2f666d97",
+      "title": "09-04-2026\n \t\t\t\t\t\t\t\t\t\t\t 06:09 PM",
+      "content": "Dear Parent, \n\nGreetings for the day ! \n\nReminder for Fee Payment. \n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee. \n\nKindly ignore if already paid. \n\nThank You. \nAdmin Head \nNPS NORTH",
+      "postedDate": "2026-08-28T21:29:43.958Z"
+    },
+    {
+      "id": "6a91fdc7869a41ed2f666d96",
+      "title": "11-04-2026\n \t\t\t\t\t\t\t\t\t\t\t 12:01 PM",
+      "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
+      "postedDate": "2026-08-28T21:29:43.722Z"
+    }
+  ],
+  "circulars": [
+    {
+      "id": "6a91fdc9869a41ed2f666d9f",
+      "title": "Free Online Courses on NIELIT Digital University (NDU) for Classes VIII–XII",
+      "category": "Category : Board Circulars",
+      "hasPdf": false,
+      "postedDate": "2026-08-28T21:29:45.861Z"
+    },
+    {
+      "id": "6a91fdc9869a41ed2f666d9e",
+      "title": "Youth Entrepreneurship Challenge (YEC) Workshop organized by IIT Kanpur",
+      "category": "Category : Board Circulars",
+      "hasPdf": false,
+      "postedDate": "2026-08-28T21:29:45.624Z"
+    },
+    {
+      "id": "6a8e7ccb869a41ed2f660b3f",
+      "title": "Youth Entrepreneurship Challenge (YEC) Workshop organized by IIT Kanpur",
+      "category": "Board Circulars",
+      "hasPdf": false,
+      "postedDate": "2026-08-17T18:30:00.000Z"
+    },
+    {
+      "id": "6a8e7ccb869a41ed2f660b40",
+      "title": "Free Online Courses on NIELIT Digital University (NDU) for Classes VIII–XII",
+      "category": "Board Circulars",
+      "hasPdf": false,
+      "postedDate": "2026-07-03T18:30:00.000Z"
+    }
+  ],
+  "emails": [
+    {
+      "id": "6a91feef16e3238547fd592d",
+      "title": "[nithilan-alt-f4/nps-ai-assistant] Run failed: Sync NPS Briefing Data - main (daf55d1)",
+      "from": "Nithilan Manivannan <notifications@github.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a04a485adae0249"
+    },
+    {
+      "id": "6a91fdd96cf1076a03b597a6",
+      "title": "Send anything from 5kg to 100kg",
+      "from": "Uber <uber@uber.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a041a07031ba43f"
+    },
+    {
+      "id": "6a91fdd86cf1076a03b597a5",
+      "title": "Celebrating one million nonprofits with you 💙",
+      "from": "Canva <marketing@engage.canva.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a041cb73abd595f"
+    },
+    {
+      "id": "6a91fdd86cf1076a03b597a4",
+      "title": "✨ Give Your Home the Fashion Upgrade It Deserves! 🛍️",
+      "from": "Pepperfry <hello@mails.pepperfry.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a0424c0e961241b"
+    },
+    {
+      "id": "6a91fdd76cf1076a03b597a3",
+      "title": "The Daily teammates have a Zip invite waiting for you. 📬",
+      "from": "LinkedIn <messages-noreply@linkedin.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a042aa11c278ac5"
+    }
+  ],
+  "news": [
+    {
+      "id": "6a91fefb869a41ed2f666db7",
+      "title": "TVK chief Joseph Vijay meets Tamil Nadu Governor Vishwanath Arlekar for second time at Lok Bhavan - News On AIR",
+      "sourceName": "News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEtCd2t4bzQ5QUFRX1I3TkFfNXRCaEM2WkdRM3Jvc3lzWE5tR1lTdFZXTUFlVnlBTXVlOWVzZ2I5SzJpLUJ2UUZZZG9XRVhnTl96Y2x5RFpsa1FuV28xLVExT3hEeFd0VnNMWkhCaEh4X08zLWVDSGFHSHRGcnN3NVJyWXFYSmVaTWdydGFiWU9XZWpNOVFQekhFdnV3ZzZYYlVhb2QxWG1IQmYyeGpxVXRFekZPOVpsMUstUVoxdHI?oc=5"
+    },
+    {
+      "id": "6a91fefb869a41ed2f666db6",
+      "title": "Vijay stakes claim to form govt in Tamil Nadu with support of Congress, VCK, IUML, Left parties - News On AIR",
+      "sourceName": "News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYnZNelFLRmRoVWVPT3dLNXdHVWNFV19uRGI4UUVMMUJWUmM2VkJ5QmlUUlAwMzZaVFdGcEs3V2gwbnM3R3p5SE9QMnk4YUlMTHdiME9tUWpkY2trXzVTd083VTZpa3hjQkQ1WUZ0YzFESUZYRnE1SjhVcnRDVncyWm9CM05UUkhTbUtKTnVyNzF4X012M0xhdUpRVkVLREt3M3dxZw?oc=5"
+    },
+    {
+      "id": "6a91fef8869a41ed2f666db5",
+      "title": "Six months on, Trump’s Iran strategy is starting to pay off - Al Jazeera",
+      "sourceName": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjFvalNSNnJFaDFBYlV5djdnd2dhWDktd0RWWkU0azRIZVhHQlpqQXdYTU56NTREQTJCT1Rmb0JoUFdpY2FncnVRSU5pTkxHcGdZdlNxejF3dFIwV1NzYlJIZUtIMlpmQ3hkQmtSX1FnYVhXLVFEZEZhaWcyak5kNzZPcU84TTBtelZHUlpKaGo4SFRmRmYwYnNrNVBMeFkzdHpZctIBqgFBVV95cUxQbVQ2MWt1amRTMmNwYnJuVk1jc1FzOUhINTJ2a3ZfQlpmeFFXRE04ZFhDcldwcEt1NkwtSGE4NE8xTU11aWZmckRtUWowT0hOR1ltQld4U2swcXl4OVVKenVXRlUxcWdZZWNxSmt4bDZfQzVOc0ZGcS1TdldOMmtFZzlxbWdWRDV1aWlzTlhXT3lOTzR2NlFHUzB2c01NTmFnWng3amNBUFZPZw?oc=5"
+    },
+    {
+      "id": "6a91fde3869a41ed2f666db3",
+      "title": "CJP's Abhijeet Dipke beats ex-boss Arvind Kejriwal on list of preferred PM: MOTN survey - India Today",
+      "sourceName": "India Today",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQenhHWlZ5ZU8td0hvb0Q4RTBESEVCSFVNRHl3MmQ5Q0dXMFVtZ1IzdUwwY2NfdTh4ZHlBSldMc0xIRmxTa3BRRzNxRmlPS1VxS1dhbEwySmxvZkxBVG5ZYUk2MmZMd1BQZWlaZmFMQXpyem5nOEY4RUZVMk9mVV9zbGhtbGk4N2xGeDVVci0yTTBfX3k3UzJtZkhhVTlCQnpMbmhEeTZQb25oczM5aU93ZExGSVJxS29oTVNTNzhaRWJ6MUREMGNJRWhJVnRGWHV4ckhWS0VQTlNORmfSAeABQVVfeXFMUDhMRGF3VmNEbEhTVzBFZEhUZFlnUVlYRE51YVhVMnF1YTI5U1prSHdldWNweG8zXzdoeVo2Q0FrVXJ6d0RUQ3ZlbXBaZmh5andkZTFiYXZKREItRU9LUjNXOUNveEVxQ3AxWTBUcXU3dHhONExwS2xndEtBY1VRemoxR3dxSWwzeVhNMlhmdlQ0Tm1ySzdFWi1rdnJpY3FOXzZXR18yM3p1NjkzYkhKb2o2Uk51V1dUMXRrQnl3STVKanhCbGc3VEQzSWNhRmRFSkVVMzZLSXR5SWlXSnNDRmE?oc=5"
+    },
+    {
+      "id": "6a91fde3869a41ed2f666db2",
+      "title": "'Need overhaul of education system': Dipke on IIT Delhi suicide protest - The Times of India",
+      "sourceName": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSjJaQ1o0M0lZWTdIVVFKcE1nc1pCZXRLTnVCWmNJajFHeV84bkZVaTFwc1VkQW00dUZkRFZJMnlzWE51R3pLSFpfLTRRSXFPYVh4dm1aR2ZZMmx1WHZhSHBuWUZ2Wk5sMXdYWkFpZDZjcUsyZHN1YjZfYV80MGRuTWdYVFFTdnNhSlNNVDNWdXNyYWFrbEg0SS12TS1qVi01aEhvd283SmJCQ1B2Y2NLVUhfRkxOLVdUUDAzRFE4aDhjME81LWo1Tkx5REZ2RWZCZkHSAdcBQVVfeXFMUFBGbjNEV2RYUWY0b3hieHNxdWVkdVdvTUNRMHdJU09vTWJ5TXQyU0xMQ2xWM2haU0F6TzNLSTFpSjFuLXp5V0NzNXBlaUVUUGpLUGE5QWVXcU95aUQ5bS1Yd3BKTHFKWHpwMjVtUG81RE5qc3VjTnVjRm9peDhFM0xCTHJ1UXpjMHpmTWJDdENrd1B4WnhDb2hRV2xlaGprZWN4XzloanFjOEphSnAwWG5LZ01zUUVPaFdYYmFnU1lpRW1fMW1HMXNTakhkcTV4UkJIbGhkeWc?oc=5"
+    },
+    {
+      "id": "6a91fde3869a41ed2f666db1",
+      "title": "Cockroach Janta Party protest updates: Protest ends in Jantar Mantar; six detained - The Hindu",
+      "sourceName": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPejRxaE5zQi1mY3FtQ3h1S1kweDBxd3JoX3NubTJQdURHRHRJSGhLem9GM1U0V1UzYkJZdVdCSUJaWUFnZlVvT243UXVkTGZjZW9jbUpfazRmTk1GYVhjajBGRzI1S1gyNWVta1RTeld5bDdkNTY1NDNHOHhBOUhuUWZuVGxLZ0ZlVXJNbERZY19SUEZ2b05JaHpHWFdYYWdYcDJISDNWTzhFUDdmSElKeFRwaloyMjlfejM4a3ctaWlQTWFQTHNFUi0ydWJFb3pNTTJtTnRLbzlYc2J4VjZEZXFRMklBdkZzc3pJ0gHyAUFVX3lxTE80VkdDajUzbUhmYXIzdVhMcWRCT3FKY3VmbkZNNDFEaktISW15LXoxNS1hS1FVT2tLV0MtQmd1MWZ1cXF3eWRSRExKMThkSk9mTU9qNHkwVDJrV1Bqbzd3eHRjb3ZKVkgxdE9ITzVLaTV3MGp0Ylc5STRiVy1pdm9hdEloYlJ6WUswTlhKRU85WWh6ZUhMVHJFaGJXT2VzNnRDaHVjYkdadDZ0MXhvM0d3YVZROEdwUFdRcUJqNGdfMUNJdnZBNXRuMXY1ZFVLQkZSMmI0TmdoTVljbkVzT05MTDRZWHB6ck5XRUNWQjY1djZR?oc=5"
+    },
+    {
+      "id": "6a91fde3869a41ed2f666db0",
+      "title": "Abhijeet Dipke targets JP Nadda over talks with ‘Reservation Hatao’ team, seeks clarity: ‘What does PM have to say’ | India News - Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQenkyb0pPeWx1UGJVcUxmTk1jbW1BZU9GV1VhQVEwbU42MkJsV0JVVHE4aENkX0xDc0pPVGpZbnZ3bUJWOWtwYWVCQXN4Wlo5NGEzdGZlTlJPcEtjTUN5aFJFVS1sNUtMR3lHVWM2UzVaX1g4aU9qTG82TmFaa3lTcjRLdTRSUlFTR3hrQ000S1VQR2VZSWJENzJUZXhoQ1Q4OEhVU3pPaTFJWFhDSno3VEtlZXo3VFBxclJzbTVqQWN1TGQ1ZlpnUDZyeFZmTEx6SVNQUks4UkpiNTRFdGRZVjBn0gHnAUFVX3lxTE5pNGg3dzhMZDB5M0RRblJEM2s0LWVFZjMtSEhncjFxbGJmVDB4ajRiOVVxbWd5SGM5bWcxY0NIWnNFamxmLUZqcVhpOHdESTYyTU9sTDc3VHZXUkhMN3JWajZGNklDTkNsRU5US3VoT053QUhVUlNnSXZTMTVJM2QwX21nRVlnMldxb3ZPaXZWZ0c0Y2p5c0xDbFlLc25HTC1YcWhwNFlDLXZ6OUxaa0FZZUsxVXZoMUVITjJXMFNFSWtCZ1dCdzNKRGRQT0pNX1FjUnJndFVVLWFLVGhxelN1WjVRODVQQQ?oc=5"
+    },
+    {
+      "id": "6a91fde2869a41ed2f666daf",
+      "title": "Push for ‘Joseph Vijay as PM’ by TVK ministers sparks friction with Congress - Deccan Herald",
+      "sourceName": "Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWp5bkhITmtwX3J1bUozYWZEYjY0TGUxYWw3b0dnSTcxUTltU2JjYlc4OXBSM3FZWjJQTmF1LWplUHhualBsNHZ3a2FJa3Q4ejVvZElINXFNWjdvWWZVdVRlYXc1dkFQU0xkcXRFM0dyZ3RUREN3S1NFUl8yM241Y25nVjc1dk5VVnBZQWR3REZlcUxEd2UyYXp2QUdvNGhlTGNUS1Atc3FfS1MwSEtsWV9DOG51ZkgyaWVRYjdJV1h6Vm5PTzVr?oc=5"
+    }
+  ]
+}
