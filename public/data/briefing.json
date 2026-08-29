@@ -1,14 +1,32 @@
 {
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T07:58:42.619Z",
+  "generatedAt": "2026-08-29T11:19:28.222Z",
   "stats": {
-    "newToday": 14,
+    "newToday": 204,
     "assignments": 15,
     "emails": 5,
     "news": 8
   },
-  "narrative": "Good morning! It’s **29 August 2026**, and Bengaluru is looking warm at **28 °C** with a **96 % chance of rain**. Grab a light jacket or a rain‑coat, and don’t forget an umbrella in your bag. A fresh, slightly rainy day can be the perfect backdrop for a focused study session, so take a deep breath and get ready to own the day.\n\nYour school schedule stays the same, so aim to be on campus by **8:00 am**. A sturdy, waterproof backpack will protect your books and devices, and a pair of slip‑on shoes will keep your feet comfortable if the corridors get a bit damp. Pack a reusable water bottle, a healthy snack, and maybe a small notebook for any spontaneous ideas that pop up during class.\n\nYou’ve got a few emails waiting: the NPS AI Assistant sync has **failed**, Uber is offering a **5 kg–100 kg** shipping service, and Canva is celebrating **one million nonprofits** with a special note. Take a moment to glance at [[Mail:Run failed: Sync NPS Briefing Data - main (daf55d1)]], [[Mail:Send anything from 5kg to 100kg]], and [[Mail:Celebrating one million nonprofits with you 💙]] so you can address any actions needed before the afternoon.\n\nStay in the loop with today’s headlines. The HinduPost is digging into **Facebook pages** linked to Vijay‑TVK, Akashvani News reports on the **government formation** in Tamil Nadu, and ThePrint highlights Karnataka’s plan for **anti‑rowdy squads** and NSG training. The state will also **increase police hardship allowance by 50 %**, and The Hindu lists **five cities** besides Bengaluru for industrial growth. Check them out via [[News:Pakistan‑Administered Facebook Pages Turned Into Vijay‑TVK Propaganda Accounts?]], [[News:Tamil Nadu: Uncertainty continues over government formation under TVK]], [[News:Karnataka to set up anti‑rowdy squads in every district, NSG to train police]], [[News:Karnataka will hike police hardship allowance by 50%]], and [[News:Identify 5 cities other than Bengaluru for industrial development]]. Keep your curiosity sharp, and have a fantastic day!",
+  "narrative": "Good morning! It’s a wet **26C** day with a **90%** rain chance, so please bring your umbrella or raincoat. You have a strict deadline to complete your **AY 2026-27 fee payment** on the [[Mail: Reminder for Fee Payment]] portal to avoid late charges. In Karnataka, the state is setting up **anti-rowdy squads** in every district per [[News: Karnataka to set up anti-rowdy squads in every district, NSG to train police against terror threats]]. Stay safe and keep your phone charged for any sudden weather updates.",
   "assignments": [
+    {
+      "id": "6a92b550869a41ed2f6675fc",
+      "title": "CS Project synopsis",
+      "subject": "COMPUTER SCIENCE",
+      "teacher": "ANJALI H K"
+    },
+    {
+      "id": "6a92b550869a41ed2f6675fb",
+      "title": "Computer Science Project Ideas",
+      "subject": "COMPUTER SCIENCE",
+      "teacher": "GAUTAM DODDAMANI"
+    },
+    {
+      "id": "6a92b550869a41ed2f6675fa",
+      "title": "Computer Science Project Synopsis Submission",
+      "subject": "COMPUTER SCIENCE",
+      "teacher": "GAUTAM DODDAMANI"
+    },
     {
       "id": "6a929101869a41ed2f667444",
       "title": "CS Project synopsis",
@@ -80,27 +98,27 @@
       "title": "1. Ch-1 worksheet",
       "subject": "Subject: CHEMISTRY",
       "teacher": "Teacher : Dr.(Mrs.) LEBY THOMAS"
-    },
-    {
-      "id": "6a91fdb6869a41ed2f666d4f",
-      "title": "1. Ch-1 worksheet Answer key",
-      "subject": "Subject: CHEMISTRY",
-      "teacher": "Teacher : Dr.(Mrs.) LEBY THOMAS"
-    },
-    {
-      "id": "6a91fdb6869a41ed2f666d4e",
-      "title": "Answer Key for Revision Worksheet for Chapter 1- Basic Concepts",
-      "subject": "Subject: CHEMISTRY",
-      "teacher": "Teacher : Dr.(Mrs.) LEBY THOMAS"
-    },
-    {
-      "id": "6a91fdb5869a41ed2f666d4d",
-      "title": "Practical observation Notes",
-      "subject": "Subject: PHYSICS",
-      "teacher": "Teacher : Mahesh Thomas Lopes"
     }
   ],
   "notifications": [
+    {
+      "id": "6a92b55a869a41ed2f6675fd",
+      "title": "Computer Science Project Synopsis Submission",
+      "content": "Computer Science Project Synopsis Submission",
+      "postedDate": "2026-08-29T09:45:00.000Z"
+    },
+    {
+      "id": "6a92b55a869a41ed2f6675fe",
+      "title": "Computer Science Project Ideas",
+      "content": "Computer Science Project Ideas",
+      "postedDate": "2026-08-29T09:35:00.000Z"
+    },
+    {
+      "id": "6a92b55a869a41ed2f6675ff",
+      "title": "CS Project synopsis",
+      "content": "CS Project synopsis",
+      "postedDate": "2026-08-29T05:34:00.000Z"
+    },
     {
       "id": "6a91fdc9869a41ed2f666d9d",
       "title": "11-02-2026\n \t\t\t\t\t\t\t\t\t\t\t 09:57 AM",
@@ -130,24 +148,6 @@
       "title": "06-04-2026\n \t\t\t\t\t\t\t\t\t\t\t 04:30 PM",
       "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
       "postedDate": "2026-08-28T21:29:44.442Z"
-    },
-    {
-      "id": "6a91fdc8869a41ed2f666d98",
-      "title": "08-04-2026\n \t\t\t\t\t\t\t\t\t\t\t 04:31 PM",
-      "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
-      "postedDate": "2026-08-28T21:29:44.206Z"
-    },
-    {
-      "id": "6a91fdc8869a41ed2f666d97",
-      "title": "09-04-2026\n \t\t\t\t\t\t\t\t\t\t\t 06:09 PM",
-      "content": "Dear Parent, \n\nGreetings for the day ! \n\nReminder for Fee Payment. \n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee. \n\nKindly ignore if already paid. \n\nThank You. \nAdmin Head \nNPS NORTH",
-      "postedDate": "2026-08-28T21:29:43.958Z"
-    },
-    {
-      "id": "6a91fdc7869a41ed2f666d96",
-      "title": "11-04-2026\n \t\t\t\t\t\t\t\t\t\t\t 12:01 PM",
-      "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
-      "postedDate": "2026-08-28T21:29:43.722Z"
     }
   ],
   "circulars": [
@@ -214,6 +214,13 @@
   ],
   "news": [
     {
+      "id": "6a92b580869a41ed2f66760d",
+      "title": "Kharge 'purification' row: Rahul Gandhi turns heat on BJP & PM Modi, demands FIR - Deccan Herald",
+      "sourceName": "Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM2JmalU2NjhkMUIzbDlQdm5pNmhaSkl3UndfRlZLYzlGQkZ3THJNVDJ0S3lwd2lib2Y5YmxlWTlFVXZIdGFPMzVfRG1wVVA1R0xRd3JIOF8tRWtQcUx4TE1SZ2FnbW93OUo1STI0QUdnaDl5dTRBcGtKYzBjVVB6N0Nrazg5enI4ZnN1M1FxdzZvM0lvSjlyVHBqSU94R3paOVJCdjFlc192MWlINE5MQnUyWFRoa29GNTk4dFdHNU0ybEU?oc=5",
+      "summary": "You should know that **Rahul Gandhi** is demanding an **FIR** against the BJP and Prime Minister Modi because of a controversy over Kharge’s “purification” remarks. This shows how political leaders can clash over sensitive issues."
+    },
+    {
       "id": "6a929127869a41ed2f667452",
       "title": "Pakistan-Administered Facebook Pages Turned Into Vijay-TVK Propaganda Accounts? - HinduPost",
       "sourceName": "HinduPost",
@@ -254,12 +261,6 @@
       "title": "Modi Remains India’s Top Choice for Prime Minister, Survey Shows - Bloomberg.com",
       "sourceName": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajdfbloyY0lHLTljN2xGZjlXbUNQb1BLTG1KaTQzQWRrTHRuaFBGMkt2M2QwTXc5Vml3UG4zOGo3eUM2c3QzOHVXZ0Y3UVdIQUxGclJxeHFMRzZlcVM2SXRRenJ5M01QQmx5c0xCYWNQOVR5cWdaWW5Nd0JPQmtfUEJUNzhHcklCRWFyQzhWTXFCLWdnOXRCVWJzR2pWNk8yWkNhV2hpODNhQ2hFNDFvdEtIUkI?oc=5"
-    },
-    {
-      "id": "6a929125869a41ed2f66744b",
-      "title": "Indian PM Modi expected to attend December European Council - politico.eu",
-      "sourceName": "politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUN4YTJDRnJ6LTNMTTlVTnRDeDhUQl9HS3BMNFRFSHVQTEZkSXVvWkhwMDZYNVpQTXRGNWdNdnFOSDU3RWNYVlVpNUhUaXpmMVRlc2tfaUtwaEFWYWFSUWxfR3lLd1VWLThWZEhNbGlYUkc1VGxOOE80dnI4MlQtLWstYlJUejBGUXB3RFBfOHE1WVl4Q3Q3MG1ZZnNfSV84MVVz?oc=5"
     }
   ]
 }

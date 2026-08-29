@@ -16,7 +16,7 @@ async function groqChat(prompt, maxTokens) {
       'Content-Type': 'application/json'
     },
     body: JSON.stringify({
-      model: 'openai/gpt-oss-120b',
+      model: 'qwen/qwen3.8-27b',
       messages: [{ role: 'user', content: prompt }],
       max_tokens: maxTokens,
       temperature: 0.7
@@ -61,7 +61,7 @@ try {
     `You are writing a morning briefing for a high school student in Bengaluru.`,
     `Write a single, concise briefing of 3-4 short sentences maximum — roughly 400-500 characters total, no more.`,
     `Conversational and encouraging, second person ("you"/"your"). Keep it tight and skimmable.`,
-    `Do NOT use em dashes (use commas or periods). Use **bold** for key words and [[News:]] / [[Mail:]] style jump links for news/emails.`,
+    `Do NOT use em dashes (use commas or periods). Use **bold** for key words and [[News: TITLE]] / [[Mail: TITLE]] style jump links for news/emails — ALWAYS include the item's exact title after the colon, never an empty [[Mail:]] or [[News:]].`,
     ``,
     `Today's date: ${todayKey}  Weather: ${weatherLine}`,
     ``,
@@ -80,7 +80,7 @@ try {
     `Give 1-2 actionable advice items (dress code, timings, what to bring) only where the school notifications mention it.`
   ].join('\n');
 
-  const text = await groqChat(prompt, 175);
+  const text = await groqChat(prompt, 300);
 
   if (text) {
     await db.collection('settings').updateOne(
