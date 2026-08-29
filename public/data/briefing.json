@@ -1,14 +1,26 @@
 {
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T11:19:28.222Z",
+  "generatedAt": "2026-08-29T13:20:36.627Z",
   "stats": {
-    "newToday": 204,
+    "newToday": 49,
     "assignments": 15,
     "emails": 5,
     "news": 8
   },
-  "narrative": "Good morning! It’s a wet **26C** day with a **90%** rain chance, so please bring your umbrella or raincoat. You have a strict deadline to complete your **AY 2026-27 fee payment** on the [[Mail: Reminder for Fee Payment]] portal to avoid late charges. In Karnataka, the state is setting up **anti-rowdy squads** in every district per [[News: Karnataka to set up anti-rowdy squads in every district, NSG to train police against terror threats]]. Stay safe and keep your phone charged for any sudden weather updates.",
+  "narrative": "Good morning! It’s **23C** with a **90%** chance of rain, so please bring your **umbrella** and wear waterproof shoes. You have multiple notifications for your **CS Project Synopsis**, so prioritize submitting that today to avoid last-minute stress. For context, check [[News: CM DK Shivakumar directs officials to identify five cities for industrial development other than Bengaluru - ANI News (ANI News)]] regarding local development. Stay focused and keep a positive attitude as you wrap up your project!",
   "assignments": [
+    {
+      "id": "6a92dc71869a41ed2f6677b6",
+      "title": "Computer Science Project Ideas",
+      "subject": "Subject: COMPUTER SCIENCE",
+      "teacher": "Teacher : GAUTAM DODDAMANI"
+    },
+    {
+      "id": "6a92dc71869a41ed2f6677b5",
+      "title": "Computer Science Project Synopsis Submission",
+      "subject": "Subject: COMPUTER SCIENCE",
+      "teacher": "Teacher : GAUTAM DODDAMANI"
+    },
     {
       "id": "6a92b550869a41ed2f6675fc",
       "title": "CS Project synopsis",
@@ -86,18 +98,6 @@
       "title": "Worksheet 1 - Chapter 1 2 and 3",
       "subject": "Subject: COMPUTER SCIENCE",
       "teacher": "Teacher : GAUTAM DODDAMANI"
-    },
-    {
-      "id": "6a91fdb7869a41ed2f666d51",
-      "title": "Notes- Speech and Debate Writing",
-      "subject": "Subject: English",
-      "teacher": "Teacher : GEETA NAIR"
-    },
-    {
-      "id": "6a91fdb6869a41ed2f666d50",
-      "title": "1. Ch-1 worksheet",
-      "subject": "Subject: CHEMISTRY",
-      "teacher": "Teacher : Dr.(Mrs.) LEBY THOMAS"
     }
   ],
   "notifications": [
@@ -182,6 +182,12 @@
   ],
   "emails": [
     {
+      "id": "6a92dc8f81bdac417e2af154",
+      "title": "Rush Now! 🏃Fashion for Home Sale Ends Tomorrow! 🛋️ ⏰",
+      "from": "Pepperfry <hello@mails.pepperfry.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a04ca6448a8957c"
+    },
+    {
       "id": "6a91feef16e3238547fd592d",
       "title": "[nithilan-alt-f4/nps-ai-assistant] Run failed: Sync NPS Briefing Data - main (daf55d1)",
       "from": "Nithilan Manivannan <notifications@github.com>",
@@ -204,63 +210,56 @@
       "title": "✨ Give Your Home the Fashion Upgrade It Deserves! 🛍️",
       "from": "Pepperfry <hello@mails.pepperfry.com>",
       "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a0424c0e961241b"
-    },
-    {
-      "id": "6a91fdd76cf1076a03b597a3",
-      "title": "The Daily teammates have a Zip invite waiting for you. 📬",
-      "from": "LinkedIn <messages-noreply@linkedin.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a042aa11c278ac5"
     }
   ],
   "news": [
     {
-      "id": "6a92b580869a41ed2f66760d",
-      "title": "Kharge 'purification' row: Rahul Gandhi turns heat on BJP & PM Modi, demands FIR - Deccan Herald",
-      "sourceName": "Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM2JmalU2NjhkMUIzbDlQdm5pNmhaSkl3UndfRlZLYzlGQkZ3THJNVDJ0S3lwd2lib2Y5YmxlWTlFVXZIdGFPMzVfRG1wVVA1R0xRd3JIOF8tRWtQcUx4TE1SZ2FnbW93OUo1STI0QUdnaDl5dTRBcGtKYzBjVVB6N0Nrazg5enI4ZnN1M1FxdzZvM0lvSjlyVHBqSU94R3paOVJCdjFlc192MWlINE5MQnUyWFRoa29GNTk4dFdHNU0ybEU?oc=5",
-      "summary": "You should know that **Rahul Gandhi** is demanding an **FIR** against the BJP and Prime Minister Modi because of a controversy over Kharge’s “purification” remarks. This shows how political leaders can clash over sensitive issues."
-    },
-    {
-      "id": "6a929127869a41ed2f667452",
-      "title": "Pakistan-Administered Facebook Pages Turned Into Vijay-TVK Propaganda Accounts? - HinduPost",
-      "sourceName": "HinduPost",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmwxVmxBbTkzR1VwQktGS3JiczQwUEhyd1RVV3d4ejVQYjNSbUhWakNVLTRpUW91QXg5djNrYkxET2lYcmJVNlE2U2tPbzQyZ3VPU1JMeTBtUE1wNG1fWk9lekROZFdONFNRRGJWTDl2bUxDa19FazZpblRSTzNRcV9CMEJqSWs4cGxWNDZ4ZUFfM2F5TVFYVDNXTUtfWVRITWlrWW02WVlxOXh2X3NuaW50SzhDQl9fS2Ew?oc=5"
-    },
-    {
-      "id": "6a929127869a41ed2f667451",
-      "title": "Tamil Nadu: Uncertainty continues over government formation under TVK | Akashvani News - News On AIR",
-      "sourceName": "News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeEZsWnRHYnFpZFhKTEhnQ0tGS3BSTjRXRzluR1pzWkl0THdFTzQtTmV3MlRuRklBSm9lZ2lRSjNJeEJueG01bk5oaEk0bUlVcEFVakJFM3VlcjVaNHh1UV9kUTJDMk9kaEFsSXJvclVKQk55OVpfbjlraGZJOTJnT1JrQm9nY2RyX2VzSXhudEl2UWtFaGRheGxOdWYtX0RyRGdyN2tLU2Q3Vzg4SFBOcHl2alV3VlZzdFFocHF1VDNGOEZhWmpxYTdR?oc=5"
-    },
-    {
-      "id": "6a929127869a41ed2f667450",
-      "title": "Karnataka to set up anti-rowdy squads in every district, NSG to train police against terror threats - ThePrint",
+      "id": "6a92dc9d869a41ed2f6677c0",
+      "title": "Expired food packets found at govt school in Maharashtra, claims CJP’s Dipke - ThePrint",
       "sourceName": "ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY0FCLTJjRG1iRzBRYWVlVVpPNlNiZDhsbnppWVltMXV4M0o1WTRidDBLUGVDWmhDNjh4VmR2dzJ0WWZPNFJqUEFueDFkWEkwWUltWUlMUWpqZEFxQzVFd1hFZGVFRUhBcS1tSDhDbDNBTDIxbXVaT2ZFSWxmYXpuTGw4aEVpMUZJSWdTRGQzRzNra0loTGlzN2NpMWhpMmpDZ2FDM3R0d25VakxlTTVZU0F4cDZYSnhJTnBGRk5CNVI1WFRTb2M0VjlJUW9zZ9IB0wFBVV95cUxPRkNmYTZMbHJqV1VjYXVDRWFad1p5b1VYa2RvMGJEdTFwQ1lEVHNScXFRMU42SklyMmVsc1VwMmIxaWl3MWVwS0EtNFVqNHlOWDJsNXJIYXRaU3JJTVlpWlFMZVYwcXJmeEhNSUVCandvNnBPSzZlenROVy1Xc0tYb0tZWXZiMTVTNDdBTXFrNXI1RE8wTXA5X1d4U3ZEZVlLczd1eWtIM2JRb3liR1pjeGVsQVExNWYtZ2YtM0FEeUdsckJMckNMSmFyTWw2Tlk4RW9v?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdW1ZUlMxRFpiaHdVZXMzMTd5UGw4QWFBYXJlWk5OYnZiYnd0ekJDWXRUbTZqZ0dFRjBmbmpqcWQ4VEdHdmpuZzBnWnpCMVpGMnFSTlZEVU1kc0hQdTZsSUxVaE9rVGx4VGtaMGhsSGFBYjd6bVNrUW1wQUdSVGkwZklmR2syQ1NaWm9yTDJCM1AzWm83amIxTHRuVXJmNm84aUF0ek5sdl9PVFFBUXfSAbMBQVVfeXFMTXNSZ3ZfUEc1Um15NzJfbkdQYVg4VkZjejJzMXVGeUprczg3R1l3NHltbS15WXc5ZDU5blRXeHBhc3ZUdU5ZX1JEQWo5UnRTMmVxaUlySVNrOEl2M19iNUxfZ2JQWF9lalY0NWJMMWdDb2dvaFZhZHgxZzdTczVZZUowUldINi1aRzA0RXJGQ1VGSFpsYW9UVjhFUzFuWGl5aFBoeU56cm1HVlZfNVBOZ3JQNzQ?oc=5"
     },
     {
-      "id": "6a929126869a41ed2f66744f",
-      "title": "Karnataka will hike police hardship allowance by 50%: CM Shivakumar - Deccan Herald",
-      "sourceName": "Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2JnM2VMbEYyR3BFQ2o5Uk8yWjlLSTg1YWpNWDVLODFHdGVXenMtb0VpZ1lSUHpTM1R3Y0F6M0NreVZTdEFaZXJZYTgzTzBza3poWUR1dnpjN3F3MzI5SWVYemRjNGJIajJwalVHUUtWNzltZkJvN1BRTHhWQ3dWcWp5ZlFEcEhzS0pRY1duYXdXdnpxcVppRWtHZE5IVXFQbTlWWkVPMjdLb3NoVy1LU3I4U1FFM0ZCNmc?oc=5"
-    },
-    {
-      "id": "6a929126869a41ed2f66744e",
-      "title": "Identify 5 cities other than Bengaluru for industrial development: Karnataka CM - The Hindu",
-      "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOOERtMnRmcmlxVVUwMUNFZ1JQY2NLS0FNeVdUejNJOGxScDFWOXNJV1FpdGk1WXZJeUhTSDJBZHZSTFB5NWpHM0RtWlQ3WjVhYm91cTk2U2FZM1lsUkUwVGlfVkl6WXFNLUxXeU5mNW9Ybk9FNlpJRDlfb0draU9NYU0wUFFCaHFPYzRlWlRhdUtDcXFralJ5UUZWUm9vb1hyaWZROXR4Uk11ejJVVGQ1N2FVOVhGTkhTWkxXRGlWd1diX0paRm9BckV0YW1fX09hdzJmZW9kTVZnbEdyM0sxdExSWDA3c3loNnJuMk10azBHaGNNZmlKd2oyS1pOdUk3WkZXMVNZSlZiYVM3djE4bTdhWmxlUWFPVlNJU3VvbXZWSk3SAaoCQVVfeXFMTjVLLThqT2NUVjZFSEwzLUhIaEZCbFhxU05KWVUyYVBsR05wMlhnMnVPNVNLU1dtdVZYTTlDeE5LMHNDR3pReXBZaUxhVUhGd3A3N01fTXhjOGVOSUdpWkREVmdhOVNpQUw2dDZBa1RXOFVpeVlTYXpWLU5vNGs1c0tpNkViQ1N0VkdpcEhUZDdqVlNkaWo0UUphYVZaVFZyVHdVdVc3TzZGemNLWUc3OUwtb2Q2WjdYZ2dsSVdxSDlkaTF0OUQ5R2paWEVvajdiOFQ2RFE0SGgzNDRUNXhtbEliMFIzUXQ0U3V3S1lXelJpTXNfdjRkNk1zV25oNGs5OHMydDBGSnlGYlNNMm8wdTdEZUhPOFhMYmVMSmtBamM1d3pIOUFuUkRpUQ?oc=5"
-    },
-    {
-      "id": "6a929126869a41ed2f66744d",
-      "title": "Nagendra resigned to avoid embarrassment to Congress: DK Shivakumar - The Times of India",
+      "id": "6a92dc9c869a41ed2f6677bf",
+      "title": "‘Do ministers feed their own children expired food?’ Abhijeet Dipke during ‘School Thik Karo’ campaign - The Times of India",
       "sourceName": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZEdkYy1JQmlya2k1TUJ3X05hNEp6WEd3QjdzUmVfOVpFeXpNTjQycUo3TEVXWnhFRGhtbkQxUFlTaHpNVlJPQ0JTRzBXbHdYaDlyNlV4SFJYYnQ0ZmlOMU1uQWZXUzJnMTUyYU5mb1dHc3BFOHNIU2x5OHJQUjdpbEE3ZUp1QUltYjlXckFGY2dGVUNOeVNNN1hnV2J4cEdJQkF0VmgwQVhvdEw4ZkZFSTN3WnRleXl3NWtFS28wUUlPZUM2Mll2Y3M3cTVKQlnSAdQBQVVfeXFMTV9obFJnYUpqd1BsWDk3MXlDTE1JY2NDUldPSzdhN3ZPX1l2dTBQbjIycmtKTFdjQTVXYXlHRnQ4QWIzMUROeVl4Y09WakFTV1d2R1Y3ZFM1Sm5IZHdnSHB2Q3lteGFmLXpMUFoxNTNGV2dhdnpMYm1oQkREcXBZOTFfTm1vd0xRTXAzUUxhTEVKWWFXS0s2WjJ3NzBSN1kzRTVFTWpUdjA2TXBKNkJ0MWRMeFo2dFZIY2VJUFhtQU5aTXRKakg5X2wzMFRoRU1kZmMtcnI?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWDBkMWN0d1VfWndlbGlVRWhhcGx1OFY2Z1p2UWpQRE1HeE11OHN3b3dVMTl3TFB0Ml9vOVZfY1FKTHpjZHVHXzNqUUkwckV6Ym9Nckp3R2sycUp5VWF2Ukdldk8xUkhxSXBmbHozQ18xb3RxR0phb2Nfd0p2SXp2M2lJRld5eW1EYnNTUUFwbGp4NERvS0tGVFVFRzUxUmkzY3gwNU5Ib21sRWFrQzNzYjN3Qm8xd3RVQ1ZrYXRDcG9xVFoxel9VMUd5Wi1wMWFnVzF6WUNoRlNrdXV1Vm16TUw1RWpBb3M5M3JzN1dsSGVyM0dhUkUwUtIB_gFBVV95cUxNMWFieU1walB6X1pzeVZBX1RMblE5SnNwNmhEU0Q3UDg4YXdwSlphWmdoSnJBYkVpZG5RS2diSzV3YjZLYTI2VWRWMHlQcktOUGFlNFNobGtPSE1HNFpGNmRhem9ONmMyTV9jNzYzSXFiQ1FMaTdwS0hqS3hxbWVNVnRFbkkySDE2TlUydG1lMWp1eTZQcXotallvWF9BeXZzaVNSNlRnRlp3Y09sYXNySktFd0Z4NEFkdGtGOGI3WVNVTmxyWkNqOGhSQ0s5dzBvU25XUy1FVGltQ1NjdExid1FTeE9YLWFSUXVZc3U0X0lBa1hfaThvbEpHaFNEUQ?oc=5"
     },
     {
-      "id": "6a929125869a41ed2f66744c",
-      "title": "Modi Remains India’s Top Choice for Prime Minister, Survey Shows - Bloomberg.com",
-      "sourceName": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajdfbloyY0lHLTljN2xGZjlXbUNQb1BLTG1KaTQzQWRrTHRuaFBGMkt2M2QwTXc5Vml3UG4zOGo3eUM2c3QzOHVXZ0Y3UVdIQUxGclJxeHFMRzZlcVM2SXRRenJ5M01QQmx5c0xCYWNQOVR5cWdaWW5Nd0JPQmtfUEJUNzhHcklCRWFyQzhWTXFCLWdnOXRCVWJzR2pWNk8yWkNhV2hpODNhQ2hFNDFvdEtIUkI?oc=5"
+      "id": "6a92dc9c869a41ed2f6677be",
+      "title": "Cockroach Janta Party's Dipke flags expired food, faulty water filter at government school in Maharashtra’s Hingoli - Telegraph India",
+      "sourceName": "Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVEY3eTc4VU5wdDU1aHlhNXpMQ2VlU1c4NURLVm1RTzFCTmpoRzZfZ1pNTWFRTnViVDloLW1PX1NWVVV4X3lkSXVpaWhuSlllbk5FdGoySXpUR0lVUFFmcU5rdDJDQnYycU9QZTZqdkUwM1VfUlhKQjJZRmFjM19UY3Nzem9iRkQ3cDI4bXQtRlVqcmdYZlJ5TEtQSjBXS1prZ245cmx0STRlRWZWZnUtMHZUbGpRc2M4dmhxMklrNE1Kb0NJaTJlYTNUREV2VC1JQmpiQktCdDJBYTdKYTZxNlJuclVzRHNzMDdtMW1kaEpVUTjSAfgBQVVfeXFMTlQ5Vmw5UzFfRzhHNERSNHc3NWhrNWRHZUhMVlAyQWs3SUQ4QjlPREZfOHk5SVNCaWFkWDB1Ul9Ec2ZTdlBnWlhCczdTZW5QcXFrTXpFdTBQYms0akJGeU9hNDA4emJhT2owUVMtcGtoeFJRS1pzVzVXanZ0c3VPWEF4YmJEeGJwRU15Yy1KMW9TQjUzMFE3a2hzTmYwZFBUcExGem9UR1dIWXI2LV9iOEdOUVN5b1lWMGQ0c1VxOVFvM1V6WVdmSXVoUV9vUW4wMk1PM04wRkxRdFZuc2xBaVRlblc1aXpTeERORDd1M1R4T3dvVHV3OTI?oc=5"
+    },
+    {
+      "id": "6a92dc9a869a41ed2f6677bd",
+      "title": "CM DK Shivakumar directs officials to identify five cities for industrial development other than Bengaluru - ANI News",
+      "sourceName": "ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQXk3OXJfSDRKMzZpRXJHTHJMb2hqT2owMk1NZHE1VzRHQ0RVSlFMMnJsUHpuSG1uRUx5Z3FMcXp0ZU5iSG1vNkZSbGNhMWl1bHZRcUdob21CaDczNUhlMUdyblJXWEJTR0NkcFFORnZ0LTRhUjZhdm1uYmpHVFpnVUdKczUtYUNaR3NReW1KQnlibzhFcGxuQm5kOUdMcXZPVlFUenpxdkxLejZZYkVqZUh3Z0ZfQmQzbUdEZFhLcE56WVNpWjYxNlI5ODE1RFludlBnTUdiNjRqWkJDNUh1SVp2VWd0V0tZeTdUQUgxaUluR3lkTUF6VXkxTmlQQTg?oc=5"
+    },
+    {
+      "id": "6a92dc99869a41ed2f6677bc",
+      "title": "No scaling down Dasara festivities despite drought: Karnataka CM - The Hindu",
+      "sourceName": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQak9nWWU5ZkFEUF9ldk5UV0ZTRktHdUJ2blVrLTRYa1hnRDBJY2tuUEoxSVEzdzdLSG5feHE1VENSUUhmZENLZ1p4SllKa1Jyd2hxT3Fuc1ZoSHJRSWxkM2I0Tm5WRmw5QnN0RHpkR0t5Y05YbDc3b0pXdV9xNWJyRTE0cE53czZ3d3drcVhrVThEMzFvWWxsc1k3TlpHa0E4ekVkOERQSXo2UGpQUTdVTkVUeWRGZXQ2bkRfdTNwQTNUTXNrRjNkblJRQ1c0N0NvcGdsV0dJVGVnWmpIRWlIUHBKZFM2ei16QnBMbU5lVENmZGp1S1HSAfwBQVVfeXFMTzVaYTh0aHRrczAxMnF6RzRsTlBxelQxTmozOE5XdUY4eEFOQmxKVGJuZGsyQUpKTUM1ejY3QXllR1RobVFRekVHYk41bTdtX1RUQmx5dGpRVVlLZlFEa0RHS19vQUtnaUwwUHNEcVhQcjZ1bm5DdE94VjA5SlliSmV1aTc5bHo0N3R1ZzZOa05Bd1YtQlBkd3lpandzUjdCVE9sUk8yMlJNQzEyQXI0Mk1Id2lNS1BMenpsNGFhcUIzaEhiMTRFUm91QVM4T3FRWTAwRWlhUXpVdXk2akJUV1g5dENLRkZ4dy1zUGxxTms5bVN3TXRELXE3V3dH?oc=5"
+    },
+    {
+      "id": "6a92dc98869a41ed2f6677bb",
+      "title": "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda - The Times of India",
+      "sourceName": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUWtxSlJyWEZHaDhJUGZzeTREcGZFR3hxbmZETGRLUkJZbW9OOFFfeTUtVHYybnBzamtfMEdUcnpZMmt3anNvZTRYdmoxd0FPYklxQ2h0T1NqbDBVc2VrSmQ2Tk1sTlRFaHB6V05MektCVTB0Q3M3UXVRYWYwRHlaeFpVU1JrX1NueE5qM3JDRG1nTEtwUE1wdkVwN090M3JxWnlFWHlDV3ZDVUtNNjZwdjNvc2Q3bkVhSFJuRUdYRXRpV09XajlmMUhEMWlPbDZZUllGM3RMT0xMdGxDblV3Z3RBRU7SAeoBQVVfeXFMTVFHbi10V1lDV05XanY5UjlIYlhWSnpvREg4aW1URDREQXZBS1drMUpXY1dQekFENmFpZnhaOXczcmt2emJxNmdtUWx5dlNsLVliNjdSV0FTTVFPUDIxV01scFE4bmhIRURINm9zal9WTm9lVDV5SGpDUjM2TlJILVZTazVGUmdpRTB0ZnpnNVNXODY1U2t6cEx1NHRjMUlMQ1Vzb0ZZT0tUeXVyNmhLZVJqVDg0eUduV04xM0lhQm9FM1RkOFhHakxwalBGWk02MlR3TlgydDduVVh6VTBaTEs3MWNmWlptWlh3?oc=5"
+    },
+    {
+      "id": "6a92dc98869a41ed2f6677ba",
+      "title": "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand - The Hindu",
+      "sourceName": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1dsMDBIeGI1RzNCTV9WSEZiS3J1UWNqSGxCRkxpN2NaVXdRdlpSdzdTVUU3dGpkY0JEQl8wSGlac1Jad19IcU41cTVwNkJIc05MSTMzY2F4aF9BRXdDeHdScl8tVVpzQTlxUXhCN3ktOHVZdHZ4Y0lMS2s1cXBQUXZiTjlIQkFvTmpWWm9KTGhDSll4cWF4cXNaeWlfM1Z1V2t2aE1jbkJGcmxSa2l4MkJlU19GUngyQkR5dHlPS3F1QU5KUmxFeXZMWDRwQdIB1AFBVV95cUxONGJRbEMxLUZVVkxVWUJPSHRLamduRFNxV3F1RFRxZEVxdFZqbmhYTVlTQ2thcHM5X1JmbXJpMTV2NUluaVZKMmt5WTgyS0NWYTJzbHdCZjY5eGNRVzdJNHBreWMzeGRHZS05MmdjUkNVRUE0cVlzOWxzUVFicEotMy1SNW1Fdkd6cXpsT0lieGNrZzV3SGxGQXU3QzA5Rm9kQWU2cm5HSjllU0ZzbVJJTmRUVEgwVDVjMjF6THdfT1hBb2tFbzQtUlUtSUt5Y0pqVEdPag?oc=5"
+    },
+    {
+      "id": "6a92dc98869a41ed2f6677b9",
+      "title": "It’s a crime, PM Modi must order filing of FIR: Rahul on Kharge ‘purification’ row - ThePrint",
+      "sourceName": "ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzVVNkQ3S3hjRU9FTzF0Z1BkN0tuYVZZdHYyZWhSYWZtRVRrSXFLcUEzU1E3Mm1BM3R3Q09UTlJJamN6ZTE3V2RrRkNvaTNCSTlZc2ZsT1RFUEwwdUtMRkM2eGxWNUxOUlhDMTk2anZ1VEVqcEk2MU5ISXBKUkJ3WWhtYTZiLUZUUUN0bTBoY1pZMW5aVlZZZXl6ZVZkZzBYNHRjMW4wd3NmQ3VmdEdqRk130gG3AUFVX3lxTE1uSFNXYVZNWmVxaEVZU1l1dkxlMHAwV183aVcxWENPWllpT280SnBaUThZNjhMN1lydFJhMzFtbHh5R2dYamNYQ3hVeXBlMzRhNE5SN2ZLTXFvZ01pbVoxUk9qa2NnUHN3S1JIMDk4YS1GZGJSNURuMUd4QmVUZThUVldHQ1FMNm16dUt2WWVRSmVJT29jaGtpUkExa0pEZEthbTNlaXctam5KRHp6bXZzUl9TaW5Rdw?oc=5"
     }
   ]
 }
