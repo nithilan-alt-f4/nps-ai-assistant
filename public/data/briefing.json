@@ -1,13 +1,13 @@
 {
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T13:20:36.627Z",
+  "generatedAt": "2026-08-29T21:05:57.238Z",
   "stats": {
-    "newToday": 49,
+    "newToday": 58,
     "assignments": 15,
     "emails": 5,
     "news": 8
   },
-  "narrative": "Good morning! It’s **23C** with a **90%** chance of rain, so please bring your **umbrella** and wear waterproof shoes. You have multiple notifications for your **CS Project Synopsis**, so prioritize submitting that today to avoid last-minute stress. For context, check [[News: CM DK Shivakumar directs officials to identify five cities for industrial development other than Bengaluru - ANI News (ANI News)]] regarding local development. Stay focused and keep a positive attitude as you wrap up your project!",
+  "narrative": "Good morning! It’s **20°C** with a **96%** chance of rain, so please pack your **umbrella** and wear **waterproof shoes** for the commute. You have **three** CS project submissions due, so focus on finalizing your **synopsis** today. A **GitHub** notification indicates a sync failure for your **NPS AI Assistant**; check the logs to fix the **run** before it impacts your grade. [[News: Plan to develop 5 cities in state on par with Bengaluru: CM - The Times of India]]",
   "assignments": [
     {
       "id": "6a92dc71869a41ed2f6677b6",
@@ -214,52 +214,52 @@
   ],
   "news": [
     {
-      "id": "6a92dc9d869a41ed2f6677c0",
-      "title": "Expired food packets found at govt school in Maharashtra, claims CJP’s Dipke - ThePrint",
-      "sourceName": "ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdW1ZUlMxRFpiaHdVZXMzMTd5UGw4QWFBYXJlWk5OYnZiYnd0ekJDWXRUbTZqZ0dFRjBmbmpqcWQ4VEdHdmpuZzBnWnpCMVpGMnFSTlZEVU1kc0hQdTZsSUxVaE9rVGx4VGtaMGhsSGFBYjd6bVNrUW1wQUdSVGkwZklmR2syQ1NaWm9yTDJCM1AzWm83amIxTHRuVXJmNm84aUF0ek5sdl9PVFFBUXfSAbMBQVVfeXFMTXNSZ3ZfUEc1Um15NzJfbkdQYVg4VkZjejJzMXVGeUprczg3R1l3NHltbS15WXc5ZDU5blRXeHBhc3ZUdU5ZX1JEQWo5UnRTMmVxaUlySVNrOEl2M19iNUxfZ2JQWF9lalY0NWJMMWdDb2dvaFZhZHgxZzdTczVZZUowUldINi1aRzA0RXJGQ1VGSFpsYW9UVjhFUzFuWGl5aFBoeU56cm1HVlZfNVBOZ3JQNzQ?oc=5"
-    },
-    {
-      "id": "6a92dc9c869a41ed2f6677bf",
-      "title": "‘Do ministers feed their own children expired food?’ Abhijeet Dipke during ‘School Thik Karo’ campaign - The Times of India",
-      "sourceName": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWDBkMWN0d1VfWndlbGlVRWhhcGx1OFY2Z1p2UWpQRE1HeE11OHN3b3dVMTl3TFB0Ml9vOVZfY1FKTHpjZHVHXzNqUUkwckV6Ym9Nckp3R2sycUp5VWF2Ukdldk8xUkhxSXBmbHozQ18xb3RxR0phb2Nfd0p2SXp2M2lJRld5eW1EYnNTUUFwbGp4NERvS0tGVFVFRzUxUmkzY3gwNU5Ib21sRWFrQzNzYjN3Qm8xd3RVQ1ZrYXRDcG9xVFoxel9VMUd5Wi1wMWFnVzF6WUNoRlNrdXV1Vm16TUw1RWpBb3M5M3JzN1dsSGVyM0dhUkUwUtIB_gFBVV95cUxNMWFieU1walB6X1pzeVZBX1RMblE5SnNwNmhEU0Q3UDg4YXdwSlphWmdoSnJBYkVpZG5RS2diSzV3YjZLYTI2VWRWMHlQcktOUGFlNFNobGtPSE1HNFpGNmRhem9ONmMyTV9jNzYzSXFiQ1FMaTdwS0hqS3hxbWVNVnRFbkkySDE2TlUydG1lMWp1eTZQcXotallvWF9BeXZzaVNSNlRnRlp3Y09sYXNySktFd0Z4NEFkdGtGOGI3WVNVTmxyWkNqOGhSQ0s5dzBvU25XUy1FVGltQ1NjdExid1FTeE9YLWFSUXVZc3U0X0lBa1hfaThvbEpHaFNEUQ?oc=5"
-    },
-    {
-      "id": "6a92dc9c869a41ed2f6677be",
-      "title": "Cockroach Janta Party's Dipke flags expired food, faulty water filter at government school in Maharashtra’s Hingoli - Telegraph India",
-      "sourceName": "Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVEY3eTc4VU5wdDU1aHlhNXpMQ2VlU1c4NURLVm1RTzFCTmpoRzZfZ1pNTWFRTnViVDloLW1PX1NWVVV4X3lkSXVpaWhuSlllbk5FdGoySXpUR0lVUFFmcU5rdDJDQnYycU9QZTZqdkUwM1VfUlhKQjJZRmFjM19UY3Nzem9iRkQ3cDI4bXQtRlVqcmdYZlJ5TEtQSjBXS1prZ245cmx0STRlRWZWZnUtMHZUbGpRc2M4dmhxMklrNE1Kb0NJaTJlYTNUREV2VC1JQmpiQktCdDJBYTdKYTZxNlJuclVzRHNzMDdtMW1kaEpVUTjSAfgBQVVfeXFMTlQ5Vmw5UzFfRzhHNERSNHc3NWhrNWRHZUhMVlAyQWs3SUQ4QjlPREZfOHk5SVNCaWFkWDB1Ul9Ec2ZTdlBnWlhCczdTZW5QcXFrTXpFdTBQYms0akJGeU9hNDA4emJhT2owUVMtcGtoeFJRS1pzVzVXanZ0c3VPWEF4YmJEeGJwRU15Yy1KMW9TQjUzMFE3a2hzTmYwZFBUcExGem9UR1dIWXI2LV9iOEdOUVN5b1lWMGQ0c1VxOVFvM1V6WVdmSXVoUV9vUW4wMk1PM04wRkxRdFZuc2xBaVRlblc1aXpTeERORDd1M1R4T3dvVHV3OTI?oc=5"
-    },
-    {
-      "id": "6a92dc9a869a41ed2f6677bd",
-      "title": "CM DK Shivakumar directs officials to identify five cities for industrial development other than Bengaluru - ANI News",
-      "sourceName": "ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQXk3OXJfSDRKMzZpRXJHTHJMb2hqT2owMk1NZHE1VzRHQ0RVSlFMMnJsUHpuSG1uRUx5Z3FMcXp0ZU5iSG1vNkZSbGNhMWl1bHZRcUdob21CaDczNUhlMUdyblJXWEJTR0NkcFFORnZ0LTRhUjZhdm1uYmpHVFpnVUdKczUtYUNaR3NReW1KQnlibzhFcGxuQm5kOUdMcXZPVlFUenpxdkxLejZZYkVqZUh3Z0ZfQmQzbUdEZFhLcE56WVNpWjYxNlI5ODE1RFludlBnTUdiNjRqWkJDNUh1SVp2VWd0V0tZeTdUQUgxaUluR3lkTUF6VXkxTmlQQTg?oc=5"
-    },
-    {
-      "id": "6a92dc99869a41ed2f6677bc",
-      "title": "No scaling down Dasara festivities despite drought: Karnataka CM - The Hindu",
+      "id": "6a9349ac869a41ed2f667ae5",
+      "title": "No material to prove Thaman was paid ₹10 lakh to compose TVK song, Vijay tells Madras High Court - The Hindu",
       "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQak9nWWU5ZkFEUF9ldk5UV0ZTRktHdUJ2blVrLTRYa1hnRDBJY2tuUEoxSVEzdzdLSG5feHE1VENSUUhmZENLZ1p4SllKa1Jyd2hxT3Fuc1ZoSHJRSWxkM2I0Tm5WRmw5QnN0RHpkR0t5Y05YbDc3b0pXdV9xNWJyRTE0cE53czZ3d3drcVhrVThEMzFvWWxsc1k3TlpHa0E4ekVkOERQSXo2UGpQUTdVTkVUeWRGZXQ2bkRfdTNwQTNUTXNrRjNkblJRQ1c0N0NvcGdsV0dJVGVnWmpIRWlIUHBKZFM2ei16QnBMbU5lVENmZGp1S1HSAfwBQVVfeXFMTzVaYTh0aHRrczAxMnF6RzRsTlBxelQxTmozOE5XdUY4eEFOQmxKVGJuZGsyQUpKTUM1ejY3QXllR1RobVFRekVHYk41bTdtX1RUQmx5dGpRVVlLZlFEa0RHS19vQUtnaUwwUHNEcVhQcjZ1bm5DdE94VjA5SlliSmV1aTc5bHo0N3R1ZzZOa05Bd1YtQlBkd3lpandzUjdCVE9sUk8yMlJNQzEyQXI0Mk1Id2lNS1BMenpsNGFhcUIzaEhiMTRFUm91QVM4T3FRWTAwRWlhUXpVdXk2akJUV1g5dENLRkZ4dy1zUGxxTms5bVN3TXRELXE3V3dH?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUUtscXNFVTJKQTFTRElHSWxKSHZFbVJtSHlhUmd5YVh1MG85VjJ5VEtrRjUwOGc0dHAwWmZlUjNnSHJnMk9jS0EzeUZPWHNEQlFWREJyUk1KNVdDaWlaS0R4S2Rkd3J3QlVnNDZNLTRVR1ROOHl3bmlHbGdtVEdVMFN2ZGhVeE4wM1NXU0Q0NFY3RnFQcVRzRFV3eXhJa0ZKcjhGTmdmcTg4bG14YjllRmQwSHBjb1BzdnBma29tYVotUm5MXzkxZ1pjT1ZQTlZ6RHBud0lkRk1VaWpfUjNuNHczeFg3ajYxWDNkbmt1S0UxV2pjYzNj?oc=5"
     },
     {
-      "id": "6a92dc98869a41ed2f6677bb",
-      "title": "PM Modi begins four-day Uzbekistan, Kyrgyzstan visit for SCO summit; what's on agenda - The Times of India",
+      "id": "6a9349ab869a41ed2f667ae4",
+      "title": "Identify five cities beyond Bengaluru for industrial growth: CM Shivakumar to officials - The New Indian Express",
+      "sourceName": "The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU1VfdGpfNG5ldjBLc3drQUVlSzFjX2lhQ0NTVnBLZkI1eGRHUWdKSXZmWmpKT0RDakFISWRTWW1WQm1vZlJVZDZGeUhqOU9kRWhKZk1Jenk4QmJFSzgzdWo5OWJGV1RaZnRHMTBKNDd1YW8zMklMNkxGMUpiYjNsUk5wdjhnMHZQOVRaU3lpOURmdy1TTldYaTd1NnQyN3JqT2Mwd3lyVmtTQ1Q1ak1BTDF4dTdESElGQTBkSk9EQVM1eXZxTW5oaTlWemdlN0RXbEhzdnNzeTJrc0Q3YXlYZl930gHvAUFVX3lxTE1zTlQ0bVBlTDUtYXByMG5YbVk0SGxvNjJWMkpZUEY3a001QWlnUjdhZUxoVF80Zl8zMmdsTnVHbDBPc2dZNEFkcHVwVE9FU2UxeE1PSl9SbTZiQjJDeVVkcWJzQ1o2SXM1eE9oZjg2MWFlZUExaG5PRzFBanN3ZFRpUDJVYlFaVkV5cFotR1BPdjlxOTNaeFZQMS15ZnFMMGFScUloQzYyMmprX3FIUHJyYmlxV1BydEFNZmQzU1pEbzBCeS1LMnpSNFZxRHcyNEpzYzQtRkt1Vm94SDRUTWNhRTl6WmU5YmZTTjdUMDRj?oc=5"
+    },
+    {
+      "id": "6a9349ab869a41ed2f667ae3",
+      "title": "Plan to develop 5 cities in state on par with Bengaluru: CM - The Times of India",
       "sourceName": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUWtxSlJyWEZHaDhJUGZzeTREcGZFR3hxbmZETGRLUkJZbW9OOFFfeTUtVHYybnBzamtfMEdUcnpZMmt3anNvZTRYdmoxd0FPYklxQ2h0T1NqbDBVc2VrSmQ2Tk1sTlRFaHB6V05MektCVTB0Q3M3UXVRYWYwRHlaeFpVU1JrX1NueE5qM3JDRG1nTEtwUE1wdkVwN090M3JxWnlFWHlDV3ZDVUtNNjZwdjNvc2Q3bkVhSFJuRUdYRXRpV09XajlmMUhEMWlPbDZZUllGM3RMT0xMdGxDblV3Z3RBRU7SAeoBQVVfeXFMTVFHbi10V1lDV05XanY5UjlIYlhWSnpvREg4aW1URDREQXZBS1drMUpXY1dQekFENmFpZnhaOXczcmt2emJxNmdtUWx5dlNsLVliNjdSV0FTTVFPUDIxV01scFE4bmhIRURINm9zal9WTm9lVDV5SGpDUjM2TlJILVZTazVGUmdpRTB0ZnpnNVNXODY1U2t6cEx1NHRjMUlMQ1Vzb0ZZT0tUeXVyNmhLZVJqVDg0eUduV04xM0lhQm9FM1RkOFhHakxwalBGWk02MlR3TlgydDduVVh6VTBaTEs3MWNmWlptWlh3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDByNUZGRnhQVXlSVFhlTU50RzlNWlFub1ZiM3VvU25HMzRNWjQxdWFSaTBxcDNsZnpXeUd5Wkp2c1NyamJVYVpfUWpxY2ExMXpmbnpUcVhwUVFLX1paN3VPWXpsbFJEMGl0Si04dmxTV3BUajdzTHZFQjM3V2pMNzE5YnVEY25PekVPLWlNaDFJR2UtSVphX2VUb0pHa2ZtLV81UXZJYWpWUFBoV3JKODViMlVlbkFieFExR1BrbjI5UlVQZEJRal92bU_SAdIBQVVfeXFMTVVqUTRWamxyT25KZW5udEdMQU1iaEpaajM1czRPMEhlUUhDMG9rbEU4LXh1cjRDem1LRkhwXzVRb0lCNy0xeTdhQkFnNlpCa3I3Y1pBekhlOTFtcVZhSERzMnZ0SC1EdW9LZWtrMFo5TWtncklvZWF4ZmRLcTFybThJbnlheUJuWnJGWmJDTmRRNF9FMEJManBvT3RvNGFHY1A2eWZybGxtWWQyY29Iem1NcmIwLXN1aWVYQ3dVOHJ4cnJ1M1Z0MUpaV3NtYTd0am9B?oc=5"
     },
     {
-      "id": "6a92dc98869a41ed2f6677ba",
-      "title": "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand - The Hindu",
+      "id": "6a9349aa869a41ed2f667ae2",
+      "title": "India news: Modi, Putin to hold talks in SCO summit - DW.com",
+      "sourceName": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQVJtMXE0V0RLQV9oT0VEaTB2RVplcTRabk5wUTRVWEZDbHphLThNWWFxZTg3SS14MnlPZDEtNERvWDdWS0kzV1duUzI3WGRZSUg1WFFzdXBfT0lIUlBvTzNFbkR3UG9pRGZlc3pPek5OU3NmanpuRm5qTmJpSk9aT29ZSTJGS0E2RnNIa1Q3ZnRZTFVkbW1hVVMyZw?oc=5"
+    },
+    {
+      "id": "6a9349a9869a41ed2f667ae1",
+      "title": "PM Narendra Modi speaks to Nepal PM Balen, offers all assistance, India airlifts relief material - The Indian Express",
+      "sourceName": "The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYjRhT2RtbzRTRUJaZzdDOEN0NEdKS1JUSk1FZFVLcGI4YzNtNlR6cEptZ0ozdGx1ZW5PellzanBHOTRieU01dUYzaUN5RVBvM1V5dG43Z1FJM2ZPZ01PejdhbTYzaFgxaEc5bml2bW05WjlaRmFBNlUweXZZSTh3SnBCeG1XNXZ3TEdjZmtiMHZMaDVzUU1QbTFhcUhuRDFLWk43blNIUU02U2tXSWNXVlNYRkhkLXMwX1ZUdEYwU0tjY2gxZXdqcVhkbkFSZGxISXpxZmtacHZuVDE0R3fSAeQBQVVfeXFMUDVmbElfSUxJLWNuenpTQjlaRlg0U1hEb245cDBHa240cy0xZXJNbjdFZFdPazlfdEZjMXJfR2hLa0Nram5fd2g3UlpfVjlReG9UV0tDeHowWVctMEFWN3pOaGhLRV91ZENTMHJ3Z2JHR203NVhtNnMxajNZd2pBekJmdnFSWEc1Wlp5N1V2QXlUbXV3MkVHeHJEb2hBSHEtSDNPRXVYQUxZeHRaN0htQVppREQ3SkpwRkpBcXNRQ25lMzNITUkzWGlnZ2FUdW1rQ3JPWERfMTBCOTdIWjFFV3lldGNE?oc=5"
+    },
+    {
+      "id": "6a9349a9869a41ed2f667ae0",
+      "title": "After Nepal flash floods, Sikkim group urges PM Modi to halt hydropower projects - The Hindu",
       "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1dsMDBIeGI1RzNCTV9WSEZiS3J1UWNqSGxCRkxpN2NaVXdRdlpSdzdTVUU3dGpkY0JEQl8wSGlac1Jad19IcU41cTVwNkJIc05MSTMzY2F4aF9BRXdDeHdScl8tVVpzQTlxUXhCN3ktOHVZdHZ4Y0lMS2s1cXBQUXZiTjlIQkFvTmpWWm9KTGhDSll4cWF4cXNaeWlfM1Z1V2t2aE1jbkJGcmxSa2l4MkJlU19GUngyQkR5dHlPS3F1QU5KUmxFeXZMWDRwQdIB1AFBVV95cUxONGJRbEMxLUZVVkxVWUJPSHRLamduRFNxV3F1RFRxZEVxdFZqbmhYTVlTQ2thcHM5X1JmbXJpMTV2NUluaVZKMmt5WTgyS0NWYTJzbHdCZjY5eGNRVzdJNHBreWMzeGRHZS05MmdjUkNVRUE0cVlzOWxzUVFicEotMy1SNW1Fdkd6cXpsT0lieGNrZzV3SGxGQXU3QzA5Rm9kQWU2cm5HSjllU0ZzbVJJTmRUVEgwVDVjMjF6THdfT1hBb2tFbzQtUlUtSUt5Y0pqVEdPag?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR3JpeW9vMHI4YzNwZ3ZvTTUwNmlMdHgwVkpoVjBOOUV6Q1Vxa3FPVGh3a1hnb29xSDB4aWEwNk5wSkdoMGIzZDk5ZkVjUG1lMWVoc1p3bUVHT3kxZUFWZlk0Z29NMnk1anF0V2h2aUpoZHFwWWlmSDZWbnQ0WFZRTXltb2JoNTdUd0UyUGZoSG5FVGEtRjE4bmtPNzNnc0tHbFp1OVRhdlhjS25LeVdvSVdrRG1Sd3VFOTlPNXFnWDQzandiV2NSMTcwNm10Znh1bWxpVmRDVU9nOUJPWnfSAeQBQVVfeXFMT2dPVjgyaUNsZGdGNFpBR3pmZ0FvYm5rS0NqaWg1RDZBSXktRHpJTFN5NTA3VkJMQkpuRk1LeU9zWHhzQm5Jdzc0LXRXTy1kUVZ1X1JzdXU5QnpQX0pfQ01RRFJMcU1tbWZRekpfaml2bm1tNEtwcVp3eU5RRFM2MmhpM0J4dW9RcUoxdWFVbTl4NkNEb1lwck1lUVRzZjh3UnJrTk9TT29MNmxGOUMxRTB5emJtVHlJZnFnOUxzYlNkaHlGNjMxZFFKbEgzTXdLa2RDUll0ZkNldmpwdm5iLWlpamN3?oc=5"
     },
     {
-      "id": "6a92dc98869a41ed2f6677b9",
-      "title": "It’s a crime, PM Modi must order filing of FIR: Rahul on Kharge ‘purification’ row - ThePrint",
-      "sourceName": "ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzVVNkQ3S3hjRU9FTzF0Z1BkN0tuYVZZdHYyZWhSYWZtRVRrSXFLcUEzU1E3Mm1BM3R3Q09UTlJJamN6ZTE3V2RrRkNvaTNCSTlZc2ZsT1RFUEwwdUtMRkM2eGxWNUxOUlhDMTk2anZ1VEVqcEk2MU5ISXBKUkJ3WWhtYTZiLUZUUUN0bTBoY1pZMW5aVlZZZXl6ZVZkZzBYNHRjMW4wd3NmQ3VmdEdqRk130gG3AUFVX3lxTE1uSFNXYVZNWmVxaEVZU1l1dkxlMHAwV183aVcxWENPWllpT280SnBaUThZNjhMN1lydFJhMzFtbHh5R2dYamNYQ3hVeXBlMzRhNE5SN2ZLTXFvZ01pbVoxUk9qa2NnUHN3S1JIMDk4YS1GZGJSNURuMUd4QmVUZThUVldHQ1FMNm16dUt2WWVRSmVJT29jaGtpUkExa0pEZEthbTNlaXctam5KRHp6bXZzUl9TaW5Rdw?oc=5"
+      "id": "6a9349a9869a41ed2f667adf",
+      "title": "\"Exceptionally Generous\": Nepal On PM Modi, India's Efforts During Crisis - NDTV",
+      "sourceName": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5"
+    },
+    {
+      "id": "6a9349a8869a41ed2f667ade",
+      "title": "Modi Is Hedging Against Trump, One Deal at a Time - The New York Times",
+      "sourceName": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGNHFZMTVQbGo0TW1ybUdoT0ZTb19VQUtJQUxvcUwtWnl5ZWlwX2JidzM5VGFCcGpVS0JRNkp0b0txSURjMFd0Ynk4UGN0a3hYZ1lWV09EUzdhdXZ4UDRmb0VXUk5QMnlTMnNPTlNPbVlRUnVKc3J3Y0hlUzV4QQ?oc=5"
     }
   ]
 }
