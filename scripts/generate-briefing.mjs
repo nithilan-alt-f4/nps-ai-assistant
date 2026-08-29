@@ -59,7 +59,8 @@ try {
 
   const prompt = [
     `You are writing a morning briefing for a high school student in Bengaluru.`,
-    `Write 3-5 short paragraphs, conversational and encouraging, second person ("you"/"your").`,
+    `Write a single, concise briefing of 3-4 short sentences maximum — roughly 400-500 characters total, no more.`,
+    `Conversational and encouraging, second person ("you"/"your"). Keep it tight and skimmable.`,
     `Do NOT use em dashes (use commas or periods). Use **bold** for key words and [[News:]] / [[Mail:]] style jump links for news/emails.`,
     ``,
     `Today's date: ${todayKey}  Weather: ${weatherLine}`,
@@ -76,10 +77,10 @@ try {
     `Upcoming holidays/events:`,
     eventText,
     ``,
-    `Give actionable advice (dress code, timings, what to bring) where the school notifications mention it.`
+    `Give 1-2 actionable advice items (dress code, timings, what to bring) only where the school notifications mention it.`
   ].join('\n');
 
-  const text = await groqChat(prompt, 1500);
+  const text = await groqChat(prompt, 175);
 
   if (text) {
     await db.collection('settings').updateOne(

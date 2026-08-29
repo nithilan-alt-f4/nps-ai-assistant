@@ -28,7 +28,12 @@ async function fetchCalendarEvents() {
   const cal = google.calendar({ version: 'v3', auth: oauth });
 
   const now = new Date();
-  const rangeEnd = new Date(now.getFullYear(), now.getMonth() + 2, 0, 23, 59, 59);
+  // Range: today to end of this month; if in the last week of the month, extend through next month too.
+  const monthEnd = new Date(now.getFullYear(), now.getMonth() + 1, 0, 23, 59, 59);
+  const lastWeekStart = new Date(monthEnd.getTime() - 7 * 24 * 60 * 60 * 1000);
+  const rangeEnd = now >= lastWeekStart
+    ? new Date(now.getFullYear(), now.getMonth() + 2, 0, 23, 59, 59)
+    : monthEnd;
 
   try {
     // School calendar
