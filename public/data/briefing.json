@@ -1,13 +1,13 @@
 {
-  "date": "2026-08-29",
-  "generatedAt": "2026-08-29T21:05:57.238Z",
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T06:54:32.777Z",
   "stats": {
-    "newToday": 58,
+    "newToday": 26,
     "assignments": 15,
     "emails": 5,
     "news": 8
   },
-  "narrative": "Good morning! It’s **20°C** with a **96%** chance of rain, so please pack your **umbrella** and wear **waterproof shoes** for the commute. You have **three** CS project submissions due, so focus on finalizing your **synopsis** today. A **GitHub** notification indicates a sync failure for your **NPS AI Assistant**; check the logs to fix the **run** before it impacts your grade. [[News: Plan to develop 5 cities in state on par with Bengaluru: CM - The Times of India]]",
+  "narrative": "Good morning! It’s 27°C with a **76% rain chance**, so definitely grab your **umbrella** and wear quick-dry clothes for school. You might want to grab that **25% off your first bus ticket** from [[Mail: 25% off your first bus ticket - book today!]] to save on your commute. Aside from that, your recent [[Mail: Your payment of ₹280.00 is successful]] looks good, so you’re all set. Stay dry and have a great day!",
   "assignments": [
     {
       "id": "6a92dc71869a41ed2f6677b6",
@@ -182,84 +182,84 @@
   ],
   "emails": [
     {
-      "id": "6a92dc8f81bdac417e2af154",
-      "title": "Rush Now! 🏃Fashion for Home Sale Ends Tomorrow! 🛋️ ⏰",
-      "from": "Pepperfry <hello@mails.pepperfry.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a04ca6448a8957c"
-    },
-    {
-      "id": "6a91feef16e3238547fd592d",
-      "title": "[nithilan-alt-f4/nps-ai-assistant] Run failed: Sync NPS Briefing Data - main (daf55d1)",
-      "from": "Nithilan Manivannan <notifications@github.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a04a485adae0249"
-    },
-    {
-      "id": "6a91fdd96cf1076a03b597a6",
-      "title": "Send anything from 5kg to 100kg",
+      "id": "6a93d3957e7cc931d28f9ed2",
+      "title": "25% off your first bus ticket - book today!",
       "from": "Uber <uber@uber.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a041a07031ba43f"
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a0507dc98dadb23"
     },
     {
-      "id": "6a91fdd86cf1076a03b597a5",
-      "title": "Celebrating one million nonprofits with you 💙",
-      "from": "Canva <marketing@engage.canva.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a041cb73abd595f"
+      "id": "6a93d3947e7cc931d28f9ed1",
+      "title": "Your payment of ₹280.00 is successful",
+      "from": "FamApp <no-reply@famapp.in>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a050cb37f2641e5"
     },
     {
-      "id": "6a91fdd86cf1076a03b597a4",
-      "title": "✨ Give Your Home the Fashion Upgrade It Deserves! 🛍️",
-      "from": "Pepperfry <hello@mails.pepperfry.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a0424c0e961241b"
+      "id": "6a93d3937e7cc931d28f9ed0",
+      "title": "Your Sunday morning trip with Uber",
+      "from": "Uber Receipts <noreply@uber.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a050cbb3f78f591"
+    },
+    {
+      "id": "6a93d3937e7cc931d28f9ecf",
+      "title": "Your Sunday morning trip with Uber",
+      "from": "Uber Receipts <noreply@uber.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a050dd654dc4628"
+    },
+    {
+      "id": "6a93d3927e7cc931d28f9ece",
+      "title": "You received ₹400.0 in your FamX account",
+      "from": "FamApp <no-reply@famapp.in>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a050e6bfa8066b0"
     }
   ],
   "news": [
     {
-      "id": "6a9349ac869a41ed2f667ae5",
-      "title": "No material to prove Thaman was paid ₹10 lakh to compose TVK song, Vijay tells Madras High Court - The Hindu",
-      "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUUtscXNFVTJKQTFTRElHSWxKSHZFbVJtSHlhUmd5YVh1MG85VjJ5VEtrRjUwOGc0dHAwWmZlUjNnSHJnMk9jS0EzeUZPWHNEQlFWREJyUk1KNVdDaWlaS0R4S2Rkd3J3QlVnNDZNLTRVR1ROOHl3bmlHbGdtVEdVMFN2ZGhVeE4wM1NXU0Q0NFY3RnFQcVRzRFV3eXhJa0ZKcjhGTmdmcTg4bG14YjllRmQwSHBjb1BzdnBma29tYVotUm5MXzkxZ1pjT1ZQTlZ6RHBud0lkRk1VaWpfUjNuNHczeFg3ajYxWDNkbmt1S0UxV2pjYzNj?oc=5"
-    },
-    {
-      "id": "6a9349ab869a41ed2f667ae4",
-      "title": "Identify five cities beyond Bengaluru for industrial growth: CM Shivakumar to officials - The New Indian Express",
-      "sourceName": "The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU1VfdGpfNG5ldjBLc3drQUVlSzFjX2lhQ0NTVnBLZkI1eGRHUWdKSXZmWmpKT0RDakFISWRTWW1WQm1vZlJVZDZGeUhqOU9kRWhKZk1Jenk4QmJFSzgzdWo5OWJGV1RaZnRHMTBKNDd1YW8zMklMNkxGMUpiYjNsUk5wdjhnMHZQOVRaU3lpOURmdy1TTldYaTd1NnQyN3JqT2Mwd3lyVmtTQ1Q1ak1BTDF4dTdESElGQTBkSk9EQVM1eXZxTW5oaTlWemdlN0RXbEhzdnNzeTJrc0Q3YXlYZl930gHvAUFVX3lxTE1zTlQ0bVBlTDUtYXByMG5YbVk0SGxvNjJWMkpZUEY3a001QWlnUjdhZUxoVF80Zl8zMmdsTnVHbDBPc2dZNEFkcHVwVE9FU2UxeE1PSl9SbTZiQjJDeVVkcWJzQ1o2SXM1eE9oZjg2MWFlZUExaG5PRzFBanN3ZFRpUDJVYlFaVkV5cFotR1BPdjlxOTNaeFZQMS15ZnFMMGFScUloQzYyMmprX3FIUHJyYmlxV1BydEFNZmQzU1pEbzBCeS1LMnpSNFZxRHcyNEpzYzQtRkt1Vm94SDRUTWNhRTl6WmU5YmZTTjdUMDRj?oc=5"
-    },
-    {
-      "id": "6a9349ab869a41ed2f667ae3",
-      "title": "Plan to develop 5 cities in state on par with Bengaluru: CM - The Times of India",
-      "sourceName": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDByNUZGRnhQVXlSVFhlTU50RzlNWlFub1ZiM3VvU25HMzRNWjQxdWFSaTBxcDNsZnpXeUd5Wkp2c1NyamJVYVpfUWpxY2ExMXpmbnpUcVhwUVFLX1paN3VPWXpsbFJEMGl0Si04dmxTV3BUajdzTHZFQjM3V2pMNzE5YnVEY25PekVPLWlNaDFJR2UtSVphX2VUb0pHa2ZtLV81UXZJYWpWUFBoV3JKODViMlVlbkFieFExR1BrbjI5UlVQZEJRal92bU_SAdIBQVVfeXFMTVVqUTRWamxyT25KZW5udEdMQU1iaEpaajM1czRPMEhlUUhDMG9rbEU4LXh1cjRDem1LRkhwXzVRb0lCNy0xeTdhQkFnNlpCa3I3Y1pBekhlOTFtcVZhSERzMnZ0SC1EdW9LZWtrMFo5TWtncklvZWF4ZmRLcTFybThJbnlheUJuWnJGWmJDTmRRNF9FMEJManBvT3RvNGFHY1A2eWZybGxtWWQyY29Iem1NcmIwLXN1aWVYQ3dVOHJ4cnJ1M1Z0MUpaV3NtYTd0am9B?oc=5"
-    },
-    {
-      "id": "6a9349aa869a41ed2f667ae2",
-      "title": "India news: Modi, Putin to hold talks in SCO summit - DW.com",
-      "sourceName": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQVJtMXE0V0RLQV9oT0VEaTB2RVplcTRabk5wUTRVWEZDbHphLThNWWFxZTg3SS14MnlPZDEtNERvWDdWS0kzV1duUzI3WGRZSUg1WFFzdXBfT0lIUlBvTzNFbkR3UG9pRGZlc3pPek5OU3NmanpuRm5qTmJpSk9aT29ZSTJGS0E2RnNIa1Q3ZnRZTFVkbW1hVVMyZw?oc=5"
-    },
-    {
-      "id": "6a9349a9869a41ed2f667ae1",
-      "title": "PM Narendra Modi speaks to Nepal PM Balen, offers all assistance, India airlifts relief material - The Indian Express",
-      "sourceName": "The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYjRhT2RtbzRTRUJaZzdDOEN0NEdKS1JUSk1FZFVLcGI4YzNtNlR6cEptZ0ozdGx1ZW5PellzanBHOTRieU01dUYzaUN5RVBvM1V5dG43Z1FJM2ZPZ01PejdhbTYzaFgxaEc5bml2bW05WjlaRmFBNlUweXZZSTh3SnBCeG1XNXZ3TEdjZmtiMHZMaDVzUU1QbTFhcUhuRDFLWk43blNIUU02U2tXSWNXVlNYRkhkLXMwX1ZUdEYwU0tjY2gxZXdqcVhkbkFSZGxISXpxZmtacHZuVDE0R3fSAeQBQVVfeXFMUDVmbElfSUxJLWNuenpTQjlaRlg0U1hEb245cDBHa240cy0xZXJNbjdFZFdPazlfdEZjMXJfR2hLa0Nram5fd2g3UlpfVjlReG9UV0tDeHowWVctMEFWN3pOaGhLRV91ZENTMHJ3Z2JHR203NVhtNnMxajNZd2pBekJmdnFSWEc1Wlp5N1V2QXlUbXV3MkVHeHJEb2hBSHEtSDNPRXVYQUxZeHRaN0htQVppREQ3SkpwRkpBcXNRQ25lMzNITUkzWGlnZ2FUdW1rQ3JPWERfMTBCOTdIWjFFV3lldGNE?oc=5"
-    },
-    {
-      "id": "6a9349a9869a41ed2f667ae0",
-      "title": "After Nepal flash floods, Sikkim group urges PM Modi to halt hydropower projects - The Hindu",
-      "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR3JpeW9vMHI4YzNwZ3ZvTTUwNmlMdHgwVkpoVjBOOUV6Q1Vxa3FPVGh3a1hnb29xSDB4aWEwNk5wSkdoMGIzZDk5ZkVjUG1lMWVoc1p3bUVHT3kxZUFWZlk0Z29NMnk1anF0V2h2aUpoZHFwWWlmSDZWbnQ0WFZRTXltb2JoNTdUd0UyUGZoSG5FVGEtRjE4bmtPNzNnc0tHbFp1OVRhdlhjS25LeVdvSVdrRG1Sd3VFOTlPNXFnWDQzandiV2NSMTcwNm10Znh1bWxpVmRDVU9nOUJPWnfSAeQBQVVfeXFMT2dPVjgyaUNsZGdGNFpBR3pmZ0FvYm5rS0NqaWg1RDZBSXktRHpJTFN5NTA3VkJMQkpuRk1LeU9zWHhzQm5Jdzc0LXRXTy1kUVZ1X1JzdXU5QnpQX0pfQ01RRFJMcU1tbWZRekpfaml2bm1tNEtwcVp3eU5RRFM2MmhpM0J4dW9RcUoxdWFVbTl4NkNEb1lwck1lUVRzZjh3UnJrTk9TT29MNmxGOUMxRTB5emJtVHlJZnFnOUxzYlNkaHlGNjMxZFFKbEgzTXdLa2RDUll0ZkNldmpwdm5iLWlpamN3?oc=5"
-    },
-    {
-      "id": "6a9349a9869a41ed2f667adf",
-      "title": "\"Exceptionally Generous\": Nepal On PM Modi, India's Efforts During Crisis - NDTV",
-      "sourceName": "NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzZNaFFBSlp5a1FPOEp2VllQbWREQ2t2cm1IN0Zia1BSc3M1d3hDZy1Pa2lHMFVDdktLek82a2g0TkwySjFybFVNOFJtQ3RGb2NLdzZTam12ZXFpb1R5SnNLWUo3MUcxMGpTVHJvclVxd2FhYklnb29LMmNNUmZVNmZYdjBSWjRBOE1iRmRlbG9EZThXdzBjNFNuRXRiWEM1UTZDMUxqYVpoSVFsMEZSYl90Ny1pRWE5eDFIVzd2NFV4TEpSWURBRmVR0gHSAUFVX3lxTE5SUlhqSjV1b2pGdmd6RHNCOHJwRUFRZXpaNExETDR4c2xJSVdabFdEekdqMmRVNXZqc1NCOTJWNzVOeTFiYnVpNWpoVHMxVFNkY0RJZ2xwMXN3OHU2SnJnaUVUZlVWXzZSZm5mLWd3a2hkTktRRXhoTTYzQ2pKdnYwdWVHZldiQnVsVkRGX2tBbGJnOGtpZEhkU0ZDam1lVkthVDFUNjdJdmlQS0liZ2NqdXc2VnRqa3hGNmV1dGFhZEEwTXpiVHZlZXhQWXBvaEljZw?oc=5"
-    },
-    {
-      "id": "6a9349a8869a41ed2f667ade",
-      "title": "Modi Is Hedging Against Trump, One Deal at a Time - The New York Times",
+      "id": "6a93d3a1869a41ed2f667cdc",
+      "title": "Opinion | India’s ‘Cockroaches’ Are Fighting Back - The New York Times",
       "sourceName": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGNHFZMTVQbGo0TW1ybUdoT0ZTb19VQUtJQUxvcUwtWnl5ZWlwX2JidzM5VGFCcGpVS0JRNkp0b0txSURjMFd0Ynk4UGN0a3hYZ1lWV09EUzdhdXZ4UDRmb0VXUk5QMnlTMnNPTlNPbVlRUnVKc3J3Y0hlUzV4QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2xPVmViZHd1S0hNWWwtMnBUcUxabjRZdW40ekpydVRhSFo5NlNLNEc2NHVWZ2xDcmx2RnFnWkNUS3hLVmhaTFZRX3JWczJ5eWN3MmtORWM1TFZ1VWZFaU84WF9SWWY3alFxRE9YekYzeU55OFRzRkZzVUpPVG55elRlZXQ?oc=5"
+    },
+    {
+      "id": "6a93d3a0869a41ed2f667cdb",
+      "title": "Cockroach Janta Party protest updates: Protest ends in Jantar Mantar; six detained - The Hindu",
+      "sourceName": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPejRxaE5zQi1mY3FtQ3h1S1kweDBxd3JoX3NubTJQdURHRHRJSGhLem9GM1U0V1UzYkJZdVdCSUJaWUFnZlVvT243UXVkTGZjZW9jbUpfazRmTk1GYVhjajBGRzI1S1gyNWVta1RTeld5bDdkNTY1NDNHOHhBOUhuUWZuVGxLZ0ZlVXJNbERZY19SUEZ2b05JaHpHWFdYYWdYcDJISDNWTzhFUDdmSElKeFRwaloyMjlfejM4a3ctaWlQTWFQTHNFUi0ydWJFb3pNTTJtTnRLbzlYc2J4VjZEZXFRMklBdkZzc3pJ0gHyAUFVX3lxTE80VkdDajUzbUhmYXIzdVhMcWRCT3FKY3VmbkZNNDFEaktISW15LXoxNS1hS1FVT2tLV0MtQmd1MWZ1cXF3eWRSRExKMThkSk9mTU9qNHkwVDJrV1Bqbzd3eHRjb3ZKVkgxdE9ITzVLaTV3MGp0Ylc5STRiVy1pdm9hdEloYlJ6WUswTlhKRU85WWh6ZUhMVHJFaGJXT2VzNnRDaHVjYkdadDZ0MXhvM0d3YVZROEdwUFdRcUJqNGdfMUNJdnZBNXRuMXY1ZFVLQkZSMmI0TmdoTVljbkVzT05MTDRZWHB6ck5XRUNWQjY1djZR?oc=5"
+    },
+    {
+      "id": "6a93d3a0869a41ed2f667cda",
+      "title": "Abhijeet Dipke gets cockroach-themed rakhi with ‘istefa’ message this Raksha Bandhan | India News - Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObGxtWVo0R2hQTm5Ld3MySDBPeVJiX1FaNUJKcUViRXExTkJXRGtXbDhkRzdKNmtfaS1sdUhFUkdTRGtkQ0c3UXN4RzA0SDFrTjBLN0VWek1YdmhZWUlCWjBfQk5tYzJhbzAtNS1McDV5ZHRrQ3I3dGpiT1A5LVlBR3dwbExxbEtmV1E2R29WbDlUdDducVljSHZ0S3ZHUnlmWnJFUDdfSG4zOHBlN0l3aDZfNFJ5RktmRWM0b09CdzFsMW1EUC1DaVNUbzBPZ2dJaHhObXl1aWxCa2JHazZDX0ZOWk9DNknSAewBQVVfeXFMT3NWTERISFA5Z3gwUmYxa1F6S2ZJb2p2VEFPSXdVS3NaeERDYlRfV0pkenVTVDlVdHJHZGdoQ2xqNGtwcTFtX0FqampxcTVTVVJfdWdDRmV5NnlWN3A4a3FrN1o2MVBNZU1MVDBYeVdJV0oxdFRyRTdhT2MwTGVTWGpzN1FPX05YZE96dkxwYkJkTEx5S0xkNnhSblN5SFdsZi1Gem9GSEFDaTJQUEZWeGZBV3ducEJ2WnNSVm81ZlF1VTlXbGNueVQtSVgwLXAzbXhOVUpRSFpyWDNtOXk2OFIzVWg1SThOeWxKbGw?oc=5"
+    },
+    {
+      "id": "6a93d39f869a41ed2f667cd9",
+      "title": "TVK's Vijay Emerges as 3rd PM Choice in MOTN Survey After Modi and Rahul Gandhi - India Today - India Today",
+      "sourceName": "India Today",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMjl6eGlnbGNobmdfUUtHZEpKMFJGWXZXNURkM2x6THNGQXJna0pNTkdsWVJKUzY3MGk4QjMxQXZLUUxEMG0zSS05VjllSk54OFM4STBKdFg1TndHRENNNWNhYmFhZHV0RWROanREUDNmMTBBd29tT0JlVThHZ2Z0cUdSQnFLdTR2b1l4RjZFdEt6QnlnMEdfdmVZbmxXYjJrb1ZKWk9EYzF2S0JueXlCRU5fMzZSRDlzZW85eUJCOFh4SDZRNm54NlppNXBqdTVoMGp2amgyb9IB3AFBVV95cUxOWk9Ua00zbE1Jam5PMjhzLTRxNHNfaEQ2YUZDbTQ0QzRsTkVTNFVRWnhZRm9sOEl6WGs0dXNKcV9iZHJPSkFsNHRNUldjSGZEYTJaSzVJWm1LUVBPYWtidzBrR2c0MkY1emdGRlVpMlZxVUxYOG5IS084TUVUODF2ejdXVUNOb2M0YVExVkVMU3RDeXFKd3Nsb2JweUMxWHdlS3gycl9DaVRfVFlrc1l3dXVlTTRfT3NncVlyRVY4d245Tmh0SEZYQ1hES0dIaDE1WTB4em5HZXdGcVRa?oc=5"
+    },
+    {
+      "id": "6a93d39f869a41ed2f667cd8",
+      "title": "Unsubstantiated claims cannot void election, CM Vijay tells Madras HC - The News Minute",
+      "sourceName": "The News Minute",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFZnTkRrcEJXMWVyTGtKU3NxODhVaWlDZldlUUtKRmlHQURROVF0UGRyM1cxbHZwemI4eEg0QnNza200MUFIRDRGY29TazZUWXlBQmVvSDZxSWU3NU9PeVJiY1RVdFV0dnN4SFZwTEhZbm9QcFZmT1N0em1ycHAwMVJxNmJ5S2FFQ0JqaE5oa1RnTjE3WmtUR1VxaGNJSGNYdFdHbVpEOTFOVkVVa3fSAbsBQVVfeXFMT0UzMnloSHZCZWY3STZXa29nV3V3MzJOSjZqSU40ZFNJTGZYLTNUSTNPUmJsWFJkOUFmTHhGd2VRbXNiMEFLZ0lRQUJ3TWxrYUhKVFJQX3VlMW44R0FheFltMVlJRXBDMEVERzMwWXo4ZVVaVFpGWTJLT0tkV0o0czlaVWlnVTBDVVc3NFdLY3g0QkNLNFpHZmgwZTl5VnpDeVZmeXdhU3hyR09uLWZBRS02aTVlWHJOTFQzNA?oc=5"
+    },
+    {
+      "id": "6a93d39f869a41ed2f667cd7",
+      "title": "As TVK leaders raise ‘Vijay for PM’ campaign, unease grows in Congress - Telangana Today",
+      "sourceName": "Telangana Today",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2hxOGZVUzRxSGVkWVNaUnM4dTRsLXZSdDZJU1FnLVljUlo5Ynl4R01oZ2t2MWRMZ2laQVgxUFc0MDNPc3NYZHlydWJIUXBkZ0VVRUJMaTBteVNaOVdoM0dlQzZNWDdwelRyU1A2OW82M0d1UklDRFZZV1AzZU43cTJiZlJXR25MWmVweVdsd0RMWDZZTW1PXzFn?oc=5"
+    },
+    {
+      "id": "6a93d39d869a41ed2f667cd6",
+      "title": "Mysuru, a better planned city than Bengaluru: Karnataka CM DK Shivakumar - The New Indian Express",
+      "sourceName": "The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNWMxNl9tbW5Qc3VNdGQzNFBra2tIcDZST1Z0Yzh6U0sxdjItNm54UjBkTnB4cS1WNFh6S0w0MzB1UjVJbEFuemhWbGhXQUpwOWE5b1ZabXFIdUk1WVZKQ0IwX2ZxVjA3MDFNYlkzbHY4MUxyQ3Rib0JFVk1ORXRIYXlKVGFTZURNR0lmYzZuMC1xOXoxWW9vcGZWejY5U3hQTEtCTXhLZzgwcTVTNVh5cmJOUXctN1g2ME5yQWIwTDhWYXVKZEtrTWdtdTfSAdoBQVVfeXFMTlFDX2dRZmJLSzItYjh3bHdmQnU5ZVZXN2JEQ21DN2JxUGl3aGF0OFZYLVhJZmM2SFE4Y2JUVFU0a0pFNGQtdGI5cmRBTkJacmNzLVppRlFjMDkxNmZNRHZCaFZseGlXWEl2N1lwWmNZWWFQNTd6TU1yZW5EZF9Wem5wajFTV3FhRENhZ1dKbGhsSHpfTDVaVXIzN1FwXzkzeFRZcUxNRElzMHZ1eU5uTDVXS1FFbGxxU1BSSEFGSlc0djJMOEF4TDJ3RXZkYjE3SnNuWGJfSm9JQVE?oc=5"
+    },
+    {
+      "id": "6a93d39c869a41ed2f667cd5",
+      "title": "PM Modi heads to Uzbekistan, SCO; meet with Putin on the cards | India News - Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbl9mVUNKM25XTVFKdFpoNXF0akNoNVRTelJTYW80UlU2c0xwWkRveTM0dTZVeHkxOXlaaFFtTFBvTmZhUmdMMFZ6Znp6ZjFQV3NISm9NZFgtV2lxSzR5X3VwTXJVTnBTMFM0NXpOZlB3VDk1M0RsQWg2U0tSaFpkWkdNZ1ZlWDdRVEVuVy1ZSGtOS1VZVkcyeTlhVVAxWUZhd0x1WERtdXNIcGFTWXIwaXgtdmNRTThNMFJXc3hZR0toVUdyRTltLVF30gHPAUFVX3lxTE5panRTUHU1c05mckM3M2YxV3NSM0FzMUs5TGw4T21RMEJOVWhyUUhwMVI5M0d1S2hyRWV0Wkp0TnRoU2owVjZwLVZmUkpFbW5NbzBsSXlRa2xZSjREWEZ5LW13Z3ZhRWpoWXpwSkZsWDBkSUlWcmZTZE1CdTU1clJDMGJBbGNJX0dkZmpXUG5OY1hIWnU4Q09Qd2h2SWdWT2lUaUJKeUl0T1hOX3hsTzB1dXFyMk9mWl8zTWt6VlN2WGxReTZpT2NQNDFWdDZwbw?oc=5"
     }
   ]
 }
