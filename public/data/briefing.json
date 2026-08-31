@@ -1,13 +1,13 @@
 {
   "date": "2026-08-31",
-  "generatedAt": "2026-08-31T07:09:31.404Z",
+  "generatedAt": "2026-08-31T15:19:52.472Z",
   "stats": {
-    "newToday": 42,
+    "newToday": 121,
     "assignments": 15,
     "emails": 5,
     "news": 8
   },
-  "narrative": "Morning! It’s 28C with a 65% chance of rain, so pack a **light umbrella** to stay dry. You have no school notifications or urgent emails, so you can focus on **prepping for the week**. Check [[News: CJP founder Abhijeet Dipke dares Maharashtra govt to file cases against him, says must fix schools - The Times of India]] for a quick read while you wait for school to start. Stay hydrated and have a great day!",
+  "narrative": "Morning! It’s 24C with a 53% chance of rain, so **pack your umbrella** to stay dry on your commute. You won’t find any specific school updates today, so just stick to your usual routine. Keep an eye on the national news, specifically [[News: SC declines plea to stop CJP’s September 5 march, says all sides must act within law]], to stay informed. You’ve got this!",
   "assignments": [
     {
       "id": "6a92dc71869a41ed2f6677b6",
@@ -182,6 +182,18 @@
   ],
   "emails": [
     {
+      "id": "6a959b814234edc879803183",
+      "title": "✨ More Time to Shop! Fashion for Your Home Sale EXTENDED!",
+      "from": "Pepperfry <hello@mails.pepperfry.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a056f44009a1dba"
+    },
+    {
+      "id": "6a957c63869a41ed2f66b6f6",
+      "title": "build failed for daily-briefing",
+      "from": "Render <no-reply@render.com>",
+      "summary": "Your **daily-briefing** project didn’t finish the **build**, so the latest changes aren’t live yet. You’ll need to look at the error logs and fix the problem."
+    },
+    {
       "id": "6a952896ec34c418b10451ac",
       "title": "UPI is here. Take 75% off.",
       "from": "\"WordPress.com\" <hello@wordpress.com>",
@@ -198,68 +210,56 @@
       "title": "You shared some Google Account data with Canva",
       "from": "Google <noreply-accounts@google.com>",
       "summary": "You logged into [[Mail: You shared some Google Account data with Canva]] using **Google Account**, so **Canva** received your name and email. There’s nothing you need to do now, but you can ask a parent to change the sign‑in settings if you want."
-    },
-    {
-      "id": "6a942c01b98597a5999c38ef",
-      "title": "Your payment of ₹190.00 is successful",
-      "from": "FamApp <no-reply@famapp.in>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a051a743eb36335"
-    },
-    {
-      "id": "6a942c01b98597a5999c38ee",
-      "title": "Your Sunday afternoon trip with Uber",
-      "from": "Uber Receipts <noreply@uber.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a051a78048e5220"
     }
   ],
   "news": [
     {
-      "id": "6a9528a4869a41ed2f668b7f",
-      "title": "CJP founder Abhijeet Dipke dares Maharashtra govt to file cases against him, says must fix schools - The Times of India",
+      "id": "6a959b91869a41ed2f66bf0b",
+      "title": "SC declines plea to stop CJP’s September 5 march, says all sides must act within law - The New Indian Express",
+      "sourceName": "The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeURqYXpxU3hTZ2pGMHp2cGxkWHdhZlZhQk5DVWNuczJhcF9lOGRkeVAyR1hnZUNHY3UzMUM4U21pYXZGcUN2aEhxWEQ1OUN5dVhmNmFHYWY5aVJzbDV1Q05zRVZhc2RoSVI5a01wUXplWV9CeERRVVZwVms2V0pNVGRXTFNSVm9PNTV0TU1EVUtKaEZtMFBDWWlrTVVTN0dpVG81RUdJQ0YxTzJwZFlEMEVKQ3lEWFFvYzlxTGdkSkVJX2o2V0o1emlEenFnZ9IB2wFBVV95cUxOLWNBZDk2V2ZQMHJpYXNrWWFpV3ExN2hyWFozVGtzQVdfUVU2QjZNSmJjaEtzNlo2M2tnZzVhcEl1Nm5CWVR3MGhiODY4bWxDNGtLN1ZCTU9DdmZZY3dpeld5bGt3VGtZWGZnR1o4M2xLNlBoX1lkeklfVWxfaWtHSDh2SWVueWE5aTc3NEY1ZGJRRXViUXlvazFWMGhGWGg3VTNRVmNxZnR2Y2k5OXkxWEJHQUdjcVhXcVQ1SzdJMExDMEFMTGUxSkdwMTltc3FkOGMtenFoWjNuX28?oc=5"
+    },
+    {
+      "id": "6a959b90869a41ed2f66bf0a",
+      "title": "Abhijeet Dipke Flags Poor Facilities at Government School, Calls for Urgent Action - The Times of India",
       "sourceName": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQnRMZW4tb05xQ1o4WVpIREQyM0s0MDNyQk5hNGVxWnN5UF9Za1NCeVM3T3BEZGlCdU9YWFliZUwwMFNWYjhzQ21JVDJXR0psLUNTNVNqY2FNZzdncDNwVGIwS1dfZlM4Z25uaEtWYU9QbkI0S25NWlJJc0M0ZEg0dDZJeVU0cmxkcHEzdGFId1VrSGhuUzhMaV9kX3pHSm1KaTlLYzgxRVczLVZhekVOU1dMNDUzMkJEcDB6Q1M5cEZKcVhHamhxU0lDbnFBSXVsSVZwQ2FmZWNhRl8zd0R6VHFWN25QeFFYQzcweG14TWJSQUYtemw1SXYwNjBGRmp3RV9mS1U4QWhrZ9IBjwJBVV95cUxOckRUQWRQanJTZWgwV2ZhQVNuenVyTVZwMlFSLUxxX3BIdnVTWFRLc1otLWhNR0FKQVA2aUthQ3ZfU2JKT3BORlI1cnNVT2labWZtaXlmblBLdFdreGc5ZzluXzgycWVfRThzUTlLM2p4RFNiSm5KcHV5WUZkWEFWUWliYUpvY21HSDRtVXBaeXNwaHVEQlNuUjZFd3ZFQ3JlYjg2clM5aTk3LWdYUS0wX0Rwa2ZHaFhMQlpKd3h6eW1HMnVydWdJM0piaWE1TmkzUV93Sjc4NWVYV3ZNZFBvM0ROU05aZTZzMEkxRFRKVjdDOVEtWHlOWWMyeU5Na01aUG5uSDBQMzFWbHpxUmJZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYmpTa01RVmdRNVF5S1h4MWVubEFHUUdTbGJqMGg5eDhaS0lQdmNuUGczWUlaNlUzMnUwVEFiX1hlbHJlQkpGbXJlSjhkNjlnc01xTjItcVFMcEFlcTRtX2RXZUxNVkFORW1YTWprOG1Nc3JaM1ViRDZEMFdycDRlVHNGYmt0elZmaGp3TmJ3ajRjY1p2U1dwdkhDUjNRdWFQRWFWbDNJVE5WX2k3MHM4YXZRV01DMWFHM25WUnZLQThuSENKaC1Sbi1KanJwLXdxVXp5MndKSE1UaXhkUG5oVHRWc0tvYlFhVmlSU2p0NHRnSVJ2?oc=5"
     },
     {
-      "id": "6a9528a4869a41ed2f668b7c",
-      "title": "Video | CJP Latest News | Maharashtra Schools 'In Shocking State': CJP's Abhijeet Dipke Inspects Hingoli - NDTV",
-      "sourceName": "NDTV",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3hUQTNZenhjN2hONWxhVlJ4NllDbjE0U2YzVUJjN2ptaDlhYWxicjVTUEtSSXBTNXdURXF1UnlVVFQycGVtWk1hNmFkbktaSE9xSjF6MXdHTTlrZW53cHRVT0h2eDhvcExrUzNpZFY5bUlfU0U2MllDOVU5elV4RUhsS0kzbkNPX3hZN3hZSU9QY21hVUN1UmJybk1Pd01DdV9DaWoycVRvcDBndXk4WWtKTVpTQXhfcmhyZ25fZ2E4N0hQ?oc=5"
-    },
-    {
-      "id": "6a9528a3869a41ed2f668b77",
-      "title": "CJP finds in AAP an all-weather friend supporting it at every turn - The Hindu",
+      "id": "6a959b90869a41ed2f66bf09",
+      "title": "Cockroach Janta Party protest updates: Protest ends in Jantar Mantar; six detained - The Hindu",
       "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1ZhUW5wcF9xRk44N2h4MW9HUVJMTFBWM0w5LWVoOTFPMDdwcDV0dVgwMTJ2SXJxVm5YRTdFbmRPZktJZk8tbEl3c3JMYzVJUTdxcGpOZW1Ma1g3a3Nad09hTllfb2RNT3YzT2ZNaFI1a3VBcDhwR2s0Sm5Ed1BVVjJuWmVRMjJYSXlkNUJWNlFDc29udjFtcGxUR3poQklzdjlJU2lWdnpJUERMUGVIUGVROVR3SlVhX1pWLU0tblJ1ZlnSAcoBQVVfeXFMTnc2NVdmRUlMaUNhWUJtS2FBLXhjcVFiNS1zX3U3VmJLaTlCaHdkU2s0ckJFUUZwWjVMZWIxUDdlaHV3Ui1jaVdFYV9PN00tWEhJeWxZMFRVZHZGel83RHkzTXlMTmtVd3VZaFdJX1lISms4czlVS2lTMHE2NjF3dGJkMDFVSDc3d0pNMGVnSW9DbFVLd2dtYmRMcTl1YjdwdVZkSjFkVFNKUXlWckJGa1htZWQyVHgwMm90RURYNzVCbUJnNnNpeE94QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPejRxaE5zQi1mY3FtQ3h1S1kweDBxd3JoX3NubTJQdURHRHRJSGhLem9GM1U0V1UzYkJZdVdCSUJaWUFnZlVvT243UXVkTGZjZW9jbUpfazRmTk1GYVhjajBGRzI1S1gyNWVta1RTeld5bDdkNTY1NDNHOHhBOUhuUWZuVGxLZ0ZlVXJNbERZY19SUEZ2b05JaHpHWFdYYWdYcDJISDNWTzhFUDdmSElKeFRwaloyMjlfejM4a3ctaWlQTWFQTHNFUi0ydWJFb3pNTTJtTnRLbzlYc2J4VjZEZXFRMklBdkZzc3pJ0gHyAUFVX3lxTE80VkdDajUzbUhmYXIzdVhMcWRCT3FKY3VmbkZNNDFEaktISW15LXoxNS1hS1FVT2tLV0MtQmd1MWZ1cXF3eWRSRExKMThkSk9mTU9qNHkwVDJrV1Bqbzd3eHRjb3ZKVkgxdE9ITzVLaTV3MGp0Ylc5STRiVy1pdm9hdEloYlJ6WUswTlhKRU85WWh6ZUhMVHJFaGJXT2VzNnRDaHVjYkdadDZ0MXhvM0d3YVZROEdwUFdRcUJqNGdfMUNJdnZBNXRuMXY1ZFVLQkZSMmI0TmdoTVljbkVzT05MTDRZWHB6ck5XRUNWQjY1djZR?oc=5"
     },
     {
-      "id": "6a9528a3869a41ed2f668b73",
-      "title": "BJP thinks it is bigger than RSS; should listen to Mohan Bhagwat: Dipke - The Hindu",
+      "id": "6a959b8f869a41ed2f66bf08",
+      "title": "Tamil Nadu: ‘Vijay for PM’ pitch sparks ‘rift’ between TVK and Congress; decoding the buzz - The Statesman",
+      "sourceName": "The Statesman",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmdOLV9udXdvaU5jdG9RNmpfRjVrNXkwR1g0Qlp0LXA0NW1DQ3Z2cm1UbVdCRF9ZU0hibEJndk1tMXotSUpYaG13NVdXeVMwZHlFQ1pfNjFUZHFzTzdMNnVEdWJndmdyeVFSS0l4NjJpQ08xeHFPZHFydTF6MWNUdzBraC1rZFdqTzlVdzBGUW9ZUF9UMjZ3QUNwVmEwN0tOZlNSeHowVkEzRzdQWngzUUh6R2VMZERZTElVVzFjcXB0ZEFHLVZnR2xhV3IwTGdM0gHWAUFVX3lxTFBiWmItUWEwcFkzTUhUcmFfcTRMclFFa1lNTXBuQTM4R0RJYk40SnVyOGVhTU1ORG5WSjdVeWN6aUJrakpEMzRPVVh2Y0NRWjFyOEQyQ1lTRUREeVJXX0xHRllrRmFwdkdRS2FqcG9yU1lJZzdKcjFUVUY5a2RJWjQ5YWJPRkd1T0tNMnpRdDJRa0U5cWtMcFZsNFo3eHZFcHM3UGxCSjREdjFFNzBrMXhzODN5anpvTWRFWjFFUE1qZ1BoamlqMzYwdXVRZ0NGZW96NGIwdnc?oc=5"
+    },
+    {
+      "id": "6a959b8f869a41ed2f66bf07",
+      "title": "Tamil Nadu’s TVK party struggles to prove majority claim | Akashvani News - News On AIR",
+      "sourceName": "News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzJSa2stUDRXa0JHM1d0NDh4YUlyM3ZQajBVMkpvcTJ2VW1QWE91RTdQcVB5TC13ZzBHdFVDTnhQeld2VzdiN01lZXVYbzdOc29lMHc1UzBUMDBKUm9KcWpMYVBvWEllQWk1d21zRm5LSGgzQk1wLXJRRE4zeTd0VHBrb1Boelcz?oc=5"
+    },
+    {
+      "id": "6a959b8f869a41ed2f66bf06",
+      "title": "Rahul or Vijay for PM? Congress-TVK rift talk grows after MLA’s seat shift - The Times of India",
+      "sourceName": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVFU4Q2tGdzBINDNadDFIV3EyNV9qenpmc1dkY3Z0cW8wVVRwWFR3OS0yOWowVFVkWlBrdEhieWI5b2VVcHNhZ3FBSDJLcEk0aDVsN2tLQXNRclpnSm9pekhpVmVCWWpWbGM4Nm9MZ3FXQk1PX3g0TUZTLWdqTGc0ZEFBbHltNFVfMjlfTGdjNkZqQjBQLXZPa2RoYW9MdFBvZkk5TkQxdTJ4NWgtcVQ3SnBIWVNKMURuMDZ1WHdyU19OZXFmNHBvX0dJZGRqVWt6UHVKUzY4b9IB3AFBVV95cUxPdmRIRXJveFU0WFR5bDhVRGZMWXZVR25iUDI2eTBERUZUSHMtV2hQVnpsN3Z5d05UN3JZWFRlM1VRRHU1cDZQNHJCQ1Y2bW9IYnhOVE1CRk5taUVpY3dXQVlLenY0Z3BFMmJXWURxZm40LXhiTVlwYkxVTXdHRnRDbS1jTlZWRkNKRG04c3NHWDlTLTFQOFRPWkRYYk5IRjktRzdXbzhTcU5JZW5KU1IzOGNpYlhob0xlVHBjdlUtRHFvUXFjRjY4bFJXNlg4N0VuNm9wUHEybG9TTUI2?oc=5"
+    },
+    {
+      "id": "6a959b8d869a41ed2f66bf05",
+      "title": "Prajaseva Abhiyan to be launched on September 5 - The Hindu",
       "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRmZjMU5fQ0IwLUl0MVZIbkxVZmFvWVdXSl9yb3dLY1E5Uk5wR0p0VUZ4dXpsQXFFVlloeWV3MmVZbENYZTlPSFF3Sk03VC1BckIzNU91YVpObDhxNDFYdHg2YkVoUDBPRkRrZlNNa1ZpSlNQRlRVYkJsQW16SDhwcmdQLTMyNUFfdW9idXJLWU13UXBEZTU1NkV5ZU9Wd3ZMaUpJMFdUdXp5MnVubzRrdmNjOFZ0RmwzcENGVnJzcThrQVo1R0pB0gHOAUFVX3lxTE9yWUJqb1FZTWtjZFBJOVMwWFhEa3puZ045WjYycUtxNTZnZ2dpODB0YzROeW9TaDFOYVNvaUFNMWJreEtORnlDa05ZY3ZHclJseUx5Ujk2ZS0zUDJPeWFwRzNpYUEzVEpTQzRUZFRzYzlrSnIxNU5BNzVwZzJudmdOdU5tT2QxaFpTcjRCQTdRN3lIS05XYzJZTzZkNUh0R1Eyc2FiS1BjMEg5WUlrVE1sT2o0dDhXcFNLTzRoMFlCWFh5cjhzelNWS2s3UHRR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUhyU1hDZlNoQ3drM216cDF1X1N0NTlGN3BVLThWXzF2M1dBSlZ2MGZidmt3WlBxR2tNNk82WGZta0xRZ1BWTEFIOTZMRnNfalpJSnN0cjByNmNoLW42SG1XZFBRblg5MGFscUVLbTl3VzdEaG5vbG1uWjl2NlF0S3VldTRMbHBwbVZkaEVHNmF2NllyV1BtZG41cXZXU2ZlYVBqWUZMa3VMNXJ2eFVZb1M3UHZkZm_SAb4BQVVfeXFMTU84MVNHdWRlN2I1LUhOYnpuZ2x6OGxTS0xHZHpiNTRYa2FnLVkycWUzWk0tSzF5SWtIWFQ1QUVTQjdQeHpEU1JtSFdLS19uNUhycHdCbDRoYVNuQ21EdEpEOE4tZUZxcTRqNnBJRFBLNGpEWlBXSmlLVWp1WWlCTnZ1Q3N3SFBMdE1QTTJYTzJTOGhNeUhrc25LT0N5Si0wUHRBQl9IekdpM2x6ZjhMbHZtWnY3Yjc5YlBOdUtlUQ?oc=5"
     },
     {
-      "id": "6a9528a2869a41ed2f668b69",
-      "title": "TVK Not Ruling out Vijay as PM Candidate in 2029 - Deccan Chronicle",
-      "sourceName": "Deccan Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQODkwa2hsZlpxVV9WZGVvcldJd0d5YjhDeFoxb2RJWXhmX193a0llQjhyZ1AtNFM5OVFZcS1rMGtyTFZoald2bDIxOVpCR25WdFNIb2Zid1lxZl96LXlpLTFyWnpQcDRuLXNpWFY3SXlJZmxycGxPeGxIUEsyRm1IVms2TWNKU3N3b1VtS3BZc3FoNFZTYWtyUmtHNjFNT0RIUVN1UE5FaDk3RjhzV0xtTkEwUUNSd9IBuwFBVV95cUxPRThSR245TnZDb0tlTWxDdUlhYmZnbGkxZWlCWk5SNVR4NHNhVGFTMDZ0b0QyMXp4bkJOcHNrUUtIT29QRGhKbk00MTB5T1lpT3dsZmFqcUdBdU5NdTdnbGdvQVhfWURqeFp6RDJnTjFWSlZVV1RuT1dncmhvanlEYjhRQ0tTZGRfTURsZVo4Q0hCUl9VUXlXUW0zdndvVnQzYzdMbmlUT1RVbWZTSDM5UFRpMUdHcUxGZk53?oc=5"
-    },
-    {
-      "id": "6a9528a2869a41ed2f668b66",
-      "title": "No limit to imagination: DMK, Congress push back against 'Vijay For PM' pitch - India Today",
-      "sourceName": "India Today",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUG1NQkxaU2pXekJrQ3hxc2VMOXlZdWZVSWpaenJxcmt4TlVXSzVZSWJUSjFzbHNRVjVlT3VDYUVRU19BRC1MZFdER3FzT09Wb0xQSXZ2NnNLa2JOeVhfTk1wTlJOYmluTkdnTE9PcXd1b2cxc19SdzdaOGZRcEZseFdvcl9kVGpWOWplelVrbmt3MkNDUTBLYXJzYlhsa2x2LVVYUkdiMnEzdzFiYkwxckNBcWF6dVp3ai04T1NuV0NHS3l3aFZtUkFmdHJTYkdMUmppcGNzVEFPR0owdk9NeUdKUDhWMVNZdkHSAe8BQVVfeXFMTThva2M3bWZwN1VaUXFDd2JQN0VMNHMwN0pxVUJHWk02eXNtTEJKUXNxMWRHTVp3TFdNQVhCT0NKRDJQUXYxVTZ2T2tLVzlOYXBXZ3NpenhFeS1wUnYtR3p1em9WRDh4U3l2d2Vhb0dfZnY1bzFzc3dNSVBtY0c1R0dNUE54Ui1jZkhkbkI1OEJoTWI1YXpQWUVySkVab2J3QnlIMm45V1k0WWZyeFNXTXpjbHNMZ1pQZDlzUGMwZ2lfQTdCR2xUMThMdTNramJvRjY2ZUVEc3FqMnlCR21XTkFaWmRxUXJPMl80c1JUY2c?oc=5"
-    },
-    {
-      "id": "6a9528a2869a41ed2f668b65",
-      "title": "Congress will quit Vijay Cabinet if Rahul is not accepted as PM candidate, says Minister - The Hindu",
+      "id": "6a959b8c869a41ed2f66bf04",
+      "title": "PM Modi meets Iran President Masoud Pezeshkian on the sidelines of SCO summit in Kyrgyzstan - The Hindu",
       "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZXVLWHd1ZzZWclBQQ01mU1JwaHl0MWl5dHpGMGNFbld3aUY5WUFSUXd4VkhKa2F3VWpvb1lJWG1oMGNXRTc2anp1R2sxeXBWYnZRU2pvRHlyODNRZEdHenFELXQteXZNTktJOUNldGFXZWNPVHo0anota0J3R2k4ZUFobG1sbkJtdnhQUHdBWnJ2SWU3cmtobi1RRWtjNGdKR3kwRjd2ejJISGN1VGk0b3N0WEYzQjJRUFJRTlBnM2NaNkxEcTZNbnlmVGxqQUxIRGxXOHdFeWxJQmlVTlN2WXhQbHpaaVBGSTdPUDBR0gH0AUFVX3lxTE83TkxIUHI5cE80RGZYMW5BQXp2V0ZQamgyVTg3VjNTXzJkdWVVaElCNTFlT1VTcFBtMElDT3lmUUpNUXgydm9IUmZHNXAtX0EtaGx6aHdLUUdDa3NpSkNnUWNTOVFuRDhCR2Z3d01fN0xCN0xBM0FnclNraWhZQ0s1MjUxcGFRcTRCb3BGbFp1cjc5UDFObkVKVUExSUd1UFpYc1FrbDlVWGQyV1FEQnJ3RVVXaUFYb2VYRnlYbkdzUDNaeURKM0VuRkd2SlZ5bU5SOVhDQnFyV0FVNW9yMWpUMm8zVmUzS3pOU0pTOVRNdjg1M18?oc=5"
-    },
-    {
-      "id": "6a9528a2869a41ed2f668b64",
-      "title": "No material to prove Thaman was paid ₹10 lakh to compose TVK song, Vijay tells Madras High Court - The Hindu",
-      "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUUtscXNFVTJKQTFTRElHSWxKSHZFbVJtSHlhUmd5YVh1MG85VjJ5VEtrRjUwOGc0dHAwWmZlUjNnSHJnMk9jS0EzeUZPWHNEQlFWREJyUk1KNVdDaWlaS0R4S2Rkd3J3QlVnNDZNLTRVR1ROOHl3bmlHbGdtVEdVMFN2ZGhVeE4wM1NXU0Q0NFY3RnFQcVRzRFV3eXhJa0ZKcjhGTmdmcTg4bG14YjllRmQwSHBjb1BzdnBma29tYVotUm5MXzkxZ1pjT1ZQTlZ6RHBud0lkRk1VaWpfUjNuNHczeFg3ajYxWDNkbmt1S0UxV2pjYzNj0gH-AUFVX3lxTE1aMlNXZHR4cXp0OC1PV01WME9mWHpnTkJ5VHVlX3ZSYTZEcGhwWE5oeHBHWHdCVmFFYlNjWWwxMHBYZEpON0RkLUhFOUQ1VFFDZEFMWi1CNGI2YkF1RVNtUDQ1Q1RjTGxIOUlkdW05NUJRQkM5MUNneXE0NFB0QkFTN05qZkQ5bU9MSDZ0RWJWM1lpMW9VQzc4OTVMb0VHVktCVjVXYjdLdUxRWjAyMjhjZUllQzU0bXZhaHNKbW5HU21yT0o2ODRBSlhfSm9kaWh0SUlNT3BVNndvVm81QWNHOEtxWHlqMjlmRXZxZC14X3BCQ2ZJd284RU4tc1NB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE9VeVRRTU1MTFhvSU5NR0VfWGE1Y3d4NjNpSlpvSTFCT01RczJPRDNHX2I2T05QVExOUEQ2WGlzSGlscGUwejBPOVQ1bDFNT2wzY2Fmd096WFhrUUdjc2xJaGNGcFdxc3NpTzl6dWtiZWphb2xKdUR2QnJTaUdFc1NxYUNZcmdwOGlJMTBYRzUweTBYa2FFVl8yaF9ZY2l5N2xxY01rbGdUTlJuelBxaGxEemctbVpmekZhSWJKcXJvQWxMTXEyWVpPa18ydU1QTGxOcmpNVmNYRWRqczZKUmJJb9IB6gFBVV95cUxPUThSMTZPa2lFaHVvbmxITndvT1dwNUwxOFFEVEs1Si04emFoX0pYZXQxdEZ3NG5YbllxNFlUVTZYMmZuV2RpTktxcTR1UEY0aEt5MUdzLU9jUmNBLUpFT3BkdDNSY3pqbHZjOEJGN1N4eXViLVVwVF9ESVhLSVJLN3h6eFlqZ2FHZkEwTHB1cEVIU1JPMVAySWtyeUpNVVBkUHN6YXA0c1R4VndXN2x6Snl6d3BubGFsSmxjZHFMcWduYjJRWnpjZnBhX05rOTdjRTZsRFl0U1JHWXlCYUNTTl9YNFdSZ0tvTWc?oc=5"
     }
   ]
 }
