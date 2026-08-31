@@ -1,5 +1,229 @@
 [
   {
+    "id": "6a96076a869a41ed2f66c0e3",
+    "source": "news",
+    "type": "news",
+    "title": "'BJP Should Listen To Bhagwat': CJP Leader Abhijeet Dipke - NDTV",
+    "content": "NDTV",
+    "postedDate": "2026-08-31T22:59:54.085Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Abhijeet Dipke",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWxQd0FiN2JobTE0cHNlcG5ySHZaSU96WGwtYVVGY243cEc5UFZfVGE1cm9Jb0JCUkxDVjllZFBGTXZkcDFidkZWLWFpU0lmbWhVMUh5X2dSWHVKSm5zSWVZblN4bTdYVFFRU3I1cEtwQVJwTVdkck5VYVJ5Nm84bGtyY2twZE9KN1o3bjM5YkYwdHZi?oc=5",
+      "source": "NDTV",
+      "publishedAt": "2026-08-30T20:00:05.000Z"
+    }
+  },
+  {
+    "id": "6a960769869a41ed2f66c0e2",
+    "source": "news",
+    "type": "news",
+    "title": "Opinion | India’s ‘Cockroaches’ Are Fighting Back - The New York Times",
+    "content": "The New York Times",
+    "postedDate": "2026-08-31T22:59:53.602Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Abhijeet Dipke",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2xPVmViZHd1S0hNWWwtMnBUcUxabjRZdW40ekpydVRhSFo5NlNLNEc2NHVWZ2xDcmx2RnFnWkNUS3hLVmhaTFZRX3JWczJ5eWN3MmtORWM1TFZ1VWZFaU84WF9SWWY3alFxRE9YekYzeU55OFRzRkZzVUpPVG55elRlZXQ?oc=5",
+      "source": "The New York Times",
+      "publishedAt": "2026-08-29T21:00:04.000Z"
+    }
+  },
+  {
+    "id": "6a960769869a41ed2f66c0e1",
+    "source": "news",
+    "type": "news",
+    "title": "Vijeta Dahiya to make a comeback in CJP? Abhijeet Dipke says ‘will think about it but…’ | India News - Hindustan Times",
+    "content": "Hindustan Times",
+    "postedDate": "2026-08-31T22:59:53.360Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Abhijeet Dipke",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQb2Q1ZVhpalNTOEIxZXN1OW8zRWl6aG9nR2xFaXRBNkRJeEFscVo2TGd6d0JXMmNsWXZHOEphajJackVkTzcyMU5tVWxsWWxwVjNJVm5Lb3hrQVdGdi1GQTRTWTNYMWdpcGNlQWdGQmYzWmdyaVFiSzJFWXNHWHY3MmR0R1hRUUl2RkR0Z2NINjZ0WlFrOGdFMzloNzNsRFJCM21HdG92b1hXQS02WWR4RjQ2R2pLbURzLXV1b3Nzc21QRU5IbVN4V0lNQ3g1dEY1eklSV1ozUThXSXZUbVpEbk1fR2owdWMwUlgzQ3E0Snp1STF0WnFnUFhzYmxSQjZC0gGGAkFVX3lxTE82Wk0teXZ2dmU1NGFxQ1ZKQUdNWkpZdjBHVXA1R2ZTTXBiOHhFbFhDb1BKbTRaYkR5OUNHZkdtMVFOekQ1Zzd5X1A3Tmd6MUItOXdUQ01jMWhRcVE0azZGSW5GUld6V0pqVGJwcWdxTzRlZEJwZnRnU0JQTDE2TXZjcnk3QmZ0VEJJZ0I1c1dVU3o3OWNCa1VLV0VlbE5IOHJTWnpLUUR5U1c5cXRyREpJRXZhOXFaVzQtd1NVeHdBUFN4TEJzeHVHQTR5UWswbUJVakxJcXNtaW4zYUtTR0kyUWZPVWMtVWI2ZVM0R1A5MXRYZ2IxU1JORmJvOEEycVJTaFdmWmc?oc=5",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-08-30T07:09:19.000Z"
+    }
+  },
+  {
+    "id": "6a960768869a41ed2f66c0e0",
+    "source": "news",
+    "type": "news",
+    "title": "Waqf funds, free tuition for Muslim girls: Analysing TVK government's freebies and appeasement model - opindia.com",
+    "content": "opindia.com",
+    "postedDate": "2026-08-31T22:59:52.547Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Joseph Vijay TVK",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeVRxalhBRkhDMi1kOVlaZjJOdE1Wa0Q0a2tqZ203YU5MbUoySG1jVXdYWEFPTVRuUHlaREF1aV9NRElnTmxob2RLbU01cjZQeVBwVGl1RWdrNEs5bFl3TUlxc2FrNzBqWjliWVg2bGhCNUJVVGlDNEZCZ0VSR1UxeklsWDVIdWltUnpxWE5uMTZvdXZWZVJhcVNLUWxZcW1mbFNxOVA3dFh0bmhrdXFvQy0yR2s2WGRVeTJMU1ZJUXJWNnFWZEpFcjJxaDBlT2pjMXZzTg?oc=5",
+      "source": "opindia.com",
+      "publishedAt": "2026-08-31T15:12:46.000Z"
+    }
+  },
+  {
+    "id": "6a960768869a41ed2f66c0df",
+    "source": "news",
+    "type": "news",
+    "title": "TVK chief Joseph Vijay meets Tamil Nadu Governor Vishwanath Arlekar for second time at Lok Bhavan - News On AIR",
+    "content": "News On AIR",
+    "postedDate": "2026-08-31T22:59:52.294Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Joseph Vijay TVK",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEtCd2t4bzQ5QUFRX1I3TkFfNXRCaEM2WkdRM3Jvc3lzWE5tR1lTdFZXTUFlVnlBTXVlOWVzZ2I5SzJpLUJ2UUZZZG9XRVhnTl96Y2x5RFpsa1FuV28xLVExT3hEeFd0VnNMWkhCaEh4X08zLWVDSGFHSHRGcnN3NVJyWXFYSmVaTWdydGFiWU9XZWpNOVFQekhFdnV3ZzZYYlVhb2QxWG1IQmYyeGpxVXRFekZPOVpsMUstUVoxdHI?oc=5",
+      "source": "News On AIR",
+      "publishedAt": "2026-08-31T15:19:02.000Z"
+    }
+  },
+  {
+    "id": "6a960767869a41ed2f66c0de",
+    "source": "news",
+    "type": "news",
+    "title": "Why Karnataka’s two new laws sparked controversy over Bengaluru tunnel road project - The Indian Express",
+    "content": "The Indian Express",
+    "postedDate": "2026-08-31T22:59:51.119Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "D.K. Shivakumar",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGNqZjlULVk5THR0STE4NzRCNVhrdXczSGtuN19wUFVialVWTnYzdDNpSHcxZjNfNzJ2MzdPZnBoNVZTNkJUMWVPNHZTb2hmb19nUzVMMU9hOG1aNlNKR1dFUzBDcjA2SFVHc3d3MkFZYnZSZUppdG9oZ0FVME1lR1BZMGFGeEUxUWlIWGdYUkFkeWZuYXdlenVSX1FLU2hKQTB0RU9sU3JialY2bkc0VFJBaG0zWTgxT2paUdIBwwFBVV95cUxNTEg4di10M3FIYnJUWGVhRFFIWGFWZlpfdzhOZ2lsSlBDcEotajNCYmNUa2ZESmEyTmFZSzBFU1RVMnJ5VFBhSlJlYkZUdF9qeGhhR0txRThkVGlvcHh4Ri1MMUV3czk4c3VwZGZYWkF3MWJnMHNla3NXaGdYbF80Y1lDQV90OVdwMzVvakpGVURpSWEzaWphczlHVHJrcnhabFZEejQ1NUlGMG5YU0hWQXFGWHBjOGJHZ2lCZDhibVo4aDg?oc=5",
+      "source": "The Indian Express",
+      "publishedAt": "2026-08-31T01:06:22.000Z"
+    }
+  },
+  {
+    "id": "6a960766869a41ed2f66c0dd",
+    "source": "news",
+    "type": "news",
+    "title": "Nepal floods: At least 13 people from Karnataka yet to be traced, says CM - The Hindu",
+    "content": "The Hindu",
+    "postedDate": "2026-08-31T22:59:50.635Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "D.K. Shivakumar",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcjdKV0kxS0ZFT0ZjOGsxcEhZWG5lczFyWC1sRFBpNEg4VmJhOFl0Z3B5aXpBZWMtNFRRVi1NYWRjSVVvd3lHYTc3YUZzUTBldU1GUDB5N3FGOUtOVjJrVXYyNi1wejRhc0Z0MlA0SW0zYThVbDAtbktOcTM5aGk2QzBHQ3ZxN09SeHpKOS1jWFdZXy11N08xMGQ1RTUxQ1dkeDhIX3VDQVJraTROazFoRDdneE9JeWoyZ25tLU9IR24yUnM4b3ZMSXgtYVFlWExVc3dVY9IB2wFBVV95cUxOMnZ5YmY3UEFiVEQtNXd0Ri1VMnpqOEliOWkzWnlSWTYzTWIteFJGbFJaR0NILTVOVzZFQnhNdWJha0tQWE9hVjI0M2JjbXhjeGduVXhXMmlJSVBaNVlYVEhCWl9pckZfT0JIX2F6R3NJU1ZFWWZ4YVBsek5xdFhOSnRkamJNS2hETHFCdkV2amZYemxLMzNuOG1aeFh1WEJDaUFyaUJaNThzX01RWklrUnl0dkd1ejFKXzFpZHl4NG5KUWVfVVF6dmx0N1VWR05kNEJ5R1J2cnRlSmM?oc=5",
+      "source": "The Hindu",
+      "publishedAt": "2026-08-31T15:37:33.000Z"
+    }
+  },
+  {
+    "id": "6a960765869a41ed2f66c0dc",
+    "source": "news",
+    "type": "news",
+    "title": "PM Modi Meets Pezeshkian In Bishkek, Reiterates ‘Friendship With Iran’ Amid West Asia Conflict - The Times of India",
+    "content": "The Times of India",
+    "postedDate": "2026-08-31T22:59:49.620Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Narendra Modi",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSG1wczZKV2MwNUx2NzNJMWNsTjMtcmQwTmd1ZU12alhOd1h6d1dzd250eXBzNVNCTDY5eVlGUHgzVHUtYVVpRW85ZEtuNTRfUEItNDA4eS01RmlwVDd2VnQ2cTlSX3R6ODVFT3dwdG5EV0NYZHhCa1RxVWhzQ3drNXA1RF80cUxzTFo1TV8xVEJGUFZDWHV6dWNJY2piWkp2VXlLWmxCNW1MWWhVR1AxdndpSF9odUQwS1hOXzhWR09iRVBxQzlUb3BPWGFaVVZHYkRUZVpwNmtsLTdWZUxsaGtvczI3MUgxUmxWaEhhYXhxN1R2RGfSAfsBQVVfeXFMTXdLcE1NdFFxa0hOWTVieUhZRTVKZkRqNmhPcTZPeEFPejgyajVEbWVKTEg0SW01RVV5NDRoSV9PbloxRnF3OGY4YWFFX1RsbURWVGlUYVAxTUhfTjhMZXRIUkNFVGxXQjRpQk1xTUpqWnI0MUlJeDZ5Y093QXpTUjEzSzhMLWcyWnZmZm5fc0paeW1HVVg2UEFXUDAtQVFVU0NIUkZ2b2ZxMmNsUzN3VzJ2NDROVkhrVGpYSEJmeG1jVHowamJYZmVaMVJaMWdkV3UybXRNTzZsc253OUJFNk9rYU1GcDVwakRVV2lwdDU3eEZYM0FLRzdEbjg?oc=5",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-31T12:13:41.000Z"
+    }
+  },
+  {
+    "id": "6a960765869a41ed2f66c0db",
+    "source": "news",
+    "type": "news",
+    "title": "PM Modi urges Iran to ensure peace, freedom of navigation - The Hindu",
+    "content": "The Hindu",
+    "postedDate": "2026-08-31T22:59:49.376Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Narendra Modi",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE9VeVRRTU1MTFhvSU5NR0VfWGE1Y3d4NjNpSlpvSTFCT01RczJPRDNHX2I2T05QVExOUEQ2WGlzSGlscGUwejBPOVQ1bDFNT2wzY2Fmd096WFhrUUdjc2xJaGNGcFdxc3NpTzl6dWtiZWphb2xKdUR2QnJTaUdFc1NxYUNZcmdwOGlJMTBYRzUweTBYa2FFVl8yaF9ZY2l5N2xxY01rbGdUTlJuelBxaGxEemctbVpmekZhSWJKcXJvQWxMTXEyWVpPa18ydU1QTGxOcmpNVmNYRWRqczZKUmJJb9IB6gFBVV95cUxPUThSMTZPa2lFaHVvbmxITndvT1dwNUwxOFFEVEs1Si04emFoX0pYZXQxdEZ3NG5YbllxNFlUVTZYMmZuV2RpTktxcTR1UEY0aEt5MUdzLU9jUmNBLUpFT3BkdDNSY3pqbHZjOEJGN1N4eXViLVVwVF9ESVhLSVJLN3h6eFlqZ2FHZkEwTHB1cEVIU1JPMVAySWtyeUpNVVBkUHN6YXA0c1R4VndXN2x6Snl6d3BubGFsSmxjZHFMcWduYjJRWnpjZnBhX05rOTdjRTZsRFl0U1JHWXlCYUNTTl9YNFdSZ0tvTWc?oc=5",
+      "source": "The Hindu",
+      "publishedAt": "2026-08-31T09:52:29.000Z"
+    }
+  },
+  {
+    "id": "6a960765869a41ed2f66c0da",
+    "source": "news",
+    "type": "news",
+    "title": "PM Modi Meets Iranian President In Kyrgyzstan: Why It Matters - NDTV",
+    "content": "NDTV",
+    "postedDate": "2026-08-31T22:59:49.133Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Narendra Modi",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDdFdnNqMGhKb2Q2NkUwWXYtWGVLUUdONUdhYlcxcmx2aHRwMHRUNFlRbS1fMHQ1ZnA5T09xY3RwQWhUUkJPRWZyVUZ0Q3czOWdsUk13MkR4Z181b2VpbE91TGsyM1ozSjVhdE12TTVqSkRsa2Jvd0ZPc0h0LUJqOE1MU3htZURJR0NjYTB1b1Fid2tiSUdFQ0dzalFDOHpFYnN5MV85ZHNBVjRoTG14bVZBbTdQQdIBvgFBVV95cUxQUDYtUnBYV0NrcThJdTg4ZnlkYWZGOXp5d3hFVXhrdWJlY19JOU4tM0NXT2YzTnlWTkJvQmZRNFpnSXVDQjlFTFpLS2x3bjZfUFJwclJyRy1TUnRzcndYZS1ZOXppOFhzdmlQeHhXYlNGV25xU1V0dHUtMENNQk9WV3VMelFIZ2Q5ZnU3Qlc2MDRhYzFFNGIwbVd1WDc0cWFFd0dzN3o4aERUVFFGRl8tczZtN19nLTZENDdFRjRn?oc=5",
+      "source": "NDTV",
+      "publishedAt": "2026-08-31T09:04:00.000Z"
+    }
+  },
+  {
+    "id": "6a960765869a41ed2f66c0d9",
+    "source": "news",
+    "type": "news",
+    "title": "World must move from endless war to end of war: PM Modi to Putin - The Hindu",
+    "content": "The Hindu",
+    "postedDate": "2026-08-31T22:59:48.890Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Narendra Modi",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlZuU0R4VHM3MHdJWXRGR25OT3ZBRVNQdjVqOU9maTFnMUUxRGIwbmRKdkVYZ2dUdmtQbDJxQTF2SFJLWTBzUmE5UEJoNEgyVFpIX2p4cnZfLVRidWJ6bGdSaXBjLVRYd25vUFlwZGpKUXl4R0NuREFyQXJmT0NmR1M1RXhNSl90aVBxalczZlFxT1ljMmtkMzdUNzRuRUp5eFV1OE9ZNndaeDhzRWc00gG2AUFVX3lxTFBiMF9ZakJIeEZGMlJGd1J5VmlBUzUwaUVLWk1HRDlRX0tTZjMyTUlOSFZoVjh1SWlZOXZlMzVYWklBcmVOblUtTU1LVEVuaW4tSWxsb0lEc0ptd2dqVFFJQVRvZUhPSGVEWWZjSnJNdUE4MG54RDR4N213czUxYS14djJfQUtpMDVxX1pUTEZqNFNMZkpodlRjWlYxQlNsQ2s2RUJXanpzNFItd1YzYW41TnppVnln?oc=5",
+      "source": "The Hindu",
+      "publishedAt": "2026-08-31T14:03:29.000Z"
+    }
+  },
+  {
+    "id": "6a960763869a41ed2f66c0d8",
+    "source": "news",
+    "type": "news",
+    "title": "Trump posts about vanity projects as US and Iran renew strikes - CNN",
+    "content": "CNN",
+    "postedDate": "2026-08-31T22:59:47.864Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Donald Trump",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYlJxREZRdjd2by13QXJJdERoaGpNWXdpUTdqUGtUZm4ybHc3b1NZdTNvUmF3bmRpSThnSEp6V055YjhuZS1CWGl2bTY5d3BFdzRkME9MRDdOM2oyWEFzZGRrQmxxT0ZWQ2RIeEJYMU5WZUlKUVJmd204MkNKTkRBLTJDTk5XNHo0MHdBdXFDTHBpQ1Z6Ymdza0RyR3phSHJqbThLSlRtaUVjTFlyWjN0b2hUMmxzd3RYM2xoMFFHNDF3Zw?oc=5",
+      "source": "CNN",
+      "publishedAt": "2026-08-31T07:57:00.000Z"
+    }
+  },
+  {
+    "id": "6a960763869a41ed2f66c0d7",
+    "source": "news",
+    "type": "news",
+    "title": "Trump says Iran is ‘dead’, vows to respond after renewed clashes - Al Jazeera",
+    "content": "Al Jazeera",
+    "postedDate": "2026-08-31T22:59:47.620Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Donald Trump",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdlVjVnJob3NkOWhEQmpuc3JOXy1ycTRJdGgxRGM1LVlWUmNoWmxvc0o0VVludHBLUnZqYVJjN1ZaalVyb3lGTE1RcndhSHlRY1laWmF2azhzaUVTR2JDdk9kZ2NubHVUVDBfMmJtUkl3aWVPSm0yZUFnQVBEZlRieFA5N09WMmRYSktodHlkZ3Zwc3VWZDg2eGg1LUk1S0xjdEpZY9IBqgFBVV95cUxPcmsxTkMwd3FHZHdIQWF0aFNKdEplbjlUY0JqRGF0V1JvRUw3a0tfTjl4ZVhoRGFfczdjcENoN0RZcGJiNjFUQjRNTGd4MmN6dVFkX2I4OXJVa2lybU84MXoxbU9PY2R3SnZCX1JKNDNUOFd3aENpMHNYdTAtaHZnbFhtUGpWNTJWTk9fWVNZUUs2VHR2YnVaTHNvZDdEWnpaRjhJU1dTQmk3UQ?oc=5",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-31T15:13:04.000Z"
+    }
+  },
+  {
+    "id": "6a960763869a41ed2f66c0d6",
+    "source": "news",
+    "type": "news",
+    "title": "Iran war live: Trump says US could still ‘smack’ Iran ‘to see what happens’ - Al Jazeera",
+    "content": "Al Jazeera",
+    "postedDate": "2026-08-31T22:59:47.374Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Donald Trump",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHJoVXZ2MzBnaVRCSDBFYmJNWUNmdUR4Mmx0cHVXV20xY3V1VjVoRXVabXhZdWtnWDdEc2NBUTNOUGNMM0JHcWhXajlTSE1KWHBKQ3hiUHJaRWc0anpsYlk2SkNGZ294VW5EajFyV2VkUXAwRjNwT29FWTVXMXZvdmptRnhPanFnMXhJaFlhQ0lDWWdTN21mTDdfSU9zX05nWFFKS1VHRlZfTGM0bmJ5X2htLThpYWFXZDV1VWFBcVnSAcYBQVVfeXFMTVl0eWRfNVlPelc5SGNoSFdpd2xSeVJUZEhMOTNmbDlldDJCUzJfNDZEcTdTaHlFMjlDRkQ1YkVJWGVNNWZ5UWFESW1fZ3dHOS03S2k0ZXhTd01nSlFnaEk3aG9SVDE1dk40ZjB2cFZ1TVFrNVZnTnJ3cC02ZEY1RUZhOXdYTllOWWFkcS12eENQS0h6ZlVOYTcyZWxxZE5SSHJvZ1hVR2Q2S2ZPcGtpdC03ejZpWURIbzVGd003bEFwZkVFejd3?oc=5",
+      "source": "Al Jazeera",
+      "publishedAt": "2026-08-31T20:47:54.000Z"
+    }
+  },
+  {
     "id": "6a959b91869a41ed2f66bf0b",
     "source": "news",
     "type": "news",
@@ -4327,204 +4551,6 @@
     "metadata": {
       "messageId": "1a043dc11e9605ad",
       "from": "GitHub <noreply@github.com>"
-    }
-  },
-  {
-    "id": "6a91391d869a41ed2f666359",
-    "source": "nps",
-    "type": "notification",
-    "title": "Your ward Nithilan Manivannan of Grade 11 Science INT A is absent today 28-08-2026",
-    "content": "Your ward Nithilan Manivannan of Grade 11 Science INT A is absent today 28-08-2026. Kindly ignore the message if you have already informed to school through email.",
-    "postedDate": "2026-08-28T06:58:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a902f7b869a41ed2f663b04",
-    "source": "gmail",
-    "type": "email",
-    "title": "Your sign up link",
-    "content": "Use the following link to sign up to OpenRouter: https://clerk.openrouter.ai/v1/verify?_clerk_js_version=6.30.1&token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODc4MzQxMzAsImlpZCI6Imluc18yUGlRcWt2UlFlZXB3R3ZrVjFZRDhBb3Q1elIiLCJydXJsIjoiaHR0cHM6Ly9vcGVucm91dGVyLmFpL3NpZ24tdXAvdmVyaWZ5P3JlZGlyZWN0X3VybD1odHRwcyUzQSUyRiUyRm9wZW5yb3V0ZXIuYWklMkZ3b3Jrc3BhY2VzJTJGZGVmYXVsdCUyRmtleXMiLCJzaWQiOiJzdWFfM0lVeWNTa2lZNmxOZmNTVlhZd3NVZTc0MzgxIiwic3QiOiJzaWduX3VwX2F0dGVtcHQiLCJ2aWQiOiJ2ZXJfM0lVeWRrcjRjUldWUlhWeFhTdTZsTE02R1dtIn0.GSEQHsGhKGydkiyRzsHPDhYtvxS1iPjj2DbPObGgMC561rUEwkLX03_Oz6nAyuj4hoZ7tCKk7m8yFYAltEa4WlbNzNPulQETajJHHJM0b8xZzN75LtZGQbciX4hjRBonlw57jajaT0teABjrgMs8xig8-RATZ3dn1Or-v2eoMDoLdtFD5pYzC8ovfr-onCdtP22ndQtO4hK_F5wLPj9lUSsj_Ypyoj3krePGAdXpS1lyQq7mp8yX83jcsPq8wtvwRl_XR9PgAp3aNfAk7HvCBTI2z2Rm8kdNQQJe4HKezWtHu85n51XG_RcqwX_wUqztp5870mMEVgXmCaXK0aBKLA This link will expire in 10 minutes. It was requested at 27 August 2026, 12:25 UTC. If you did not request this, please ignore this email. ",
-    "summary": "You can use the **sign up link** to create an account on **OpenRouter**, but it will expire in 10 minutes. If you didn’t ask for it, just ignore the email.",
-    "postedDate": "2026-08-27T12:25:31.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a0432ec35334c88",
-      "from": "OpenRouter <notifications@openrouter.ai>"
-    }
-  },
-  {
-    "id": "6a902f7b869a41ed2f663b03",
-    "source": "gmail",
-    "type": "email",
-    "title": "You shared some Google Account data with OpenRouter",
-    "content": "Keep track of your Google Account data nithilan.manivannanj@gmail.com You're receiving this email because you used Sign in with Google to sign in to OpenRouter on August 27 at 5:55 PM . This email summarizes the info you shared. There's nothing you need to do right now. You're receiving this email because you used Sign in with Google to sign in to OpenRouter on August 27 at 5:55 PM . This email summarizes the info you shared. There's nothing you need to do right now. OpenRouter received this profile info Nithilan Manivannan Name and profile picture nithilan.manivannanj@gmail.com Email address This email includes the info you shared with OpenRouter on August 27 at 5:55 PM OpenRouter received this profile info Nithilan Manivannan Name and profile picture nithilan.manivannanj@gmail.com Email address This email includes the info you shared with OpenRouter on August 27 at 5:55 PM What you can do What you can do If you want to stop using Sign in with Google with OpenRouter , go to your Google Account. If you need some help, ask your parent to help you manage these settings in your Google Account. Go to your Google Account Review OpenRouter ’s Privacy Policy and Terms of Service to understand how OpenRouter will process and protect your data. If you or your parent want to delete the data you shared with OpenRouter , you'll need to visit OpenRouter . Safer with Google Your Google Account protects your privacy with advanced security designed to keep your data safe Safer with Google Yo",
-    "summary": "You let **OpenRouter** use your **Google Account** info, such as your name and email, when you signed in on August 27. If you want to stop or delete that data, ask a parent to change the settings in your Google Account.",
-    "postedDate": "2026-08-27T12:25:56.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a0432f204826e8a",
-      "from": "Google <noreply-accounts@google.com>"
-    }
-  },
-  {
-    "id": "6a902e37869a41ed2f663ab0",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
-    "postedDate": "2026-08-27T06:30:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8efd3a869a41ed2f661c91",
-    "source": "gmail",
-    "type": "email",
-    "title": "You received ₹200.0 in your FamX account",
-    "content": "Hey Nithilan Manivannan, You have successfully received ₹200.0 from SIVAKAMI P at 07:42 PM IST, 26 August 2026 with transaction id FMPIB6477710919. Your updated balance is ₹241.54. UTR: 623859972726. Purpose: UPI. If this was not done by you, report this transaction at support@famapp.in",
-    "summary": "You got **₹200.0** from **SIVAKAMI P** in your FamX account, and now your balance is ₹241.54. If you didn’t do this, email support@famapp.in.",
-    "postedDate": "2026-08-26T14:12:10.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a03e6a0c5ee9ab4",
-      "from": "FamApp <no-reply@famapp.in>"
-    }
-  },
-  {
-    "id": "6a8efd39869a41ed2f661c90",
-    "source": "gmail",
-    "type": "email",
-    "title": "Your payment of ₹170.00 is successful",
-    "content": "Hey Nithilan Manivannan, You have successfully paid ₹170.00 to Savitha S at 07:46 PM IST, 26 August 2026 with transaction ID FMPU01a03e6e-5711-73a8-aaba-f4a634026f06. UTR: 660462298028. Purpose: Paid securely via FamApp. If this was not done by you, report this transaction at support@famapp.in.",
-    "summary": "You made a **payment** of ₹170.00 to **Savitha S**, and it was successful. If you didn’t do this, email support@famapp.in.",
-    "postedDate": "2026-08-26T14:16:55.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a03e6e6251132c6",
-      "from": "FamApp <no-reply@famapp.in>"
-    }
-  },
-  {
-    "id": "6a8edc94869a41ed2f661674",
-    "source": "gmail",
-    "type": "email",
-    "title": "You received ₹400.0 in your FamX account",
-    "content": "Hey Nithilan Manivannan, You have successfully received ₹400.0 from SIVAKAMI P at 11:26 AM IST, 26 August 2026 with transaction id FMPIB6474413521. Your updated balance is ₹422.54. UTR: 128521913695. Purpose: UPI. If this was not done by you, report this transaction at support@famapp.in",
-    "summary": "You got **₹400.0** in your **FamX** account from SIVAKAMI P, and your new balance is ₹422.54.",
-    "postedDate": "2026-08-26T05:56:10.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a03ca3ecf09ed43",
-      "from": "FamApp <no-reply@famapp.in>"
-    }
-  },
-  {
-    "id": "6a8edc94869a41ed2f661673",
-    "source": "gmail",
-    "type": "email",
-    "title": "Your payment of ₹381.00 is successful",
-    "content": "Hey Nithilan Manivannan, You have successfully paid ₹381.00 to Hardcastle Restaurants Pvt Ltd at 12:48 PM IST, 26 August 2026 with transaction ID FMPU01a03cee-dac3-7e7e-9282-d27bdfb15798. Purpose: UPIIntent. If this was not done by you, report this transaction at support@famapp.in.",
-    "summary": "You paid **₹381.00** to **Hardcastle Restaurants**. If you didn’t do it, tell support at support@famapp.in.",
-    "postedDate": "2026-08-26T07:18:04.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a03ceee6f74090b",
-      "from": "FamApp <no-reply@famapp.in>"
-    }
-  },
-  {
-    "id": "6a8ecb1e869a41ed2f6613ab",
-    "source": "gmail",
-    "type": "email",
-    "title": "Share your Uber experience",
-    "content": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n96\r\n\r\n\r\n\r\n\r\n\r\np {margin: 0 !important;}\r\n.divbox:hover, * [lang~=\"x-divbox\"]:hover {\r\n\tbackground-color: #266ef1 !important;\r\n}\r\n.boxfont:hover, * [lang~=\"x-boxfont\"]:hover {\r\n\tcolor: #ffffff !important;\r\n}\r\nh1, .h1 {\r\n  font-size: 60px !important;\r\n  line-height: 66px !important;\r\n }\r\n\r\n h2, .h2 {\r\n  font-size: 44px !important;\r\n  line-height: 50px !important;\r\n }\r\n.show{display: none;}\r\n\r\n  \r\n@media (max-width: 480px) { \r\n  .hide {display: none !important;}\r\n  .show {display: inline-block !important; width:auto !important; height:auto !important; max-height: none !important; overflow:visible !important; float:none !important; visibility:visible !important; border:none !important; padding-bottom:0px !important; vertical-align: bottom !important;}\r\n  .show1 {\r\n    display: block !important;\r\n    max-height: none !important;\r\n  }\r\n  .hide414 {display: none !important;}\r\n  .show414 {\r\n    display: block !important;\r\n    max-height: none !important;\r\n  }\r\n  h1, h2, .h1, .h2, .mobh1, .mobh2 {font-size: 34px !important;line-height: 40px !important;}  \r\n  .hide_1{ display: none !important}\r\n  .show_1 {display: block !important;max-height: none !important; overflow:visible !important;}\r\n  .mobh4 {font-size:28px !important; line-height:34px !important}\r\n  .mfont{font-size:34px !important}\r\n}\r\n  @media (max-width: 699px){\r\n  .hide_1{ display: none !important}\r\n  .show_1 {display: block !important;max-height: none !important; overflow:visible !important;}\r\n  \r\n  }\r\n\r\n\r\n @media screen and (max-width:699px){.full,.t10of12,.t11of12,.t12of12,.t1of12,.t2of12,.t3of12,.t4of12,.t5of12,.t6of12,.t7of12,.t8of12,.t9of12{width:100%!important;max-width:none!important}a[x-apple-data-detectors]{color:inherit!important;text-decoration:none!important;font-size:inherit!important;font-family:inherit!important;font-weight:inherit!important;line-height:inherit!important}.headerTextLeft{text-align:left!important}.mp0{padding:0!important}}@font-face{font-family:UberMove-Medium;",
-    "summary": "You are being asked to share your **Uber** **experience**. Please tell them what happened during your ride.",
-    "postedDate": "2026-08-25T11:39:15.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a038b7a9347b932",
-      "from": "Uber <uber@uber.com>"
-    }
-  },
-  {
-    "id": "6a8ecb1e869a41ed2f6613aa",
-    "source": "gmail",
-    "type": "email",
-    "title": "[GitHub] Sudo email verification code",
-    "content": "Hey, nithilan-alt-f4!\r\n\r\nHere is your GitHub sudo authentication code: 00563328\r\nThis code is valid for 15 minutes and can only be used once.\r\n\r\nPlease don't share this code with anyone: we'll never ask for it on the phone or via email.\r\nThanks,\r\nThe GitHub Team\r\n",
-    "summary": "You received a **GitHub** **authentication code** 00563328 that works for 15 minutes, and you should keep it secret.",
-    "postedDate": "2026-08-25T13:59:52.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a039386962a113e",
-      "from": "GitHub <noreply@github.com>"
-    }
-  },
-  {
-    "id": "6a8eca6d869a41ed2f66132f",
-    "source": "gmail",
-    "type": "email",
-    "title": "[GitHub] Please download your two-factor recovery codes",
-    "content": "Hey nithilan-alt-f4!\r\n\r\nYou’ve just enabled two-factor authentication.\r\n\r\nPlease take a moment to check that you have saved your recovery codes in a safe place. You can\r\ndownload your recovery codes at:\r\n\r\nhttps://github.com/settings/auth/recovery-codes\r\n\r\nRecovery codes are the only way to access your account again. By saving your\r\nrecovery codes, you’ll be able to regain access if you:\r\n\r\n* Lose your phone\r\n* Delete your authenticator app\r\n* Change your phone number\r\n\r\nGitHub Support will not be able to restore access to your account.\r\n\r\nTo disable two-factor authentication, visit\r\nhttps://github.com/settings/security\r\n\r\nMore information about two-factor authentication can be found on GitHub Help at\r\nhttps://docs.github.com/articles/about-two-factor-authentication\r\n\r\nIf you have any questions, please visit https://support.github.com.\r\n\r\nThanks,\r\nYour friends at GitHub\r\n",
-    "summary": "You have turned on **two-factor authentication** on GitHub, so you need to download and keep your **recovery codes** safe in case you lose access to your phone. If you lose your phone, the recovery codes are the only way to get back into your account.",
-    "postedDate": "2026-08-26T05:30:48.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a03c8cb4e2a298c",
-      "from": "GitHub <noreply@github.com>"
-    }
-  },
-  {
-    "id": "6a8ebf5c869a41ed2f661171",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent,\n\nGreetings.\n\nKindly note the school is conducting the Intramural Sports Inauguration Ceremony on Friday, 28th August 2026.\n\nStudents from Grades I-XII must come dressed in sports uniform with white shoes.\n\nRegards,\nCoordinator \nNational Public School -NORTH",
-    "postedDate": "2026-08-25T08:47:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e8f8b869a41ed2f660cd7",
-    "source": "nps",
-    "type": "holiday",
-    "title": "Good Friday",
-    "content": "Good Friday ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )",
-    "postedDate": "2027-03-25T18:30:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "startDate": "2027-03-26",
-      "endDate": "2027-03-27",
-      "rawTitle": "Good Friday ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )"
-    }
-  },
-  {
-    "id": "6a8e8f8b869a41ed2f660cd6",
-    "source": "nps",
-    "type": "holiday",
-    "title": "Holi",
-    "content": "Holi ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )",
-    "postedDate": "2027-03-21T18:30:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "startDate": "2027-03-22",
-      "endDate": "2027-03-23",
-      "rawTitle": "Holi ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )"
     }
   }
 ]

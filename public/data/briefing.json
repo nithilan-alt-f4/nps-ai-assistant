@@ -1,13 +1,13 @@
 {
   "date": "2026-08-31",
-  "generatedAt": "2026-08-31T15:19:52.472Z",
+  "generatedAt": "2026-08-31T23:00:02.387Z",
   "stats": {
-    "newToday": 121,
+    "newToday": 135,
     "assignments": 15,
     "emails": 5,
     "news": 8
   },
-  "narrative": "Morning! It’s 24C with a 53% chance of rain, so **pack your umbrella** to stay dry on your commute. You won’t find any specific school updates today, so just stick to your usual routine. Keep an eye on the national news, specifically [[News: SC declines plea to stop CJP’s September 5 march, says all sides must act within law]], to stay informed. You’ve got this!",
+  "narrative": "**Heavy rain** is almost certain today, so pack a sturdy umbrella and wear **waterproof shoes** to stay dry. You have no school alerts, but check [[Mail: build failed for daily-briefing]] to see if your project needs attention. For reading, skim [[News: 'BJP Should Listen To Bhagwat': CJP Leader Abhijeet Dipke - NDTV]] for local context. Keep your gear dry and stay focused, you’ve got this!",
   "assignments": [
     {
       "id": "6a92dc71869a41ed2f6677b6",
@@ -214,52 +214,52 @@
   ],
   "news": [
     {
-      "id": "6a959b91869a41ed2f66bf0b",
-      "title": "SC declines plea to stop CJP’s September 5 march, says all sides must act within law - The New Indian Express",
-      "sourceName": "The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeURqYXpxU3hTZ2pGMHp2cGxkWHdhZlZhQk5DVWNuczJhcF9lOGRkeVAyR1hnZUNHY3UzMUM4U21pYXZGcUN2aEhxWEQ1OUN5dVhmNmFHYWY5aVJzbDV1Q05zRVZhc2RoSVI5a01wUXplWV9CeERRVVZwVms2V0pNVGRXTFNSVm9PNTV0TU1EVUtKaEZtMFBDWWlrTVVTN0dpVG81RUdJQ0YxTzJwZFlEMEVKQ3lEWFFvYzlxTGdkSkVJX2o2V0o1emlEenFnZ9IB2wFBVV95cUxOLWNBZDk2V2ZQMHJpYXNrWWFpV3ExN2hyWFozVGtzQVdfUVU2QjZNSmJjaEtzNlo2M2tnZzVhcEl1Nm5CWVR3MGhiODY4bWxDNGtLN1ZCTU9DdmZZY3dpeld5bGt3VGtZWGZnR1o4M2xLNlBoX1lkeklfVWxfaWtHSDh2SWVueWE5aTc3NEY1ZGJRRXViUXlvazFWMGhGWGg3VTNRVmNxZnR2Y2k5OXkxWEJHQUdjcVhXcVQ1SzdJMExDMEFMTGUxSkdwMTltc3FkOGMtenFoWjNuX28?oc=5"
+      "id": "6a96076a869a41ed2f66c0e3",
+      "title": "'BJP Should Listen To Bhagwat': CJP Leader Abhijeet Dipke - NDTV",
+      "sourceName": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWxQd0FiN2JobTE0cHNlcG5ySHZaSU96WGwtYVVGY243cEc5UFZfVGE1cm9Jb0JCUkxDVjllZFBGTXZkcDFidkZWLWFpU0lmbWhVMUh5X2dSWHVKSm5zSWVZblN4bTdYVFFRU3I1cEtwQVJwTVdkck5VYVJ5Nm84bGtyY2twZE9KN1o3bjM5YkYwdHZi?oc=5"
     },
     {
-      "id": "6a959b90869a41ed2f66bf0a",
-      "title": "Abhijeet Dipke Flags Poor Facilities at Government School, Calls for Urgent Action - The Times of India",
-      "sourceName": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYmpTa01RVmdRNVF5S1h4MWVubEFHUUdTbGJqMGg5eDhaS0lQdmNuUGczWUlaNlUzMnUwVEFiX1hlbHJlQkpGbXJlSjhkNjlnc01xTjItcVFMcEFlcTRtX2RXZUxNVkFORW1YTWprOG1Nc3JaM1ViRDZEMFdycDRlVHNGYmt0elZmaGp3TmJ3ajRjY1p2U1dwdkhDUjNRdWFQRWFWbDNJVE5WX2k3MHM4YXZRV01DMWFHM25WUnZLQThuSENKaC1Sbi1KanJwLXdxVXp5MndKSE1UaXhkUG5oVHRWc0tvYlFhVmlSU2p0NHRnSVJ2?oc=5"
+      "id": "6a960769869a41ed2f66c0e2",
+      "title": "Opinion | India’s ‘Cockroaches’ Are Fighting Back - The New York Times",
+      "sourceName": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2xPVmViZHd1S0hNWWwtMnBUcUxabjRZdW40ekpydVRhSFo5NlNLNEc2NHVWZ2xDcmx2RnFnWkNUS3hLVmhaTFZRX3JWczJ5eWN3MmtORWM1TFZ1VWZFaU84WF9SWWY3alFxRE9YekYzeU55OFRzRkZzVUpPVG55elRlZXQ?oc=5"
     },
     {
-      "id": "6a959b90869a41ed2f66bf09",
-      "title": "Cockroach Janta Party protest updates: Protest ends in Jantar Mantar; six detained - The Hindu",
-      "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPejRxaE5zQi1mY3FtQ3h1S1kweDBxd3JoX3NubTJQdURHRHRJSGhLem9GM1U0V1UzYkJZdVdCSUJaWUFnZlVvT243UXVkTGZjZW9jbUpfazRmTk1GYVhjajBGRzI1S1gyNWVta1RTeld5bDdkNTY1NDNHOHhBOUhuUWZuVGxLZ0ZlVXJNbERZY19SUEZ2b05JaHpHWFdYYWdYcDJISDNWTzhFUDdmSElKeFRwaloyMjlfejM4a3ctaWlQTWFQTHNFUi0ydWJFb3pNTTJtTnRLbzlYc2J4VjZEZXFRMklBdkZzc3pJ0gHyAUFVX3lxTE80VkdDajUzbUhmYXIzdVhMcWRCT3FKY3VmbkZNNDFEaktISW15LXoxNS1hS1FVT2tLV0MtQmd1MWZ1cXF3eWRSRExKMThkSk9mTU9qNHkwVDJrV1Bqbzd3eHRjb3ZKVkgxdE9ITzVLaTV3MGp0Ylc5STRiVy1pdm9hdEloYlJ6WUswTlhKRU85WWh6ZUhMVHJFaGJXT2VzNnRDaHVjYkdadDZ0MXhvM0d3YVZROEdwUFdRcUJqNGdfMUNJdnZBNXRuMXY1ZFVLQkZSMmI0TmdoTVljbkVzT05MTDRZWHB6ck5XRUNWQjY1djZR?oc=5"
+      "id": "6a960769869a41ed2f66c0e1",
+      "title": "Vijeta Dahiya to make a comeback in CJP? Abhijeet Dipke says ‘will think about it but…’ | India News - Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQb2Q1ZVhpalNTOEIxZXN1OW8zRWl6aG9nR2xFaXRBNkRJeEFscVo2TGd6d0JXMmNsWXZHOEphajJackVkTzcyMU5tVWxsWWxwVjNJVm5Lb3hrQVdGdi1GQTRTWTNYMWdpcGNlQWdGQmYzWmdyaVFiSzJFWXNHWHY3MmR0R1hRUUl2RkR0Z2NINjZ0WlFrOGdFMzloNzNsRFJCM21HdG92b1hXQS02WWR4RjQ2R2pLbURzLXV1b3Nzc21QRU5IbVN4V0lNQ3g1dEY1eklSV1ozUThXSXZUbVpEbk1fR2owdWMwUlgzQ3E0Snp1STF0WnFnUFhzYmxSQjZC0gGGAkFVX3lxTE82Wk0teXZ2dmU1NGFxQ1ZKQUdNWkpZdjBHVXA1R2ZTTXBiOHhFbFhDb1BKbTRaYkR5OUNHZkdtMVFOekQ1Zzd5X1A3Tmd6MUItOXdUQ01jMWhRcVE0azZGSW5GUld6V0pqVGJwcWdxTzRlZEJwZnRnU0JQTDE2TXZjcnk3QmZ0VEJJZ0I1c1dVU3o3OWNCa1VLV0VlbE5IOHJTWnpLUUR5U1c5cXRyREpJRXZhOXFaVzQtd1NVeHdBUFN4TEJzeHVHQTR5UWswbUJVakxJcXNtaW4zYUtTR0kyUWZPVWMtVWI2ZVM0R1A5MXRYZ2IxU1JORmJvOEEycVJTaFdmWmc?oc=5"
     },
     {
-      "id": "6a959b8f869a41ed2f66bf08",
-      "title": "Tamil Nadu: ‘Vijay for PM’ pitch sparks ‘rift’ between TVK and Congress; decoding the buzz - The Statesman",
-      "sourceName": "The Statesman",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWmdOLV9udXdvaU5jdG9RNmpfRjVrNXkwR1g0Qlp0LXA0NW1DQ3Z2cm1UbVdCRF9ZU0hibEJndk1tMXotSUpYaG13NVdXeVMwZHlFQ1pfNjFUZHFzTzdMNnVEdWJndmdyeVFSS0l4NjJpQ08xeHFPZHFydTF6MWNUdzBraC1rZFdqTzlVdzBGUW9ZUF9UMjZ3QUNwVmEwN0tOZlNSeHowVkEzRzdQWngzUUh6R2VMZERZTElVVzFjcXB0ZEFHLVZnR2xhV3IwTGdM0gHWAUFVX3lxTFBiWmItUWEwcFkzTUhUcmFfcTRMclFFa1lNTXBuQTM4R0RJYk40SnVyOGVhTU1ORG5WSjdVeWN6aUJrakpEMzRPVVh2Y0NRWjFyOEQyQ1lTRUREeVJXX0xHRllrRmFwdkdRS2FqcG9yU1lJZzdKcjFUVUY5a2RJWjQ5YWJPRkd1T0tNMnpRdDJRa0U5cWtMcFZsNFo3eHZFcHM3UGxCSjREdjFFNzBrMXhzODN5anpvTWRFWjFFUE1qZ1BoamlqMzYwdXVRZ0NGZW96NGIwdnc?oc=5"
+      "id": "6a960768869a41ed2f66c0e0",
+      "title": "Waqf funds, free tuition for Muslim girls: Analysing TVK government's freebies and appeasement model - opindia.com",
+      "sourceName": "opindia.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeVRxalhBRkhDMi1kOVlaZjJOdE1Wa0Q0a2tqZ203YU5MbUoySG1jVXdYWEFPTVRuUHlaREF1aV9NRElnTmxob2RLbU01cjZQeVBwVGl1RWdrNEs5bFl3TUlxc2FrNzBqWjliWVg2bGhCNUJVVGlDNEZCZ0VSR1UxeklsWDVIdWltUnpxWE5uMTZvdXZWZVJhcVNLUWxZcW1mbFNxOVA3dFh0bmhrdXFvQy0yR2s2WGRVeTJMU1ZJUXJWNnFWZEpFcjJxaDBlT2pjMXZzTg?oc=5"
     },
     {
-      "id": "6a959b8f869a41ed2f66bf07",
-      "title": "Tamil Nadu’s TVK party struggles to prove majority claim | Akashvani News - News On AIR",
+      "id": "6a960768869a41ed2f66c0df",
+      "title": "TVK chief Joseph Vijay meets Tamil Nadu Governor Vishwanath Arlekar for second time at Lok Bhavan - News On AIR",
       "sourceName": "News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzJSa2stUDRXa0JHM1d0NDh4YUlyM3ZQajBVMkpvcTJ2VW1QWE91RTdQcVB5TC13ZzBHdFVDTnhQeld2VzdiN01lZXVYbzdOc29lMHc1UzBUMDBKUm9KcWpMYVBvWEllQWk1d21zRm5LSGgzQk1wLXJRRE4zeTd0VHBrb1Boelcz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEtCd2t4bzQ5QUFRX1I3TkFfNXRCaEM2WkdRM3Jvc3lzWE5tR1lTdFZXTUFlVnlBTXVlOWVzZ2I5SzJpLUJ2UUZZZG9XRVhnTl96Y2x5RFpsa1FuV28xLVExT3hEeFd0VnNMWkhCaEh4X08zLWVDSGFHSHRGcnN3NVJyWXFYSmVaTWdydGFiWU9XZWpNOVFQekhFdnV3ZzZYYlVhb2QxWG1IQmYyeGpxVXRFekZPOVpsMUstUVoxdHI?oc=5"
     },
     {
-      "id": "6a959b8f869a41ed2f66bf06",
-      "title": "Rahul or Vijay for PM? Congress-TVK rift talk grows after MLA’s seat shift - The Times of India",
+      "id": "6a960767869a41ed2f66c0de",
+      "title": "Why Karnataka’s two new laws sparked controversy over Bengaluru tunnel road project - The Indian Express",
+      "sourceName": "The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGNqZjlULVk5THR0STE4NzRCNVhrdXczSGtuN19wUFVialVWTnYzdDNpSHcxZjNfNzJ2MzdPZnBoNVZTNkJUMWVPNHZTb2hmb19nUzVMMU9hOG1aNlNKR1dFUzBDcjA2SFVHc3d3MkFZYnZSZUppdG9oZ0FVME1lR1BZMGFGeEUxUWlIWGdYUkFkeWZuYXdlenVSX1FLU2hKQTB0RU9sU3JialY2bkc0VFJBaG0zWTgxT2paUdIBwwFBVV95cUxNTEg4di10M3FIYnJUWGVhRFFIWGFWZlpfdzhOZ2lsSlBDcEotajNCYmNUa2ZESmEyTmFZSzBFU1RVMnJ5VFBhSlJlYkZUdF9qeGhhR0txRThkVGlvcHh4Ri1MMUV3czk4c3VwZGZYWkF3MWJnMHNla3NXaGdYbF80Y1lDQV90OVdwMzVvakpGVURpSWEzaWphczlHVHJrcnhabFZEejQ1NUlGMG5YU0hWQXFGWHBjOGJHZ2lCZDhibVo4aDg?oc=5"
+    },
+    {
+      "id": "6a960766869a41ed2f66c0dd",
+      "title": "Nepal floods: At least 13 people from Karnataka yet to be traced, says CM - The Hindu",
+      "sourceName": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcjdKV0kxS0ZFT0ZjOGsxcEhZWG5lczFyWC1sRFBpNEg4VmJhOFl0Z3B5aXpBZWMtNFRRVi1NYWRjSVVvd3lHYTc3YUZzUTBldU1GUDB5N3FGOUtOVjJrVXYyNi1wejRhc0Z0MlA0SW0zYThVbDAtbktOcTM5aGk2QzBHQ3ZxN09SeHpKOS1jWFdZXy11N08xMGQ1RTUxQ1dkeDhIX3VDQVJraTROazFoRDdneE9JeWoyZ25tLU9IR24yUnM4b3ZMSXgtYVFlWExVc3dVY9IB2wFBVV95cUxOMnZ5YmY3UEFiVEQtNXd0Ri1VMnpqOEliOWkzWnlSWTYzTWIteFJGbFJaR0NILTVOVzZFQnhNdWJha0tQWE9hVjI0M2JjbXhjeGduVXhXMmlJSVBaNVlYVEhCWl9pckZfT0JIX2F6R3NJU1ZFWWZ4YVBsek5xdFhOSnRkamJNS2hETHFCdkV2amZYemxLMzNuOG1aeFh1WEJDaUFyaUJaNThzX01RWklrUnl0dkd1ejFKXzFpZHl4NG5KUWVfVVF6dmx0N1VWR05kNEJ5R1J2cnRlSmM?oc=5"
+    },
+    {
+      "id": "6a960765869a41ed2f66c0dc",
+      "title": "PM Modi Meets Pezeshkian In Bishkek, Reiterates ‘Friendship With Iran’ Amid West Asia Conflict - The Times of India",
       "sourceName": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVFU4Q2tGdzBINDNadDFIV3EyNV9qenpmc1dkY3Z0cW8wVVRwWFR3OS0yOWowVFVkWlBrdEhieWI5b2VVcHNhZ3FBSDJLcEk0aDVsN2tLQXNRclpnSm9pekhpVmVCWWpWbGM4Nm9MZ3FXQk1PX3g0TUZTLWdqTGc0ZEFBbHltNFVfMjlfTGdjNkZqQjBQLXZPa2RoYW9MdFBvZkk5TkQxdTJ4NWgtcVQ3SnBIWVNKMURuMDZ1WHdyU19OZXFmNHBvX0dJZGRqVWt6UHVKUzY4b9IB3AFBVV95cUxPdmRIRXJveFU0WFR5bDhVRGZMWXZVR25iUDI2eTBERUZUSHMtV2hQVnpsN3Z5d05UN3JZWFRlM1VRRHU1cDZQNHJCQ1Y2bW9IYnhOVE1CRk5taUVpY3dXQVlLenY0Z3BFMmJXWURxZm40LXhiTVlwYkxVTXdHRnRDbS1jTlZWRkNKRG04c3NHWDlTLTFQOFRPWkRYYk5IRjktRzdXbzhTcU5JZW5KU1IzOGNpYlhob0xlVHBjdlUtRHFvUXFjRjY4bFJXNlg4N0VuNm9wUHEybG9TTUI2?oc=5"
-    },
-    {
-      "id": "6a959b8d869a41ed2f66bf05",
-      "title": "Prajaseva Abhiyan to be launched on September 5 - The Hindu",
-      "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUhyU1hDZlNoQ3drM216cDF1X1N0NTlGN3BVLThWXzF2M1dBSlZ2MGZidmt3WlBxR2tNNk82WGZta0xRZ1BWTEFIOTZMRnNfalpJSnN0cjByNmNoLW42SG1XZFBRblg5MGFscUVLbTl3VzdEaG5vbG1uWjl2NlF0S3VldTRMbHBwbVZkaEVHNmF2NllyV1BtZG41cXZXU2ZlYVBqWUZMa3VMNXJ2eFVZb1M3UHZkZm_SAb4BQVVfeXFMTU84MVNHdWRlN2I1LUhOYnpuZ2x6OGxTS0xHZHpiNTRYa2FnLVkycWUzWk0tSzF5SWtIWFQ1QUVTQjdQeHpEU1JtSFdLS19uNUhycHdCbDRoYVNuQ21EdEpEOE4tZUZxcTRqNnBJRFBLNGpEWlBXSmlLVWp1WWlCTnZ1Q3N3SFBMdE1QTTJYTzJTOGhNeUhrc25LT0N5Si0wUHRBQl9IekdpM2x6ZjhMbHZtWnY3Yjc5YlBOdUtlUQ?oc=5"
-    },
-    {
-      "id": "6a959b8c869a41ed2f66bf04",
-      "title": "PM Modi meets Iran President Masoud Pezeshkian on the sidelines of SCO summit in Kyrgyzstan - The Hindu",
-      "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE9VeVRRTU1MTFhvSU5NR0VfWGE1Y3d4NjNpSlpvSTFCT01RczJPRDNHX2I2T05QVExOUEQ2WGlzSGlscGUwejBPOVQ1bDFNT2wzY2Fmd096WFhrUUdjc2xJaGNGcFdxc3NpTzl6dWtiZWphb2xKdUR2QnJTaUdFc1NxYUNZcmdwOGlJMTBYRzUweTBYa2FFVl8yaF9ZY2l5N2xxY01rbGdUTlJuelBxaGxEemctbVpmekZhSWJKcXJvQWxMTXEyWVpPa18ydU1QTGxOcmpNVmNYRWRqczZKUmJJb9IB6gFBVV95cUxPUThSMTZPa2lFaHVvbmxITndvT1dwNUwxOFFEVEs1Si04emFoX0pYZXQxdEZ3NG5YbllxNFlUVTZYMmZuV2RpTktxcTR1UEY0aEt5MUdzLU9jUmNBLUpFT3BkdDNSY3pqbHZjOEJGN1N4eXViLVVwVF9ESVhLSVJLN3h6eFlqZ2FHZkEwTHB1cEVIU1JPMVAySWtyeUpNVVBkUHN6YXA0c1R4VndXN2x6Snl6d3BubGFsSmxjZHFMcWduYjJRWnpjZnBhX05rOTdjRTZsRFl0U1JHWXlCYUNTTl9YNFdSZ0tvTWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSG1wczZKV2MwNUx2NzNJMWNsTjMtcmQwTmd1ZU12alhOd1h6d1dzd250eXBzNVNCTDY5eVlGUHgzVHUtYVVpRW85ZEtuNTRfUEItNDA4eS01RmlwVDd2VnQ2cTlSX3R6ODVFT3dwdG5EV0NYZHhCa1RxVWhzQ3drNXA1RF80cUxzTFo1TV8xVEJGUFZDWHV6dWNJY2piWkp2VXlLWmxCNW1MWWhVR1AxdndpSF9odUQwS1hOXzhWR09iRVBxQzlUb3BPWGFaVVZHYkRUZVpwNmtsLTdWZUxsaGtvczI3MUgxUmxWaEhhYXhxN1R2RGfSAfsBQVVfeXFMTXdLcE1NdFFxa0hOWTVieUhZRTVKZkRqNmhPcTZPeEFPejgyajVEbWVKTEg0SW01RVV5NDRoSV9PbloxRnF3OGY4YWFFX1RsbURWVGlUYVAxTUhfTjhMZXRIUkNFVGxXQjRpQk1xTUpqWnI0MUlJeDZ5Y093QXpTUjEzSzhMLWcyWnZmZm5fc0paeW1HVVg2UEFXUDAtQVFVU0NIUkZ2b2ZxMmNsUzN3VzJ2NDROVkhrVGpYSEJmeG1jVHowamJYZmVaMVJaMWdkV3UybXRNTzZsc253OUJFNk9rYU1GcDVwakRVV2lwdDU3eEZYM0FLRzdEbjg?oc=5"
     }
   ]
 }
