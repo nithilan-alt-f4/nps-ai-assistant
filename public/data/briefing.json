@@ -1,13 +1,13 @@
 {
-  "date": "2026-08-30",
-  "generatedAt": "2026-08-30T21:23:30.034Z",
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T07:09:31.404Z",
   "stats": {
-    "newToday": 79,
+    "newToday": 42,
     "assignments": 15,
     "emails": 5,
     "news": 8
   },
-  "narrative": "Good morning! The forecast shows a **53%** rain chance, so keep your umbrella handy for the commute. You've got a couple of quick updates: your **₹190** payment went through via [[Mail: Your payment of ₹190.00 is successful]] and you recently shared data with Canva in [[Mail: You shared some Google Account data with Canva (Google <noreply-accounts@google.com>)]]. In the news, political chatter is heating up as [[News: ‘They should listen to Mohan Bhagwat’: CJP's Abhijeet Dipke says BJP in power because of RSS]] highlights internal party dynamics. Stay focused today; you've got this!",
+  "narrative": "Morning! It’s 28C with a 65% chance of rain, so pack a **light umbrella** to stay dry. You have no school notifications or urgent emails, so you can focus on **prepping for the week**. Check [[News: CJP founder Abhijeet Dipke dares Maharashtra govt to file cases against him, says must fix schools - The Times of India]] for a quick read while you wait for school to start. Stay hydrated and have a great day!",
   "assignments": [
     {
       "id": "6a92dc71869a41ed2f6677b6",
@@ -182,6 +182,18 @@
   ],
   "emails": [
     {
+      "id": "6a952896ec34c418b10451ac",
+      "title": "UPI is here. Take 75% off.",
+      "from": "\"WordPress.com\" <hello@wordpress.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a0561566a36715d"
+    },
+    {
+      "id": "6a952895ec34c418b10451ab",
+      "title": "Join ADDA and Connect with your Neighbours!",
+      "from": "ADDA <support@apartmentadda.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a056a52dd700054"
+    },
+    {
       "id": "6a948edb869a41ed2f66810a",
       "title": "You shared some Google Account data with Canva",
       "from": "Google <noreply-accounts@google.com>",
@@ -198,65 +210,53 @@
       "title": "Your Sunday afternoon trip with Uber",
       "from": "Uber Receipts <noreply@uber.com>",
       "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a051a78048e5220"
-    },
-    {
-      "id": "6a942c00b98597a5999c38ed",
-      "title": "The Clock Is Ticking! ⏰ Fashion for Your Home Sale Ends Tonight!",
-      "from": "Pepperfry <hello@updates.pepperfry.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a051ad21067e05d"
-    },
-    {
-      "id": "6a942bffb98597a5999c38ec",
-      "title": "Your payment of ₹135.00 is successful",
-      "from": "FamApp <no-reply@famapp.in>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a051adaec4af10f"
     }
   ],
   "news": [
     {
-      "id": "6a949f4a869a41ed2f6681d9",
-      "title": "‘They should listen to Mohan Bhagwat’: CJP's Abhijeet Dipke says BJP in power because of RSS | India News - Hindustan Times",
-      "sourceName": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZHNqaVdRcnhUNUF2SXRiYmtEQ09haUpOcmM0bjVQb3ZoV3lZY3dfSlVvOVB3YkpCbGJkaHFWRGFDdGxrMkdLWS0zWUFYQ3RMaVY0Q29tZHVCYU9fS3YtTDJyVmFtclp1SnNJRnU4QWNDQ0VmdUxmaTNmVTBEYUdxR1owZkNtTlJOSThnOExUN1o3eTcydXcyVE9KNmgyUldwUmsySHdEMnRLRjI1RzlrWlpjdk5lRUZCSHlMVS1oX3IxaDQya2hnSEFwaWlsbkZraFdFSHZSLUstNXBkVTA1RmhwY3lnazRiR1lVVm03OGFqRHBKbjNVYmpEZjk2ZXNkSWZ4UEJnTdIBjAJBVV95cUxPdm5tNXdzZnl6Ul8xTDBJSzFvUFJwRGFpelVSMlpiSGUtTmY2SUQ2R01nOVlidkNKcV9RVmMzS253SkZZdGZRZjRHY1hfdGFfY0VKYzV0Ykc1amJ5dVM5aHhyc2pVYl9sangxcDRHbHAwaWFuQVZhODhPWC1WODVvdGFuM3pVblZNUTJvSEh6aUVIaExSYmxnVXZCRVNlZk9CbVA1Q0o4RFNCUGJhYVRMeXRuODhYX0tUTS1vLS00ZUctd3Q5RjNmYk9Gam9NQnV6MjZjQjhFRldSNHBweC1NTTFILV9QVVowZzNyUGdyNTBHdWhpekVobGc4ei14YVJfOEt2ZHhvX3hnVW1U?oc=5"
-    },
-    {
-      "id": "6a949f4a869a41ed2f6681d8",
-      "title": "'BJP Should Listen To Bhagwat': CJP Leader Abhijeet Dipke - NDTV",
-      "sourceName": "NDTV",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWxQd0FiN2JobTE0cHNlcG5ySHZaSU96WGwtYVVGY243cEc5UFZfVGE1cm9Jb0JCUkxDVjllZFBGTXZkcDFidkZWLWFpU0lmbWhVMUh5X2dSWHVKSm5zSWVZblN4bTdYVFFRU3I1cEtwQVJwTVdkck5VYVJ5Nm84bGtyY2twZE9KN1o3bjM5YkYwdHZi?oc=5"
-    },
-    {
-      "id": "6a949f49869a41ed2f6681d7",
-      "title": "'BJP thinks it is bigger than RSS, it should listen to Mohan Bhagwat': CJP leader Abhijeet Dipke - The Times of India",
+      "id": "6a9528a4869a41ed2f668b7f",
+      "title": "CJP founder Abhijeet Dipke dares Maharashtra govt to file cases against him, says must fix schools - The Times of India",
       "sourceName": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMXlkY2tGQWVVZjAyWlZSS2xPZ3JPR0RLMmFLTU9hZ2M2SG4yR0xyMU9JVFZ0aE42SU9qWjZkdlAzZnh4ZWs3eXRsa0NtMTM0VkpHamt1ajdlVkxkS0lTSlllZ1loM2tVLXllUTVvVlF6dUFBUWlzVUwxYjNKUktRekdSb2V5aElhZVpGZ0Vhb1dLUlc5dm5KRHpLNjNmZ183dGItSmoySzI1c19ReW5VZDBMR18xaXd4ZEtCd0p1VDBkazFDcWU4S01vV1FRYXQzSnppdHlaYk9yZHhlWkliVWxveUx0Rkk1Q0lraWh5R0VWQdIB9wFBVV95cUxQMTJtUm8zcmE1QmpVYUQwbzhvMW9QOHNCTmoxS3BBWkRZN2F2YU54SkFmOC1JamRPYm14VWtrQlUxc3Z4THNvZS1JaEN3SXh4eGoyWkRMYVEyclNGN1Rqd0ZvN3J0eGxCbF82NTUwUy1tTUxDeHNsdFpOWVFPbDBVWmVObkxlekZRNktMT2pfdnE5ckR4dGIxd2pmd0Uzak5HVTdpdk5KVVVDeExkalhPWXJ0alprU1JHc0JjLXlaT2w5aVBmNmsybEZXZ1BFS1RBam9zb3R2S0FPMWR3eG1NNGJGM1lJQ1RNMHdQbXFWVm9zZ0tzVWR3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQnRMZW4tb05xQ1o4WVpIREQyM0s0MDNyQk5hNGVxWnN5UF9Za1NCeVM3T3BEZGlCdU9YWFliZUwwMFNWYjhzQ21JVDJXR0psLUNTNVNqY2FNZzdncDNwVGIwS1dfZlM4Z25uaEtWYU9QbkI0S25NWlJJc0M0ZEg0dDZJeVU0cmxkcHEzdGFId1VrSGhuUzhMaV9kX3pHSm1KaTlLYzgxRVczLVZhekVOU1dMNDUzMkJEcDB6Q1M5cEZKcVhHamhxU0lDbnFBSXVsSVZwQ2FmZWNhRl8zd0R6VHFWN25QeFFYQzcweG14TWJSQUYtemw1SXYwNjBGRmp3RV9mS1U4QWhrZ9IBjwJBVV95cUxOckRUQWRQanJTZWgwV2ZhQVNuenVyTVZwMlFSLUxxX3BIdnVTWFRLc1otLWhNR0FKQVA2aUthQ3ZfU2JKT3BORlI1cnNVT2labWZtaXlmblBLdFdreGc5ZzluXzgycWVfRThzUTlLM2p4RFNiSm5KcHV5WUZkWEFWUWliYUpvY21HSDRtVXBaeXNwaHVEQlNuUjZFd3ZFQ3JlYjg2clM5aTk3LWdYUS0wX0Rwa2ZHaFhMQlpKd3h6eW1HMnVydWdJM0piaWE1TmkzUV93Sjc4NWVYV3ZNZFBvM0ROU05aZTZzMEkxRFRKVjdDOVEtWHlOWWMyeU5Na01aUG5uSDBQMzFWbHpxUmJZ?oc=5"
     },
     {
-      "id": "6a949f49869a41ed2f6681d6",
-      "title": "Vijeta Dahiya to make a comeback in CJP? Abhijeet Dipke says ‘will think about it but…’ | India News - Hindustan Times",
-      "sourceName": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQb2Q1ZVhpalNTOEIxZXN1OW8zRWl6aG9nR2xFaXRBNkRJeEFscVo2TGd6d0JXMmNsWXZHOEphajJackVkTzcyMU5tVWxsWWxwVjNJVm5Lb3hrQVdGdi1GQTRTWTNYMWdpcGNlQWdGQmYzWmdyaVFiSzJFWXNHWHY3MmR0R1hRUUl2RkR0Z2NINjZ0WlFrOGdFMzloNzNsRFJCM21HdG92b1hXQS02WWR4RjQ2R2pLbURzLXV1b3Nzc21QRU5IbVN4V0lNQ3g1dEY1eklSV1ozUThXSXZUbVpEbk1fR2owdWMwUlgzQ3E0Snp1STF0WnFnUFhzYmxSQjZC0gGGAkFVX3lxTE82Wk0teXZ2dmU1NGFxQ1ZKQUdNWkpZdjBHVXA1R2ZTTXBiOHhFbFhDb1BKbTRaYkR5OUNHZkdtMVFOekQ1Zzd5X1A3Tmd6MUItOXdUQ01jMWhRcVE0azZGSW5GUld6V0pqVGJwcWdxTzRlZEJwZnRnU0JQTDE2TXZjcnk3QmZ0VEJJZ0I1c1dVU3o3OWNCa1VLV0VlbE5IOHJTWnpLUUR5U1c5cXRyREpJRXZhOXFaVzQtd1NVeHdBUFN4TEJzeHVHQTR5UWswbUJVakxJcXNtaW4zYUtTR0kyUWZPVWMtVWI2ZVM0R1A5MXRYZ2IxU1JORmJvOEEycVJTaFdmWmc?oc=5"
+      "id": "6a9528a4869a41ed2f668b7c",
+      "title": "Video | CJP Latest News | Maharashtra Schools 'In Shocking State': CJP's Abhijeet Dipke Inspects Hingoli - NDTV",
+      "sourceName": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3hUQTNZenhjN2hONWxhVlJ4NllDbjE0U2YzVUJjN2ptaDlhYWxicjVTUEtSSXBTNXdURXF1UnlVVFQycGVtWk1hNmFkbktaSE9xSjF6MXdHTTlrZW53cHRVT0h2eDhvcExrUzNpZFY5bUlfU0U2MllDOVU5elV4RUhsS0kzbkNPX3hZN3hZSU9QY21hVUN1UmJybk1Pd01DdV9DaWoycVRvcDBndXk4WWtKTVpTQXhfcmhyZ25fZ2E4N0hQ?oc=5"
     },
     {
-      "id": "6a949f48869a41ed2f6681d5",
-      "title": "TVK's Vijay Emerges as 3rd PM Choice in MOTN Survey After Modi and Rahul Gandhi - India Today - India Today",
+      "id": "6a9528a3869a41ed2f668b77",
+      "title": "CJP finds in AAP an all-weather friend supporting it at every turn - The Hindu",
+      "sourceName": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1ZhUW5wcF9xRk44N2h4MW9HUVJMTFBWM0w5LWVoOTFPMDdwcDV0dVgwMTJ2SXJxVm5YRTdFbmRPZktJZk8tbEl3c3JMYzVJUTdxcGpOZW1Ma1g3a3Nad09hTllfb2RNT3YzT2ZNaFI1a3VBcDhwR2s0Sm5Ed1BVVjJuWmVRMjJYSXlkNUJWNlFDc29udjFtcGxUR3poQklzdjlJU2lWdnpJUERMUGVIUGVROVR3SlVhX1pWLU0tblJ1ZlnSAcoBQVVfeXFMTnc2NVdmRUlMaUNhWUJtS2FBLXhjcVFiNS1zX3U3VmJLaTlCaHdkU2s0ckJFUUZwWjVMZWIxUDdlaHV3Ui1jaVdFYV9PN00tWEhJeWxZMFRVZHZGel83RHkzTXlMTmtVd3VZaFdJX1lISms4czlVS2lTMHE2NjF3dGJkMDFVSDc3d0pNMGVnSW9DbFVLd2dtYmRMcTl1YjdwdVZkSjFkVFNKUXlWckJGa1htZWQyVHgwMm90RURYNzVCbUJnNnNpeE94QQ?oc=5"
+    },
+    {
+      "id": "6a9528a3869a41ed2f668b73",
+      "title": "BJP thinks it is bigger than RSS; should listen to Mohan Bhagwat: Dipke - The Hindu",
+      "sourceName": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRmZjMU5fQ0IwLUl0MVZIbkxVZmFvWVdXSl9yb3dLY1E5Uk5wR0p0VUZ4dXpsQXFFVlloeWV3MmVZbENYZTlPSFF3Sk03VC1BckIzNU91YVpObDhxNDFYdHg2YkVoUDBPRkRrZlNNa1ZpSlNQRlRVYkJsQW16SDhwcmdQLTMyNUFfdW9idXJLWU13UXBEZTU1NkV5ZU9Wd3ZMaUpJMFdUdXp5MnVubzRrdmNjOFZ0RmwzcENGVnJzcThrQVo1R0pB0gHOAUFVX3lxTE9yWUJqb1FZTWtjZFBJOVMwWFhEa3puZ045WjYycUtxNTZnZ2dpODB0YzROeW9TaDFOYVNvaUFNMWJreEtORnlDa05ZY3ZHclJseUx5Ujk2ZS0zUDJPeWFwRzNpYUEzVEpTQzRUZFRzYzlrSnIxNU5BNzVwZzJudmdOdU5tT2QxaFpTcjRCQTdRN3lIS05XYzJZTzZkNUh0R1Eyc2FiS1BjMEg5WUlrVE1sT2o0dDhXcFNLTzRoMFlCWFh5cjhzelNWS2s3UHRR?oc=5"
+    },
+    {
+      "id": "6a9528a2869a41ed2f668b69",
+      "title": "TVK Not Ruling out Vijay as PM Candidate in 2029 - Deccan Chronicle",
+      "sourceName": "Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQODkwa2hsZlpxVV9WZGVvcldJd0d5YjhDeFoxb2RJWXhmX193a0llQjhyZ1AtNFM5OVFZcS1rMGtyTFZoald2bDIxOVpCR25WdFNIb2Zid1lxZl96LXlpLTFyWnpQcDRuLXNpWFY3SXlJZmxycGxPeGxIUEsyRm1IVms2TWNKU3N3b1VtS3BZc3FoNFZTYWtyUmtHNjFNT0RIUVN1UE5FaDk3RjhzV0xtTkEwUUNSd9IBuwFBVV95cUxPRThSR245TnZDb0tlTWxDdUlhYmZnbGkxZWlCWk5SNVR4NHNhVGFTMDZ0b0QyMXp4bkJOcHNrUUtIT29QRGhKbk00MTB5T1lpT3dsZmFqcUdBdU5NdTdnbGdvQVhfWURqeFp6RDJnTjFWSlZVV1RuT1dncmhvanlEYjhRQ0tTZGRfTURsZVo4Q0hCUl9VUXlXUW0zdndvVnQzYzdMbmlUT1RVbWZTSDM5UFRpMUdHcUxGZk53?oc=5"
+    },
+    {
+      "id": "6a9528a2869a41ed2f668b66",
+      "title": "No limit to imagination: DMK, Congress push back against 'Vijay For PM' pitch - India Today",
       "sourceName": "India Today",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMjl6eGlnbGNobmdfUUtHZEpKMFJGWXZXNURkM2x6THNGQXJna0pNTkdsWVJKUzY3MGk4QjMxQXZLUUxEMG0zSS05VjllSk54OFM4STBKdFg1TndHRENNNWNhYmFhZHV0RWROanREUDNmMTBBd29tT0JlVThHZ2Z0cUdSQnFLdTR2b1l4RjZFdEt6QnlnMEdfdmVZbmxXYjJrb1ZKWk9EYzF2S0JueXlCRU5fMzZSRDlzZW85eUJCOFh4SDZRNm54NlppNXBqdTVoMGp2amgyb9IB3AFBVV95cUxOWk9Ua00zbE1Jam5PMjhzLTRxNHNfaEQ2YUZDbTQ0QzRsTkVTNFVRWnhZRm9sOEl6WGs0dXNKcV9iZHJPSkFsNHRNUldjSGZEYTJaSzVJWm1LUVBPYWtidzBrR2c0MkY1emdGRlVpMlZxVUxYOG5IS084TUVUODF2ejdXVUNOb2M0YVExVkVMU3RDeXFKd3Nsb2JweUMxWHdlS3gycl9DaVRfVFlrc1l3dXVlTTRfT3NncVlyRVY4d245Tmh0SEZYQ1hES0dIaDE1WTB4em5HZXdGcVRa?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUG1NQkxaU2pXekJrQ3hxc2VMOXlZdWZVSWpaenJxcmt4TlVXSzVZSWJUSjFzbHNRVjVlT3VDYUVRU19BRC1MZFdER3FzT09Wb0xQSXZ2NnNLa2JOeVhfTk1wTlJOYmluTkdnTE9PcXd1b2cxc19SdzdaOGZRcEZseFdvcl9kVGpWOWplelVrbmt3MkNDUTBLYXJzYlhsa2x2LVVYUkdiMnEzdzFiYkwxckNBcWF6dVp3ai04T1NuV0NHS3l3aFZtUkFmdHJTYkdMUmppcGNzVEFPR0owdk9NeUdKUDhWMVNZdkHSAe8BQVVfeXFMTThva2M3bWZwN1VaUXFDd2JQN0VMNHMwN0pxVUJHWk02eXNtTEJKUXNxMWRHTVp3TFdNQVhCT0NKRDJQUXYxVTZ2T2tLVzlOYXBXZ3NpenhFeS1wUnYtR3p1em9WRDh4U3l2d2Vhb0dfZnY1bzFzc3dNSVBtY0c1R0dNUE54Ui1jZkhkbkI1OEJoTWI1YXpQWUVySkVab2J3QnlIMm45V1k0WWZyeFNXTXpjbHNMZ1pQZDlzUGMwZ2lfQTdCR2xUMThMdTNramJvRjY2ZUVEc3FqMnlCR21XTkFaWmRxUXJPMl80c1JUY2c?oc=5"
     },
     {
-      "id": "6a949f48869a41ed2f6681d4",
-      "title": "Unsubstantiated claims cannot void election, CM Vijay tells Madras HC - The News Minute",
-      "sourceName": "The News Minute",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFZnTkRrcEJXMWVyTGtKU3NxODhVaWlDZldlUUtKRmlHQURROVF0UGRyM1cxbHZwemI4eEg0QnNza200MUFIRDRGY29TazZUWXlBQmVvSDZxSWU3NU9PeVJiY1RVdFV0dnN4SFZwTEhZbm9QcFZmT1N0em1ycHAwMVJxNmJ5S2FFQ0JqaE5oa1RnTjE3WmtUR1VxaGNJSGNYdFdHbVpEOTFOVkVVa3fSAbsBQVVfeXFMT0UzMnloSHZCZWY3STZXa29nV3V3MzJOSjZqSU40ZFNJTGZYLTNUSTNPUmJsWFJkOUFmTHhGd2VRbXNiMEFLZ0lRQUJ3TWxrYUhKVFJQX3VlMW44R0FheFltMVlJRXBDMEVERzMwWXo4ZVVaVFpGWTJLT0tkV0o0czlaVWlnVTBDVVc3NFdLY3g0QkNLNFpHZmgwZTl5VnpDeVZmeXdhU3hyR09uLWZBRS02aTVlWHJOTFQzNA?oc=5"
+      "id": "6a9528a2869a41ed2f668b65",
+      "title": "Congress will quit Vijay Cabinet if Rahul is not accepted as PM candidate, says Minister - The Hindu",
+      "sourceName": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZXVLWHd1ZzZWclBQQ01mU1JwaHl0MWl5dHpGMGNFbld3aUY5WUFSUXd4VkhKa2F3VWpvb1lJWG1oMGNXRTc2anp1R2sxeXBWYnZRU2pvRHlyODNRZEdHenFELXQteXZNTktJOUNldGFXZWNPVHo0anota0J3R2k4ZUFobG1sbkJtdnhQUHdBWnJ2SWU3cmtobi1RRWtjNGdKR3kwRjd2ejJISGN1VGk0b3N0WEYzQjJRUFJRTlBnM2NaNkxEcTZNbnlmVGxqQUxIRGxXOHdFeWxJQmlVTlN2WXhQbHpaaVBGSTdPUDBR0gH0AUFVX3lxTE83TkxIUHI5cE80RGZYMW5BQXp2V0ZQamgyVTg3VjNTXzJkdWVVaElCNTFlT1VTcFBtMElDT3lmUUpNUXgydm9IUmZHNXAtX0EtaGx6aHdLUUdDa3NpSkNnUWNTOVFuRDhCR2Z3d01fN0xCN0xBM0FnclNraWhZQ0s1MjUxcGFRcTRCb3BGbFp1cjc5UDFObkVKVUExSUd1UFpYc1FrbDlVWGQyV1FEQnJ3RVVXaUFYb2VYRnlYbkdzUDNaeURKM0VuRkd2SlZ5bU5SOVhDQnFyV0FVNW9yMWpUMm8zVmUzS3pOU0pTOVRNdjg1M18?oc=5"
     },
     {
-      "id": "6a949f48869a41ed2f6681d3",
-      "title": "As TVK leaders raise ‘Vijay for PM’ campaign, unease grows in Congress - Telangana Today",
-      "sourceName": "Telangana Today",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2hxOGZVUzRxSGVkWVNaUnM4dTRsLXZSdDZJU1FnLVljUlo5Ynl4R01oZ2t2MWRMZ2laQVgxUFc0MDNPc3NYZHlydWJIUXBkZ0VVRUJMaTBteVNaOVdoM0dlQzZNWDdwelRyU1A2OW82M0d1UklDRFZZV1AzZU43cTJiZlJXR25MWmVweVdsd0RMWDZZTW1PXzFn?oc=5"
-    },
-    {
-      "id": "6a949f48869a41ed2f6681d2",
+      "id": "6a9528a2869a41ed2f668b64",
       "title": "No material to prove Thaman was paid ₹10 lakh to compose TVK song, Vijay tells Madras High Court - The Hindu",
       "sourceName": "The Hindu",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUUtscXNFVTJKQTFTRElHSWxKSHZFbVJtSHlhUmd5YVh1MG85VjJ5VEtrRjUwOGc0dHAwWmZlUjNnSHJnMk9jS0EzeUZPWHNEQlFWREJyUk1KNVdDaWlaS0R4S2Rkd3J3QlVnNDZNLTRVR1ROOHl3bmlHbGdtVEdVMFN2ZGhVeE4wM1NXU0Q0NFY3RnFQcVRzRFV3eXhJa0ZKcjhGTmdmcTg4bG14YjllRmQwSHBjb1BzdnBma29tYVotUm5MXzkxZ1pjT1ZQTlZ6RHBud0lkRk1VaWpfUjNuNHczeFg3ajYxWDNkbmt1S0UxV2pjYzNj0gH-AUFVX3lxTE1aMlNXZHR4cXp0OC1PV01WME9mWHpnTkJ5VHVlX3ZSYTZEcGhwWE5oeHBHWHdCVmFFYlNjWWwxMHBYZEpON0RkLUhFOUQ1VFFDZEFMWi1CNGI2YkF1RVNtUDQ1Q1RjTGxIOUlkdW05NUJRQkM5MUNneXE0NFB0QkFTN05qZkQ5bU9MSDZ0RWJWM1lpMW9VQzc4OTVMb0VHVktCVjVXYjdLdUxRWjAyMjhjZUllQzU0bXZhaHNKbW5HU21yT0o2ODRBSlhfSm9kaWh0SUlNT3BVNndvVm81QWNHOEtxWHlqMjlmRXZxZC14X3BCQ2ZJd284RU4tc1NB?oc=5"
