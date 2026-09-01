@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-08-31T23:00:02.387Z",
+  "generatedAt": "2026-09-01T06:22:15.582Z",
   "events": [
-    {
-      "id": "jlthqs1tcljlhnbursumq13a28",
-      "title": "Physics Lecture",
-      "start": "2026-08-31T17:00:00+05:30",
-      "end": "2026-08-31T18:30:00+05:30",
-      "calendarName": "School"
-    },
-    {
-      "id": "6m7kb536oqjd41qv9ra7mp47us",
-      "title": "Mathematics Lecture",
-      "start": "2026-08-31T18:30:00+05:30",
-      "end": "2026-08-31T20:00:00+05:30",
-      "calendarName": "School"
-    },
     {
       "id": "o22lvnbgc8rcuuame4ire3pes0",
       "title": "Physics Lecture",

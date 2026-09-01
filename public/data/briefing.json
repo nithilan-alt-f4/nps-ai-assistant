@@ -1,13 +1,13 @@
 {
-  "date": "2026-08-31",
-  "generatedAt": "2026-08-31T23:00:02.387Z",
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T06:22:15.582Z",
   "stats": {
-    "newToday": 135,
+    "newToday": 14,
     "assignments": 15,
     "emails": 5,
     "news": 8
   },
-  "narrative": "**Heavy rain** is almost certain today, so pack a sturdy umbrella and wear **waterproof shoes** to stay dry. You have no school alerts, but check [[Mail: build failed for daily-briefing]] to see if your project needs attention. For reading, skim [[News: 'BJP Should Listen To Bhagwat': CJP Leader Abhijeet Dipke - NDTV]] for local context. Keep your gear dry and stay focused, you’ve got this!",
+  "narrative": "Good morning! It is **Tuesday, September 1st**, and Bengaluru is set for heavy rain (91% chance), so grab your **umbrella** before you head out. The **27C** humidity means it will feel muggy, so wear light, breathable clothes. Check the [[News: Vijay stakes claim to form govt in Tamil Nadu with support of Congress, VCK, IUML, Left parties]] headline for major political updates. Your **Render** deploy failed, so try fixing that build later. Have a great day!",
   "assignments": [
     {
       "id": "6a92dc71869a41ed2f6677b6",
@@ -182,6 +182,12 @@
   ],
   "emails": [
     {
+      "id": "6a966f03480645aaf35176a0",
+      "title": "🎁 Your Tuesday Just Got Better! Rs.2,500 Added to Your Pepperfry Wallet!",
+      "from": "Pepperfry <hello@updates.pepperfry.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05b4904c9e49f8"
+    },
+    {
       "id": "6a959b814234edc879803183",
       "title": "✨ More Time to Shop! Fashion for Your Home Sale EXTENDED!",
       "from": "Pepperfry <hello@mails.pepperfry.com>",
@@ -204,62 +210,56 @@
       "title": "Join ADDA and Connect with your Neighbours!",
       "from": "ADDA <support@apartmentadda.com>",
       "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a056a52dd700054"
-    },
-    {
-      "id": "6a948edb869a41ed2f66810a",
-      "title": "You shared some Google Account data with Canva",
-      "from": "Google <noreply-accounts@google.com>",
-      "summary": "You logged into [[Mail: You shared some Google Account data with Canva]] using **Google Account**, so **Canva** received your name and email. There’s nothing you need to do now, but you can ask a parent to change the sign‑in settings if you want."
     }
   ],
   "news": [
     {
-      "id": "6a96076a869a41ed2f66c0e3",
-      "title": "'BJP Should Listen To Bhagwat': CJP Leader Abhijeet Dipke - NDTV",
-      "sourceName": "NDTV",
+      "id": "6a966f10869a41ed2f66c6af",
+      "title": "'BJP Should Listen To Bhagwat': CJP Leader Abhijeet Dipke - ndtv.com",
+      "sourceName": "ndtv.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWxQd0FiN2JobTE0cHNlcG5ySHZaSU96WGwtYVVGY243cEc5UFZfVGE1cm9Jb0JCUkxDVjllZFBGTXZkcDFidkZWLWFpU0lmbWhVMUh5X2dSWHVKSm5zSWVZblN4bTdYVFFRU3I1cEtwQVJwTVdkck5VYVJ5Nm84bGtyY2twZE9KN1o3bjM5YkYwdHZi?oc=5"
     },
     {
-      "id": "6a960769869a41ed2f66c0e2",
-      "title": "Opinion | India’s ‘Cockroaches’ Are Fighting Back - The New York Times",
-      "sourceName": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2xPVmViZHd1S0hNWWwtMnBUcUxabjRZdW40ekpydVRhSFo5NlNLNEc2NHVWZ2xDcmx2RnFnWkNUS3hLVmhaTFZRX3JWczJ5eWN3MmtORWM1TFZ1VWZFaU84WF9SWWY3alFxRE9YekYzeU55OFRzRkZzVUpPVG55elRlZXQ?oc=5"
-    },
-    {
-      "id": "6a960769869a41ed2f66c0e1",
-      "title": "Vijeta Dahiya to make a comeback in CJP? Abhijeet Dipke says ‘will think about it but…’ | India News - Hindustan Times",
-      "sourceName": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQb2Q1ZVhpalNTOEIxZXN1OW8zRWl6aG9nR2xFaXRBNkRJeEFscVo2TGd6d0JXMmNsWXZHOEphajJackVkTzcyMU5tVWxsWWxwVjNJVm5Lb3hrQVdGdi1GQTRTWTNYMWdpcGNlQWdGQmYzWmdyaVFiSzJFWXNHWHY3MmR0R1hRUUl2RkR0Z2NINjZ0WlFrOGdFMzloNzNsRFJCM21HdG92b1hXQS02WWR4RjQ2R2pLbURzLXV1b3Nzc21QRU5IbVN4V0lNQ3g1dEY1eklSV1ozUThXSXZUbVpEbk1fR2owdWMwUlgzQ3E0Snp1STF0WnFnUFhzYmxSQjZC0gGGAkFVX3lxTE82Wk0teXZ2dmU1NGFxQ1ZKQUdNWkpZdjBHVXA1R2ZTTXBiOHhFbFhDb1BKbTRaYkR5OUNHZkdtMVFOekQ1Zzd5X1A3Tmd6MUItOXdUQ01jMWhRcVE0azZGSW5GUld6V0pqVGJwcWdxTzRlZEJwZnRnU0JQTDE2TXZjcnk3QmZ0VEJJZ0I1c1dVU3o3OWNCa1VLV0VlbE5IOHJTWnpLUUR5U1c5cXRyREpJRXZhOXFaVzQtd1NVeHdBUFN4TEJzeHVHQTR5UWswbUJVakxJcXNtaW4zYUtTR0kyUWZPVWMtVWI2ZVM0R1A5MXRYZ2IxU1JORmJvOEEycVJTaFdmWmc?oc=5"
-    },
-    {
-      "id": "6a960768869a41ed2f66c0e0",
-      "title": "Waqf funds, free tuition for Muslim girls: Analysing TVK government's freebies and appeasement model - opindia.com",
-      "sourceName": "opindia.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeVRxalhBRkhDMi1kOVlaZjJOdE1Wa0Q0a2tqZ203YU5MbUoySG1jVXdYWEFPTVRuUHlaREF1aV9NRElnTmxob2RLbU01cjZQeVBwVGl1RWdrNEs5bFl3TUlxc2FrNzBqWjliWVg2bGhCNUJVVGlDNEZCZ0VSR1UxeklsWDVIdWltUnpxWE5uMTZvdXZWZVJhcVNLUWxZcW1mbFNxOVA3dFh0bmhrdXFvQy0yR2s2WGRVeTJMU1ZJUXJWNnFWZEpFcjJxaDBlT2pjMXZzTg?oc=5"
-    },
-    {
-      "id": "6a960768869a41ed2f66c0df",
-      "title": "TVK chief Joseph Vijay meets Tamil Nadu Governor Vishwanath Arlekar for second time at Lok Bhavan - News On AIR",
-      "sourceName": "News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEtCd2t4bzQ5QUFRX1I3TkFfNXRCaEM2WkdRM3Jvc3lzWE5tR1lTdFZXTUFlVnlBTXVlOWVzZ2I5SzJpLUJ2UUZZZG9XRVhnTl96Y2x5RFpsa1FuV28xLVExT3hEeFd0VnNMWkhCaEh4X08zLWVDSGFHSHRGcnN3NVJyWXFYSmVaTWdydGFiWU9XZWpNOVFQekhFdnV3ZzZYYlVhb2QxWG1IQmYyeGpxVXRFekZPOVpsMUstUVoxdHI?oc=5"
-    },
-    {
-      "id": "6a960767869a41ed2f66c0de",
-      "title": "Why Karnataka’s two new laws sparked controversy over Bengaluru tunnel road project - The Indian Express",
-      "sourceName": "The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGNqZjlULVk5THR0STE4NzRCNVhrdXczSGtuN19wUFVialVWTnYzdDNpSHcxZjNfNzJ2MzdPZnBoNVZTNkJUMWVPNHZTb2hmb19nUzVMMU9hOG1aNlNKR1dFUzBDcjA2SFVHc3d3MkFZYnZSZUppdG9oZ0FVME1lR1BZMGFGeEUxUWlIWGdYUkFkeWZuYXdlenVSX1FLU2hKQTB0RU9sU3JialY2bkc0VFJBaG0zWTgxT2paUdIBwwFBVV95cUxNTEg4di10M3FIYnJUWGVhRFFIWGFWZlpfdzhOZ2lsSlBDcEotajNCYmNUa2ZESmEyTmFZSzBFU1RVMnJ5VFBhSlJlYkZUdF9qeGhhR0txRThkVGlvcHh4Ri1MMUV3czk4c3VwZGZYWkF3MWJnMHNla3NXaGdYbF80Y1lDQV90OVdwMzVvakpGVURpSWEzaWphczlHVHJrcnhabFZEejQ1NUlGMG5YU0hWQXFGWHBjOGJHZ2lCZDhibVo4aDg?oc=5"
-    },
-    {
-      "id": "6a960766869a41ed2f66c0dd",
-      "title": "Nepal floods: At least 13 people from Karnataka yet to be traced, says CM - The Hindu",
-      "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcjdKV0kxS0ZFT0ZjOGsxcEhZWG5lczFyWC1sRFBpNEg4VmJhOFl0Z3B5aXpBZWMtNFRRVi1NYWRjSVVvd3lHYTc3YUZzUTBldU1GUDB5N3FGOUtOVjJrVXYyNi1wejRhc0Z0MlA0SW0zYThVbDAtbktOcTM5aGk2QzBHQ3ZxN09SeHpKOS1jWFdZXy11N08xMGQ1RTUxQ1dkeDhIX3VDQVJraTROazFoRDdneE9JeWoyZ25tLU9IR24yUnM4b3ZMSXgtYVFlWExVc3dVY9IB2wFBVV95cUxOMnZ5YmY3UEFiVEQtNXd0Ri1VMnpqOEliOWkzWnlSWTYzTWIteFJGbFJaR0NILTVOVzZFQnhNdWJha0tQWE9hVjI0M2JjbXhjeGduVXhXMmlJSVBaNVlYVEhCWl9pckZfT0JIX2F6R3NJU1ZFWWZ4YVBsek5xdFhOSnRkamJNS2hETHFCdkV2amZYemxLMzNuOG1aeFh1WEJDaUFyaUJaNThzX01RWklrUnl0dkd1ejFKXzFpZHl4NG5KUWVfVVF6dmx0N1VWR05kNEJ5R1J2cnRlSmM?oc=5"
-    },
-    {
-      "id": "6a960765869a41ed2f66c0dc",
-      "title": "PM Modi Meets Pezeshkian In Bishkek, Reiterates ‘Friendship With Iran’ Amid West Asia Conflict - The Times of India",
+      "id": "6a966f10869a41ed2f66c6ae",
+      "title": "'BJP thinks it is bigger than RSS, it should listen to Mohan Bhagwat': CJP leader Abhijeet Dipke - The Times of India",
       "sourceName": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSG1wczZKV2MwNUx2NzNJMWNsTjMtcmQwTmd1ZU12alhOd1h6d1dzd250eXBzNVNCTDY5eVlGUHgzVHUtYVVpRW85ZEtuNTRfUEItNDA4eS01RmlwVDd2VnQ2cTlSX3R6ODVFT3dwdG5EV0NYZHhCa1RxVWhzQ3drNXA1RF80cUxzTFo1TV8xVEJGUFZDWHV6dWNJY2piWkp2VXlLWmxCNW1MWWhVR1AxdndpSF9odUQwS1hOXzhWR09iRVBxQzlUb3BPWGFaVVZHYkRUZVpwNmtsLTdWZUxsaGtvczI3MUgxUmxWaEhhYXhxN1R2RGfSAfsBQVVfeXFMTXdLcE1NdFFxa0hOWTVieUhZRTVKZkRqNmhPcTZPeEFPejgyajVEbWVKTEg0SW01RVV5NDRoSV9PbloxRnF3OGY4YWFFX1RsbURWVGlUYVAxTUhfTjhMZXRIUkNFVGxXQjRpQk1xTUpqWnI0MUlJeDZ5Y093QXpTUjEzSzhMLWcyWnZmZm5fc0paeW1HVVg2UEFXUDAtQVFVU0NIUkZ2b2ZxMmNsUzN3VzJ2NDROVkhrVGpYSEJmeG1jVHowamJYZmVaMVJaMWdkV3UybXRNTzZsc253OUJFNk9rYU1GcDVwakRVV2lwdDU3eEZYM0FLRzdEbjg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMXlkY2tGQWVVZjAyWlZSS2xPZ3JPR0RLMmFLTU9hZ2M2SG4yR0xyMU9JVFZ0aE42SU9qWjZkdlAzZnh4ZWs3eXRsa0NtMTM0VkpHamt1ajdlVkxkS0lTSlllZ1loM2tVLXllUTVvVlF6dUFBUWlzVUwxYjNKUktRekdSb2V5aElhZVpGZ0Vhb1dLUlc5dm5KRHpLNjNmZ183dGItSmoySzI1c19ReW5VZDBMR18xaXd4ZEtCd0p1VDBkazFDcWU4S01vV1FRYXQzSnppdHlaYk9yZHhlWkliVWxveUx0Rkk1Q0lraWh5R0VWQdIB9wFBVV95cUxQMTJtUm8zcmE1QmpVYUQwbzhvMW9QOHNCTmoxS3BBWkRZN2F2YU54SkFmOC1JamRPYm14VWtrQlUxc3Z4THNvZS1JaEN3SXh4eGoyWkRMYVEyclNGN1Rqd0ZvN3J0eGxCbF82NTUwUy1tTUxDeHNsdFpOWVFPbDBVWmVObkxlekZRNktMT2pfdnE5ckR4dGIxd2pmd0Uzak5HVTdpdk5KVVVDeExkalhPWXJ0alprU1JHc0JjLXlaT2w5aVBmNmsybEZXZ1BFS1RBam9zb3R2S0FPMWR3eG1NNGJGM1lJQ1RNMHdQbXFWVm9zZ0tzVWR3?oc=5"
+    },
+    {
+      "id": "6a966f0e869a41ed2f66c6ab",
+      "title": "Vijay stakes claim to form govt in Tamil Nadu with support of Congress, VCK, IUML, Left parties - News On AIR",
+      "sourceName": "News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYnZNelFLRmRoVWVPT3dLNXdHVWNFV19uRGI4UUVMMUJWUmM2VkJ5QmlUUlAwMzZaVFdGcEs3V2gwbnM3R3p5SE9QMnk4YUlMTHdiME9tUWpkY2trXzVTd083VTZpa3hjQkQ1WUZ0YzFESUZYRnE1SjhVcnRDVncyWm9CM05UUkhTbUtKTnVyNzF4X012M0xhdUpRVkVLREt3M3dxZw?oc=5"
+    },
+    {
+      "id": "6a966f0e869a41ed2f66c6a9",
+      "title": "‘Vijay for PM’ is a far cry. He looks lost even as Tamil Nadu CM - ThePrint",
+      "sourceName": "ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeTRhd0xBQW05cUxxamVvSHo4VEdOaUtpTVpyeUhHQ0FoN25ERHVSVWxpQ2F4dlRzZlJ4Ql8yb19pc0FPWDg5YmpkazVSWUdKSmJOR3FXX2FIcXBuU1pBNVExc1JVYTR2YVlWMUw4NUktdk56N19rZnlwdEU5NFY3RGtIRnI5alA2U0dPMnNZNlpOMDlMQ3V6TzgxT3NtcU9ZNktGbW82a2NmbGl4em83cERkZ9IBuAFBVV95cUxNY2loQzZ5MWlOdGlITjJadVNMTHN2SFdvc3pqeTFpOG1QLVF1MzlKSV9YcGxNLUE0ZVNxOTNjZjZJMnVIOTNWc1R5VG9waktpNHlKVXRHSW1vdkI1clBIZXZKMno2cUt5WDRkOWJqSlBsM1RmQkFGNmlOMkVxNHVFMHk4OXQtVTBYYy1BWHo2NEw1WF9QTXpDUGM0YnVhNFR6UHBJZmh3SDZUemZNOFlyM1NsMkNqRnZs?oc=5"
+    },
+    {
+      "id": "6a966f0d869a41ed2f66c6a8",
+      "title": "DKS subtly targets BJP, says won’t interfere in KPSC investigation - newindianexpress.com",
+      "sourceName": "newindianexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORjl1anc5dk9kMWJ2MHBnb2FheWo5cC1XNWhJVXFKSlhlMnZFdXZpa2xhU01mM2ktTmNrLXFQNi12eXZKNDhWVmFwUXA0em5MZjNhMVg0bXdlNzJ1aUFFSWhWaU9qeFlSY25NOUFwY2lhSVU0eVJVbHBBa1hBMklXRGZEbjhmNGp0djVCNHlDWkw5Vl90UTZtRUxNY3hSNDc1V2ZmM2lfRXRGeXoyQWdoa1RrZ0xWRjV1SWo4WUY2Y3g0Z3d40gHSAUFVX3lxTE52RlVkamZVYjFfSmtEMmtVQi1CbEdZZDlKVmJqc3pGbzhkSU1rQmVqNzZNTlhFUDFFempfSUYyblVxbmpieVRxQks0bGZyeXpUTWg0V3FOcE9nS2tWS1F3Z2RkWmFVOUtjLVZXZWtOQ2RmRGdrZVBrSG85TDZpN0UxLVMtbHptR3FVNkJaNHJ2Z2RkRW0wbTFrRTZZekRONi1LaElyWlFnbHBoaGlLNURvLUlXTnhXZFJ6Y1RaNXp1Q2F4eGc1ZXRVWGNraW13RVlBUQ?oc=5"
+    },
+    {
+      "id": "6a966f0c869a41ed2f66c6a7",
+      "title": "Rs 72 lakh for 30x40 site: BDA starts accepting applications for Karanth Layout - Deccan Herald",
+      "sourceName": "Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb0EzeWZrMHp0UFpfR0dQc1NQTE5sUTBSbF9ZTkpHVzFXYUlheXZneU52dzN5ZGY1RGRxU2J5SVhHdHpVdEplOEtUM2NHN040cDI1Z1l0Z0VYRVpQWjZKTkxaZTR2cmo0dDBMbXE1RWt5V1RCQ0ZMX0pDYjNyZGVWMEVkZVFRdUFDRmJrX1J6TGg0Y1RYS2JiMGtJYTFLX1VfY3VMUWRKSmcyaFNTeTBLbHJrajNOREFxWnBPVGVXMWI0WEtIZ2hhS3gzbDU2SUZMS3Rxc1Y5Y0s?oc=5"
+    },
+    {
+      "id": "6a966f0c869a41ed2f66c6a6",
+      "title": "Amit Thackeray asks removal of PM Modi’s photo placed next to Chhatrapati Shivaji Maharaj, Ambedkar - Deccan Herald",
+      "sourceName": "Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaXFYTG1RQTVqcklnalZFeExvMndSSXBuMTFCV3dyTGFlbm0xVGNINW1QT0VfSXRONFUxQ2s0bG16WGUtVW5TemZKbWV4cHFmNnpwN3c0dXRnZjA4ZVRKTlA2MlV1eUQ3bllnbE1RWkMxLUpkNlFtTmZUaktJVUpHQUpNMlAyVEdBSnloTTZYZmlvYm9MRzY4ZFR6bkhRNTNmT1gtdHdFQ0l5bm5qSmoxQWQzUDJIaGRhNmw5bE9rMVVVT3dMSF95NmZETFp6NjU3Wjl2d3J1Y2EyS0ZoakRGektUcTFPR0k?oc=5"
+    },
+    {
+      "id": "6a966f0c869a41ed2f66c6a5",
+      "title": "Terrorism can't be strategic asset: PM's firm message at SCO, Pak's Sharif present - India Today",
+      "sourceName": "India Today",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONnpwZDVjMmhmSEc4U0FWc0k0elBUczJ1dXNFa2hTbWV1X2pLdVkzSzJaeVZQRUNnZTBiTjdJdTY1SDI0RUFHdVRXV01fb1ZoalBISmhPWktocEdoSmN1a0cwNkRGbTJBdFRlZWJGRERIU19EMFREcFotVkdLcU1rSC00dlR2REx1S1E0ZVd3d21iRTN1dFFWWFlmQnh4MldkemdRVFlOdmpud080UnpsYjVOcDBPc2toUE1hakUwOTNLdUhzU0lfWk9kVHBVM0FFNWFzZ3ZCVF9kYkdDQW9BbWMzcjh5VmtPaWwxeXhPZHdEd9IB9wFBVV95cUxNVFA0VDZBTkRNVlRXaThWNFE4c0luSmhOUXh6ZC1ndzVVOWxOZ3JEQ2NzcHplMGgzcGltYTFpSndQQjBJOXRacVc2U1BBSnZmWjJkZkpoWGhJZFRwV3JwaUFZSFVTVjZDTThSMDdfSG83Y0tWWEhlaF9IdHhIOVFENE9iTloxckxoUVE0Mlcyb01lazlOczVFa1hYb0dhUlVPWGpqQlFVX3ozcjFVemRfblRRS1VDOV84RWFrMF9FeHU4eFBJdEdrWEhOYXdKeVp3d281U2NNZmh2YVd2SUpiX2s0QVBPWEV2ODUxNEtxbHhNakNmT2JV?oc=5"
     }
   ]
 }
