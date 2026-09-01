@@ -1,14 +1,26 @@
 {
   "date": "2026-09-01",
-  "generatedAt": "2026-09-01T06:22:15.582Z",
+  "generatedAt": "2026-09-01T12:43:32.568Z",
   "stats": {
-    "newToday": 14,
+    "newToday": 61,
     "assignments": 15,
     "emails": 5,
     "news": 8
   },
-  "narrative": "Good morning! It is **Tuesday, September 1st**, and Bengaluru is set for heavy rain (91% chance), so grab your **umbrella** before you head out. The **27C** humidity means it will feel muggy, so wear light, breathable clothes. Check the [[News: Vijay stakes claim to form govt in Tamil Nadu with support of Congress, VCK, IUML, Left parties]] headline for major political updates. Your **Render** deploy failed, so try fixing that build later. Have a great day!",
+  "narrative": "Good morning! It’s **91% chance of rain**, so please **pack your umbrella** and wear **layers** for the **25C** chill. You have a **Zip invite** from [[Mail: The Daily teammates have a Zip invite waiting for you. 📬]] and some **job openings** in [[Mail: Sigma Black Belt job openings in the past week]] that you might want to review. Keep your head up and stay dry today!",
   "assignments": [
+    {
+      "id": "6a96c844869a41ed2f66df21",
+      "title": "Assessment of Listening Skills",
+      "subject": "Subject: English",
+      "teacher": "Teacher : GEETA NAIR"
+    },
+    {
+      "id": "6a96c844869a41ed2f66df20",
+      "title": "Poster Making Competition",
+      "subject": "Subject: Work Education",
+      "teacher": "Teacher : SURESH BABU"
+    },
     {
       "id": "6a92dc71869a41ed2f6677b6",
       "title": "Computer Science Project Ideas",
@@ -86,18 +98,6 @@
       "title": "Relations and Functions worksheet",
       "subject": "Subject: MATHEMATICS",
       "teacher": "Teacher : MOHAMMED ZEESHAN"
-    },
-    {
-      "id": "6a91fdb7869a41ed2f666d53",
-      "title": "Revision Worksheet_PT1",
-      "subject": "Subject: PHYSICS",
-      "teacher": "Teacher : SURESH BABU"
-    },
-    {
-      "id": "6a91fdb7869a41ed2f666d52",
-      "title": "Worksheet 1 - Chapter 1 2 and 3",
-      "subject": "Subject: COMPUTER SCIENCE",
-      "teacher": "Teacher : GAUTAM DODDAMANI"
     }
   ],
   "notifications": [
@@ -182,84 +182,84 @@
   ],
   "emails": [
     {
+      "id": "6a96c863971ebda0814ff2df",
+      "title": "🛍️ WHY WAIT FOR DIWALI? Shop the Sale NOW! 🔥",
+      "from": "Pepperfry <hello@mails.pepperfry.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05c300cf9ec0cf"
+    },
+    {
+      "id": "6a96c862971ebda0814ff2de",
+      "title": "The Daily teammates have a Zip invite waiting for you. 📬",
+      "from": "LinkedIn <messages-noreply@linkedin.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05c64c98fc60e8"
+    },
+    {
+      "id": "6a96c861971ebda0814ff2dd",
+      "title": "Sigma Black Belt job openings in the past week",
+      "from": "LinkedIn <messages-noreply@linkedin.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05ced4c9142217"
+    },
+    {
+      "id": "6a96c861971ebda0814ff2dc",
+      "title": "Run your coding agent on OpenRouter with one command",
+      "from": "OpenRouter Team <welcome@openrouter.ai>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05cef36cd3d100"
+    },
+    {
       "id": "6a966f03480645aaf35176a0",
       "title": "🎁 Your Tuesday Just Got Better! Rs.2,500 Added to Your Pepperfry Wallet!",
       "from": "Pepperfry <hello@updates.pepperfry.com>",
       "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05b4904c9e49f8"
-    },
-    {
-      "id": "6a959b814234edc879803183",
-      "title": "✨ More Time to Shop! Fashion for Your Home Sale EXTENDED!",
-      "from": "Pepperfry <hello@mails.pepperfry.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a056f44009a1dba"
-    },
-    {
-      "id": "6a957c63869a41ed2f66b6f6",
-      "title": "build failed for daily-briefing",
-      "from": "Render <no-reply@render.com>",
-      "summary": "Your **daily-briefing** project didn’t finish the **build**, so the latest changes aren’t live yet. You’ll need to look at the error logs and fix the problem."
-    },
-    {
-      "id": "6a952896ec34c418b10451ac",
-      "title": "UPI is here. Take 75% off.",
-      "from": "\"WordPress.com\" <hello@wordpress.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a0561566a36715d"
-    },
-    {
-      "id": "6a952895ec34c418b10451ab",
-      "title": "Join ADDA and Connect with your Neighbours!",
-      "from": "ADDA <support@apartmentadda.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a056a52dd700054"
     }
   ],
   "news": [
     {
-      "id": "6a966f10869a41ed2f66c6af",
-      "title": "'BJP Should Listen To Bhagwat': CJP Leader Abhijeet Dipke - ndtv.com",
-      "sourceName": "ndtv.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWxQd0FiN2JobTE0cHNlcG5ySHZaSU96WGwtYVVGY243cEc5UFZfVGE1cm9Jb0JCUkxDVjllZFBGTXZkcDFidkZWLWFpU0lmbWhVMUh5X2dSWHVKSm5zSWVZblN4bTdYVFFRU3I1cEtwQVJwTVdkck5VYVJ5Nm84bGtyY2twZE9KN1o3bjM5YkYwdHZi?oc=5"
-    },
-    {
-      "id": "6a966f10869a41ed2f66c6ae",
-      "title": "'BJP thinks it is bigger than RSS, it should listen to Mohan Bhagwat': CJP leader Abhijeet Dipke - The Times of India",
+      "id": "6a96c86e869a41ed2f66df37",
+      "title": "'Where are your pellet guns now?': Abhijeet Dipke slams Delhi Police over bus gang rape incident - The Times of India",
       "sourceName": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMXlkY2tGQWVVZjAyWlZSS2xPZ3JPR0RLMmFLTU9hZ2M2SG4yR0xyMU9JVFZ0aE42SU9qWjZkdlAzZnh4ZWs3eXRsa0NtMTM0VkpHamt1ajdlVkxkS0lTSlllZ1loM2tVLXllUTVvVlF6dUFBUWlzVUwxYjNKUktRekdSb2V5aElhZVpGZ0Vhb1dLUlc5dm5KRHpLNjNmZ183dGItSmoySzI1c19ReW5VZDBMR18xaXd4ZEtCd0p1VDBkazFDcWU4S01vV1FRYXQzSnppdHlaYk9yZHhlWkliVWxveUx0Rkk1Q0lraWh5R0VWQdIB9wFBVV95cUxQMTJtUm8zcmE1QmpVYUQwbzhvMW9QOHNCTmoxS3BBWkRZN2F2YU54SkFmOC1JamRPYm14VWtrQlUxc3Z4THNvZS1JaEN3SXh4eGoyWkRMYVEyclNGN1Rqd0ZvN3J0eGxCbF82NTUwUy1tTUxDeHNsdFpOWVFPbDBVWmVObkxlekZRNktMT2pfdnE5ckR4dGIxd2pmd0Uzak5HVTdpdk5KVVVDeExkalhPWXJ0alprU1JHc0JjLXlaT2w5aVBmNmsybEZXZ1BFS1RBam9zb3R2S0FPMWR3eG1NNGJGM1lJQ1RNMHdQbXFWVm9zZ0tzVWR3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbUZlNV94bkpxa1JlaFpaZE1LV3M4M2VxQlMxX05Ccnh3aWdDRUg0UDMzVzJ6c3VYcDA1XzY5V0pZcmJJWlg5c29GUGRaekFKZlZjUndocUtUSjFTMW5CajBSTWFaVzFmLU9VaERXQ3Jsa1pjcWstX0kxTEVOdnVjQjZkNHZjYi15M0tnYXMwQ0tDQkRGNTRfMjI5ZXBESGIzZGdCNGdJWFV0d2ZHbGhFMDhDR2JwZjZCYnFZVTU1c0hBa3pPNzlhaDRGV0NYZXQ3RTVWeFVnenNyWW9zQkxpa1dGQWVGQ3d1S1o1TV9aN1ROSDkxenJqQXplOGlqMzhhZEMtVG53QdIBjAJBVV95cUxQU3YtMjhpMnRUSjZkRXpTc3RkNGFXQW9sTzVTRlh0NXpQNjlRaGEtUWRKbWxUY2JOalF1Nk1ocXpiVGJwcDVZaEFTdTJRS0t2WXN0ZTZLdnVLNGk0RWpOLTNxbXRnRnl6aE5BbUFWT2dMdTlFdTdZdmtLWV9QVXBjN1U5LUI1cHJiNG8xZVF0Q0c5RmFCY2dlWDBHVGxuWUdvN25iT0drdDV0M3FQLUpzMURJUzBuS3J5S0FMb19zVjBFWTBqUEJPNmI1LVhWMUt5TUtWcUc3UjJwLVhkTS1UcXhhZENocWNnU2s0SHF5bzFJbDlGVG1kbVRrS24tMjl4SEF5NDNqWnRZZzBn?oc=5"
     },
     {
-      "id": "6a966f0e869a41ed2f66c6ab",
-      "title": "Vijay stakes claim to form govt in Tamil Nadu with support of Congress, VCK, IUML, Left parties - News On AIR",
+      "id": "6a96c86d869a41ed2f66df36",
+      "title": "Abhijeet Dipke Slams Delhi Police Over Minorâ€™s Gang Rape Case - NDTV",
+      "sourceName": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHVtYVhBZmdwSFBEdFJlS0hRVXJoZGxhNlVFY2JUR0R3aGpLc1V3bUJHUTd2eVgtQTFsMnJoN2JxdHpSRDkzcXdxeWRaaFlGSDU0MHdCTGJKeUUwUmJvYUsyaWdZWmJrTEZHb2JxSUVQTnEzUTNZV283Tm12U1phdlNxZngyaHB4U2ZoUTFmUllVWmppazhVSXBtQ0M?oc=5"
+    },
+    {
+      "id": "6a96c86d869a41ed2f66df35",
+      "title": "‘Sonam Wangchuk praised us, viral clip shows only 1%’: CJP's Abhijeet Dipke on ‘not saints’ remark | India News - Hindustan Times",
+      "sourceName": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUkdGOEJWaGRuV1dUWEpMaUJEemI2SHlUX1d5TG00YjhuMW9hYVU2dktNSS12ME54bVpJaEdPX25QNUVWNjBIXzNJamE0ZHV3bGJlNUlBUk1yN0pDb2dUVmdIdU9aTElkeGtNR2dRVTRndFBfQUhqMFh2VVFKYTk2SVRNQXU5S04xNVFibXFSVXZROGNKbW1jQXczZ0VBOUoxelNvMkMzQjBqM1B4eGRPWlpHRHgtcU96Zkd4WGpVSW9ua3NPNkEzWHFhZGE1NnNabWRvTWVGamYxbElDRlB0TUYzYWdPZzBFQUdiYmgwN0U0RDDSAfgBQVVfeXFMUC05X3psZTRJVVZpcTNlX2VmQUZhUHRHdzI2NzZuMGJEaTJjSHdiZ2RJLUtPVEJfZFdGU1YwMW9NQlh4MVF4Qnp4ekRiZE5CVWFWc2lmT2VINzRGSnZMbWlPQTA1WGdiYk5iV0FkVXJaMmtoRWc1b29OU1B1VW5qQmRKb0liQW44WS1qc01PVnI4R2pVSzF3b3ZhUXlXXzA1Rm1jT2ExVmhzM01KeUpKYkR0WFRRY3ZfTlJZMU5uLWFlUWYwYnZEQ0ZKd3BONWVWWlVGTnNMUlRXbTQ0VVhKMmZEenQ0bklVTjlNOE13TjU4cTEzbVd4R2I?oc=5"
+    },
+    {
+      "id": "6a96c86d869a41ed2f66df34",
+      "title": "Opinion | India’s ‘Cockroaches’ Are Fighting Back - The New York Times",
+      "sourceName": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2xPVmViZHd1S0hNWWwtMnBUcUxabjRZdW40ekpydVRhSFo5NlNLNEc2NHVWZ2xDcmx2RnFnWkNUS3hLVmhaTFZRX3JWczJ5eWN3MmtORWM1TFZ1VWZFaU84WF9SWWY3alFxRE9YekYzeU55OFRzRkZzVUpPVG55elRlZXQ?oc=5"
+    },
+    {
+      "id": "6a96c86c869a41ed2f66df33",
+      "title": "TVK chief Joseph Vijay meets Tamil Nadu Governor Vishwanath Arlekar for second time at Lok Bhavan - News On AIR",
       "sourceName": "News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYnZNelFLRmRoVWVPT3dLNXdHVWNFV19uRGI4UUVMMUJWUmM2VkJ5QmlUUlAwMzZaVFdGcEs3V2gwbnM3R3p5SE9QMnk4YUlMTHdiME9tUWpkY2trXzVTd083VTZpa3hjQkQ1WUZ0YzFESUZYRnE1SjhVcnRDVncyWm9CM05UUkhTbUtKTnVyNzF4X012M0xhdUpRVkVLREt3M3dxZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEtCd2t4bzQ5QUFRX1I3TkFfNXRCaEM2WkdRM3Jvc3lzWE5tR1lTdFZXTUFlVnlBTXVlOWVzZ2I5SzJpLUJ2UUZZZG9XRVhnTl96Y2x5RFpsa1FuV28xLVExT3hEeFd0VnNMWkhCaEh4X08zLWVDSGFHSHRGcnN3NVJyWXFYSmVaTWdydGFiWU9XZWpNOVFQekhFdnV3ZzZYYlVhb2QxWG1IQmYyeGpxVXRFekZPOVpsMUstUVoxdHI?oc=5"
     },
     {
-      "id": "6a966f0e869a41ed2f66c6a9",
-      "title": "‘Vijay for PM’ is a far cry. He looks lost even as Tamil Nadu CM - ThePrint",
-      "sourceName": "ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeTRhd0xBQW05cUxxamVvSHo4VEdOaUtpTVpyeUhHQ0FoN25ERHVSVWxpQ2F4dlRzZlJ4Ql8yb19pc0FPWDg5YmpkazVSWUdKSmJOR3FXX2FIcXBuU1pBNVExc1JVYTR2YVlWMUw4NUktdk56N19rZnlwdEU5NFY3RGtIRnI5alA2U0dPMnNZNlpOMDlMQ3V6TzgxT3NtcU9ZNktGbW82a2NmbGl4em83cERkZ9IBuAFBVV95cUxNY2loQzZ5MWlOdGlITjJadVNMTHN2SFdvc3pqeTFpOG1QLVF1MzlKSV9YcGxNLUE0ZVNxOTNjZjZJMnVIOTNWc1R5VG9waktpNHlKVXRHSW1vdkI1clBIZXZKMno2cUt5WDRkOWJqSlBsM1RmQkFGNmlOMkVxNHVFMHk4OXQtVTBYYy1BWHo2NEw1WF9QTXpDUGM0YnVhNFR6UHBJZmh3SDZUemZNOFlyM1NsMkNqRnZs?oc=5"
+      "id": "6a96c86c869a41ed2f66df32",
+      "title": "No material to prove Thaman was paid ₹10 lakh to compose TVK song, Vijay tells Madras High Court - The Hindu",
+      "sourceName": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUUtscXNFVTJKQTFTRElHSWxKSHZFbVJtSHlhUmd5YVh1MG85VjJ5VEtrRjUwOGc0dHAwWmZlUjNnSHJnMk9jS0EzeUZPWHNEQlFWREJyUk1KNVdDaWlaS0R4S2Rkd3J3QlVnNDZNLTRVR1ROOHl3bmlHbGdtVEdVMFN2ZGhVeE4wM1NXU0Q0NFY3RnFQcVRzRFV3eXhJa0ZKcjhGTmdmcTg4bG14YjllRmQwSHBjb1BzdnBma29tYVotUm5MXzkxZ1pjT1ZQTlZ6RHBud0lkRk1VaWpfUjNuNHczeFg3ajYxWDNkbmt1S0UxV2pjYzNj0gH-AUFVX3lxTE1aMlNXZHR4cXp0OC1PV01WME9mWHpnTkJ5VHVlX3ZSYTZEcGhwWE5oeHBHWHdCVmFFYlNjWWwxMHBYZEpON0RkLUhFOUQ1VFFDZEFMWi1CNGI2YkF1RVNtUDQ1Q1RjTGxIOUlkdW05NUJRQkM5MUNneXE0NFB0QkFTN05qZkQ5bU9MSDZ0RWJWM1lpMW9VQzc4OTVMb0VHVktCVjVXYjdLdUxRWjAyMjhjZUllQzU0bXZhaHNKbW5HU21yT0o2ODRBSlhfSm9kaWh0SUlNT3BVNndvVm81QWNHOEtxWHlqMjlmRXZxZC14X3BCQ2ZJd284RU4tc1NB?oc=5"
     },
     {
-      "id": "6a966f0d869a41ed2f66c6a8",
-      "title": "DKS subtly targets BJP, says won’t interfere in KPSC investigation - newindianexpress.com",
-      "sourceName": "newindianexpress.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORjl1anc5dk9kMWJ2MHBnb2FheWo5cC1XNWhJVXFKSlhlMnZFdXZpa2xhU01mM2ktTmNrLXFQNi12eXZKNDhWVmFwUXA0em5MZjNhMVg0bXdlNzJ1aUFFSWhWaU9qeFlSY25NOUFwY2lhSVU0eVJVbHBBa1hBMklXRGZEbjhmNGp0djVCNHlDWkw5Vl90UTZtRUxNY3hSNDc1V2ZmM2lfRXRGeXoyQWdoa1RrZ0xWRjV1SWo4WUY2Y3g0Z3d40gHSAUFVX3lxTE52RlVkamZVYjFfSmtEMmtVQi1CbEdZZDlKVmJqc3pGbzhkSU1rQmVqNzZNTlhFUDFFempfSUYyblVxbmpieVRxQks0bGZyeXpUTWg0V3FOcE9nS2tWS1F3Z2RkWmFVOUtjLVZXZWtOQ2RmRGdrZVBrSG85TDZpN0UxLVMtbHptR3FVNkJaNHJ2Z2RkRW0wbTFrRTZZekRONi1LaElyWlFnbHBoaGlLNURvLUlXTnhXZFJ6Y1RaNXp1Q2F4eGc1ZXRVWGNraW13RVlBUQ?oc=5"
+      "id": "6a96c86b869a41ed2f66df31",
+      "title": "Karnataka CM DK Shivakumar condemns FIR against Rahul over Haldwani ‘purification’ row - The Economic Times",
+      "sourceName": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYkcyTW5UYUlWdUJJU2Q5QjZjTklRc3BxTk4yM2R0T0huYnQ0M0NEV3liYlhNak1LNlV6ZDZCQ0RpMEFnaldvenc2VWtJN0hUczBZa3ltXzFRbS1nQUVsMHlYNlI4cUoyendYdWh4RS1FamdtYThuZFNwZ05MMHNqX3BMdTQzQXhtbmk0YjFqaXplWWZBVk9LejRtaG8wdWZqcFdHUDNJdVNDUG5nUEdoamNCSzFGX0JzMXFLM0RlcEU5dUEwWnRKUlB4ZUdyWmdkQk9EN1hubDNIX0FrUHp2MERybHhnSWlQWDlfLUlZRHAxSFU1QkN5eVBWbWJ3OFJJZXfSAfsBQVVfeXFMT0M1MFdyaVhPeUZCcFdOSVF1ZUdhM083UDhVQlpUa3F1LW1iSmpJSEZCbTAwTTd6MUZXRVBHLVRDa0xnWmh6Vm91UHpLd1VBRkRnWGJoa3I0ZTVJODdfaDdZdVBFRlcyejM1VVQ3ZlpNQUhVQkJWOGg3d0RobWM0TmZrckt6aTd3dXhuV0VQTnUtRVlGMmVPakdkRjZ2TTR4Y1FSUU93amF6N3I2UmRZSHJnamROWVFtNUJEWUFoNEJJR1J5TUxnUDBOVUpCWHRtRlBvQXFqdXJHQzNUZWppREJxWjZPWnNZXzM5Vm5mYjdqbDF0dlc3VVRKRU0?oc=5"
     },
     {
-      "id": "6a966f0c869a41ed2f66c6a7",
-      "title": "Rs 72 lakh for 30x40 site: BDA starts accepting applications for Karanth Layout - Deccan Herald",
-      "sourceName": "Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb0EzeWZrMHp0UFpfR0dQc1NQTE5sUTBSbF9ZTkpHVzFXYUlheXZneU52dzN5ZGY1RGRxU2J5SVhHdHpVdEplOEtUM2NHN040cDI1Z1l0Z0VYRVpQWjZKTkxaZTR2cmo0dDBMbXE1RWt5V1RCQ0ZMX0pDYjNyZGVWMEVkZVFRdUFDRmJrX1J6TGg0Y1RYS2JiMGtJYTFLX1VfY3VMUWRKSmcyaFNTeTBLbHJrajNOREFxWnBPVGVXMWI0WEtIZ2hhS3gzbDU2SUZMS3Rxc1Y5Y0s?oc=5"
-    },
-    {
-      "id": "6a966f0c869a41ed2f66c6a6",
-      "title": "Amit Thackeray asks removal of PM Modi’s photo placed next to Chhatrapati Shivaji Maharaj, Ambedkar - Deccan Herald",
-      "sourceName": "Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaXFYTG1RQTVqcklnalZFeExvMndSSXBuMTFCV3dyTGFlbm0xVGNINW1QT0VfSXRONFUxQ2s0bG16WGUtVW5TemZKbWV4cHFmNnpwN3c0dXRnZjA4ZVRKTlA2MlV1eUQ3bllnbE1RWkMxLUpkNlFtTmZUaktJVUpHQUpNMlAyVEdBSnloTTZYZmlvYm9MRzY4ZFR6bkhRNTNmT1gtdHdFQ0l5bm5qSmoxQWQzUDJIaGRhNmw5bE9rMVVVT3dMSF95NmZETFp6NjU3Wjl2d3J1Y2EyS0ZoakRGektUcTFPR0k?oc=5"
-    },
-    {
-      "id": "6a966f0c869a41ed2f66c6a5",
-      "title": "Terrorism can't be strategic asset: PM's firm message at SCO, Pak's Sharif present - India Today",
-      "sourceName": "India Today",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONnpwZDVjMmhmSEc4U0FWc0k0elBUczJ1dXNFa2hTbWV1X2pLdVkzSzJaeVZQRUNnZTBiTjdJdTY1SDI0RUFHdVRXV01fb1ZoalBISmhPWktocEdoSmN1a0cwNkRGbTJBdFRlZWJGRERIU19EMFREcFotVkdLcU1rSC00dlR2REx1S1E0ZVd3d21iRTN1dFFWWFlmQnh4MldkemdRVFlOdmpud080UnpsYjVOcDBPc2toUE1hakUwOTNLdUhzU0lfWk9kVHBVM0FFNWFzZ3ZCVF9kYkdDQW9BbWMzcjh5VmtPaWwxeXhPZHdEd9IB9wFBVV95cUxNVFA0VDZBTkRNVlRXaThWNFE4c0luSmhOUXh6ZC1ndzVVOWxOZ3JEQ2NzcHplMGgzcGltYTFpSndQQjBJOXRacVc2U1BBSnZmWjJkZkpoWGhJZFRwV3JwaUFZSFVTVjZDTThSMDdfSG83Y0tWWEhlaF9IdHhIOVFENE9iTloxckxoUVE0Mlcyb01lazlOczVFa1hYb0dhUlVPWGpqQlFVX3ozcjFVemRfblRRS1VDOV84RWFrMF9FeHU4eFBJdEdrWEhOYXdKeVp3d281U2NNZmh2YVd2SUpiX2s0QVBPWEV2ODUxNEtxbHhNakNmT2JV?oc=5"
+      "id": "6a96c86a869a41ed2f66df2f",
+      "title": "Park amendment bill can be discussed again in the Assembly: Karnataka Chief Minister D.K. Shivakumar - The Hindu",
+      "sourceName": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUWxkYXRfR1AzU1dteVZ2OG9xLUhibUxEU3g1OWJJaDNVZjh6d2lxTmRkQlYwWlE1SnBWQzZhTk81c3pHNVBwdFhaWGZSRVpUWWxhWGljQ0RWSWRqZGdVTDNFOFp3S2lMaE1zTktldTltcmZzcllwbVdZYTlmQ0RXLU1RZzJ2X3VWd3RPWlpVdkNhdUxBUXFlWlJRbUdQWXNXQWNaam53NDZBNGlTRUNKM3JtbndqRm44bzZwZHlpSHhDajNxWXFhQzJvSFZ5U1BDYlJJSTdVRWVueHJhdk5zODA5MnNNc29fWG9jaTZVQ3RRcE9VQnVN?oc=5"
     }
   ]
 }
