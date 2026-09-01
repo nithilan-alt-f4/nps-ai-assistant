@@ -1,40 +1,4 @@
 {
-  "generatedAt": "2026-09-01T12:43:32.568Z",
-  "events": [
-    {
-      "id": "o22lvnbgc8rcuuame4ire3pes0",
-      "title": "Physics Lecture",
-      "start": "2026-09-01T17:00:00+05:30",
-      "end": "2026-09-01T18:30:00+05:30",
-      "calendarName": "School"
-    },
-    {
-      "id": "2unhfu1h8jqk2o7q299mn3hfsk",
-      "title": "Mathematics Lecture",
-      "start": "2026-09-01T18:30:00+05:30",
-      "end": "2026-09-01T20:00:00+05:30",
-      "calendarName": "School"
-    },
-    {
-      "id": "1kdck9mcnm1e1j8c3h8786c0pc",
-      "title": "Chemistry Lecture",
-      "start": "2026-09-03T17:00:00+05:30",
-      "end": "2026-09-03T18:30:00+05:30",
-      "calendarName": "School"
-    },
-    {
-      "id": "45g93dpf1dt7evhvgf2ph35pu4",
-      "title": "Mathematics Lecture",
-      "start": "2026-09-03T18:30:00+05:30",
-      "end": "2026-09-03T20:00:00+05:30",
-      "calendarName": "School"
-    },
-    {
-      "id": "qvg7i7gl7da4avfp12vi762hhs",
-      "title": "Chemistry Lecture",
-      "start": "2026-09-04T12:45:00+05:30",
-      "end": "2026-09-04T15:30:00+05:30",
-      "calendarName": "School"
-    }
-  ]
+  "generatedAt": "2026-09-01T21:14:29.187Z",
+  "events": []
 }

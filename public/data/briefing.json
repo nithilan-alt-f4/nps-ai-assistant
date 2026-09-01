@@ -1,14 +1,26 @@
 {
   "date": "2026-09-01",
-  "generatedAt": "2026-09-01T12:43:32.568Z",
+  "generatedAt": "2026-09-01T21:14:29.187Z",
   "stats": {
-    "newToday": 61,
+    "newToday": 110,
     "assignments": 15,
     "emails": 5,
     "news": 8
   },
-  "narrative": "Good morning! It’s **91% chance of rain**, so please **pack your umbrella** and wear **layers** for the **25C** chill. You have a **Zip invite** from [[Mail: The Daily teammates have a Zip invite waiting for you. 📬]] and some **job openings** in [[Mail: Sigma Black Belt job openings in the past week]] that you might want to review. Keep your head up and stay dry today!",
+  "narrative": "Good morning! It’s **71% chance of rain**, so grab your **umbrella** and wear comfortable, easy-to-clean clothes. Keep an eye out for the **Poster Making Competition** [[School: Poster Making Competition]] and don’t forget to check your **English Teacher’s message** [[School: Message from English Teacher]] for any urgent updates. Stay dry, stay focused, and make today count!",
   "assignments": [
+    {
+      "id": "6a96ce6d869a41ed2f66e00d",
+      "title": "Assessment of Listening Skills",
+      "subject": "English",
+      "teacher": "GEETA NAIR"
+    },
+    {
+      "id": "6a96ce6d869a41ed2f66e00c",
+      "title": "Poster Making Competition",
+      "subject": "Work Education",
+      "teacher": "SURESH BABU"
+    },
     {
       "id": "6a96c844869a41ed2f66df21",
       "title": "Assessment of Listening Skills",
@@ -86,21 +98,21 @@
       "title": "Structure of Atom- Solution for Exercise Questions",
       "subject": "Subject: CHEMISTRY",
       "teacher": "Teacher : Dr.(Mrs.) LEBY THOMAS"
-    },
-    {
-      "id": "6a91fdb7869a41ed2f666d55",
-      "title": "Revision Worksheet for Chapter 1- Basic Concepts",
-      "subject": "Subject: CHEMISTRY",
-      "teacher": "Teacher : Dr.(Mrs.) LEBY THOMAS"
-    },
-    {
-      "id": "6a91fdb7869a41ed2f666d54",
-      "title": "Relations and Functions worksheet",
-      "subject": "Subject: MATHEMATICS",
-      "teacher": "Teacher : MOHAMMED ZEESHAN"
     }
   ],
   "notifications": [
+    {
+      "id": "6a96ce77869a41ed2f66e014",
+      "title": "Poster Making Competition",
+      "content": "Poster Making Competition",
+      "postedDate": "2026-09-01T11:28:00.000Z"
+    },
+    {
+      "id": "6a96ce77869a41ed2f66e015",
+      "title": "Message from English Teacher",
+      "content": "Message from English Teacher",
+      "postedDate": "2026-09-01T09:14:00.000Z"
+    },
     {
       "id": "6a92b55a869a41ed2f6675fd",
       "title": "Computer Science Project Synopsis Submission",
@@ -136,18 +148,6 @@
       "title": "02-04-2026\n \t\t\t\t\t\t\t\t\t\t\t 12:28 PM",
       "content": "Dear Parent,\n\nGreetings.\n\nKindly note that the recommended school uniform vendor will be present in the school campus as per the below schedule:\n\nDates: Saturday, 4th April and Sunday, 5th April 2026\nTimings: 10:00am - 3:00pm\n\nParents are requested to visit the school campus on the above mentioned dates to complete the uniform purchase for their ward.\n\nRegards,\n\nAdmin\nNPS NORTH",
       "postedDate": "2026-08-28T21:29:44.915Z"
-    },
-    {
-      "id": "6a91fdc8869a41ed2f666d9a",
-      "title": "02-04-2026\n \t\t\t\t\t\t\t\t\t\t\t 03:10 PM",
-      "content": "Dear Parent,\n\nGreetings.\n\nKindly note that the Bridge Classes (Hybrid Mode) for the academic year 2026–27 will commence from 9th, April 2026 to 5th, May 2026 on Monday, Tuesday, Thursday and Friday between 11:00 am to 2:00pm.\n\nThe credentials of the online classes will be shared by the Aakash team two days prior to the commencement of the classes.\n\nVenue:\nAakash Institute, Banaswadi\nNo. M415, Building 7,\n2nd Floor, Kalyan Nagar Extension,\nAbove Little Italy Restaurant,\nHRBR Layout, Banaswadi,\nBengaluru – 560043\n\nTransport facilities (pick-up and drop) from the nearest designated points will be provided only for the students registered for transportation.\nParents are requested to register through the portal: www.samschoolbus.com. \n\nParents who wish to avail this facility are requested to fill in the details using the Google Form link shared below.\nhttps://forms.gle/HooLrbPyTGWHQPtS8\n\n* Disclaimer - In view of the prevailing uncertainty in the Middle East, school transport services will operate in accordance with government regulations. \nIf the number of students is below the minimum requirement, the transport vendor will not be able to provide transport on that route.\n\nRegards,\nAdmin\nNPS NORTH",
-      "postedDate": "2026-08-28T21:29:44.678Z"
-    },
-    {
-      "id": "6a91fdc8869a41ed2f666d99",
-      "title": "06-04-2026\n \t\t\t\t\t\t\t\t\t\t\t 04:30 PM",
-      "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
-      "postedDate": "2026-08-28T21:29:44.442Z"
     }
   ],
   "circulars": [
@@ -182,84 +182,84 @@
   ],
   "emails": [
     {
+      "id": "6a974021c4de47b3a0d954d2",
+      "title": "NEW in Dehancer iOS: Built-in video editor",
+      "from": "Dehancer Team <support@dehancer.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05d1592d3a71d8"
+    },
+    {
+      "id": "6a974021c4de47b3a0d954d1",
+      "title": "Esprit Analytique Co-Founder you may know",
+      "from": "LinkedIn <messages-noreply@linkedin.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05d5b259588c92"
+    },
+    {
+      "id": "6a974020c4de47b3a0d954d0",
+      "title": "Server failure detected on project-hermes",
+      "from": "Render <no-reply@render.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05d658c4a62a0a"
+    },
+    {
+      "id": "6a97401fc4de47b3a0d954cf",
+      "title": "[nithilan-alt-f4/daily-briefing] Run failed: Sync Briefing Data - master (73e5684)",
+      "from": "Nithilan Manivannan <notifications@github.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05ed0a256f97de"
+    },
+    {
       "id": "6a96c863971ebda0814ff2df",
       "title": "🛍️ WHY WAIT FOR DIWALI? Shop the Sale NOW! 🔥",
       "from": "Pepperfry <hello@mails.pepperfry.com>",
       "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05c300cf9ec0cf"
-    },
-    {
-      "id": "6a96c862971ebda0814ff2de",
-      "title": "The Daily teammates have a Zip invite waiting for you. 📬",
-      "from": "LinkedIn <messages-noreply@linkedin.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05c64c98fc60e8"
-    },
-    {
-      "id": "6a96c861971ebda0814ff2dd",
-      "title": "Sigma Black Belt job openings in the past week",
-      "from": "LinkedIn <messages-noreply@linkedin.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05ced4c9142217"
-    },
-    {
-      "id": "6a96c861971ebda0814ff2dc",
-      "title": "Run your coding agent on OpenRouter with one command",
-      "from": "OpenRouter Team <welcome@openrouter.ai>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05cef36cd3d100"
-    },
-    {
-      "id": "6a966f03480645aaf35176a0",
-      "title": "🎁 Your Tuesday Just Got Better! Rs.2,500 Added to Your Pepperfry Wallet!",
-      "from": "Pepperfry <hello@updates.pepperfry.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05b4904c9e49f8"
     }
   ],
   "news": [
     {
-      "id": "6a96c86e869a41ed2f66df37",
-      "title": "'Where are your pellet guns now?': Abhijeet Dipke slams Delhi Police over bus gang rape incident - The Times of India",
+      "id": "6a97402d869a41ed2f66e86b",
+      "title": "Dipke questions police over women’s safety after Delhi bus rape - ThePrint",
+      "sourceName": "ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUzRLMGRja0tOU0I3aTdKYlBhaHVsT0VlUWFjTVlDaUN3NHlBMkpaR0ZyVG8xMW9fM3EyZ25WUHVXbDZwMnZXTXp3SVZWRVhKNWdndzkwaHJ5LVlpbE4zZGU0dzhkZXB5emt0NUI4QlJZdVpSR05VbjN4ODFPcU91Ti0tUXYybW9uS0pFN3RFVUVLQ1RsQVR1aVdsem5TQdIBowFBVV95cUxQZGh3ZU5MODdNb2s3ZXpUUHR5ck9tYkx3U0IyWnc1bDU5LXVrUzB4TUtoRW93b1hNblYzVU9KdVFLN0dEaWRxV2tHaUtmTldoY0tQMzU5YmhRMVV6Ql9mMjVXeHlUTjRzMUhYQmx5NlQ5cHIyVHlLUzZoUW1hOTBCdWExNzFzelNoUEtWZW5BWWZuUTBhb1FreFBleG9haW8yMi1r?oc=5"
+    },
+    {
+      "id": "6a97402c869a41ed2f66e86a",
+      "title": "Amid PM face row with TVK, Congress MP Praveen Chakravarty meets CM Vijay at Secretariat - DT Next",
+      "sourceName": "DT Next",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLWtmQkoxYVBKbC1pNGM5QnRLZWJBVHdRd2tSc3ZoTmNLRzJuVUxDSUd5T3k5WXRwU3RrREpFNTFFblF0NmV4LVlLc0hPZFV6S25CVmNfR2NfMHR5c0hZLUFrUW1Vc0J2TFhKQ01RZzI2M1NOekJGOUpBS2djRHh0ZkFncTZ4cjNQUFBodktFSmNRQ1RKMUpZYlVUUnVHd1J2bUZOMFBRRFg2UWJXVXRjbGQyekFERVg3UjFSek4tNkhRQdIBzwFBVV95cUxNaTZYMDBWODhJOWxyRkpEWTNjLXhkbWNCWTBSUkR5OUx5TGk0bEJFYVZxLTVoZ0xKMTFndFV0UTJGenRzQW1haDhrcGJIUGNISFk1cDZRVllKNXgtWWttaDFWMU9XRTRxTkRpek1VRTRSaHBPb1hWRlFfSFhRSE9uQVIxUGdlWFpEcTd5WHNYNXkyQkJfbE12WE1fdm5TS203VWVab3d5TzRBNkJPOWpKWnJ3Y1U0clRNS0VsVC1iUF9MaHF2NzNaS3NiMzBCOFU?oc=5"
+    },
+    {
+      "id": "6a97402c869a41ed2f66e869",
+      "title": "Waqf funds, free tuition for Muslim girls: Analysing TVK government's freebies and appeasement model - opindia.com",
+      "sourceName": "opindia.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeVRxalhBRkhDMi1kOVlaZjJOdE1Wa0Q0a2tqZ203YU5MbUoySG1jVXdYWEFPTVRuUHlaREF1aV9NRElnTmxob2RLbU01cjZQeVBwVGl1RWdrNEs5bFl3TUlxc2FrNzBqWjliWVg2bGhCNUJVVGlDNEZCZ0VSR1UxeklsWDVIdWltUnpxWE5uMTZvdXZWZVJhcVNLUWxZcW1mbFNxOVA3dFh0bmhrdXFvQy0yR2s2WGRVeTJMU1ZJUXJWNnFWZEpFcjJxaDBlT2pjMXZzTg?oc=5"
+    },
+    {
+      "id": "6a97402b869a41ed2f66e868",
+      "title": "TVK backs 'Vijay for PM' campaign; Congress claims Rahul Gandhi is PM face- Will the alliance survive? - newindianexpress.com",
+      "sourceName": "newindianexpress.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNnlSVThIbHFXSU9XMHRVVTZsT0VPQ2sxa1FqTS1iNVFVZEMxZVYzYkw1cVR2VTJSV2pweFpPSC1fVGhqVHUyb3JGWm9Sb25ySG8zeUZrMDBvaGdKd3hwYWxLYVNIdDNGWXMxVDV6cXJLUDR3cGdfOENibHAzdUF3eldoVFhuWFJFVzIyT0c5Q0lPc3J3cmFKcWxkbVlsd29KV0dIQm1mWTRnQk5XakxuLUY2SGUxdVE4bmI0Z3puZGpKSEhEZGE3VktjdGtKQXpWWkktZFdXRlljemlSdTdkcDR0UmNfdTUwVEk40gH4AUFVX3lxTE0yeHlfdXhRWmJnTlFfOWV3ZEhPeFQwRE9KU25iU3QxRWhIR1BWUlg4M0gyR2EtcjEweUk2WnVXOGVLU015ZnZSLThMY3pzQTJKVkx2cGpmMnBUazF3aVdNT0RoR3NOSkI0ejFieW90cldXMThnUW8xbFBTSzlWVWdKZ2JDRVktQTlFWmRKcWJnVzJSNTF6aXVIbUVBT0R5Zlg1WUZ2OHFKS0dZS19oRXFmLXNuek1IRTktSzlEb2Jad0F1alM2TTlqV2dNSVNSS0RJSjlaQTNpdWJNUzlFM2psUjVWN1BSMDA0THR4OFFENUVQR0I4Q20y?oc=5"
+    },
+    {
+      "id": "6a97402a869a41ed2f66e867",
+      "title": "Karnataka CM DK Shivakumar’s promise: Will the state fulfil the dreams of our youth? - The News Minute",
+      "sourceName": "The News Minute",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYzJEWFd1RHRsNkh1TVRycjlIT1A5UEIza3BwckNzUE5yNDg4QXhPTVlIZkdqU1duUzF1RU5WVjY3dW1mcktMUWFkQzdrU2VLVXhtVGtYbTVNOV9ENHFKb1ZzVElHS05zX3laQnFDTEpFa3NOV2hNRjQtVjljeFNsWVRkM3ZVRUhScnZuNkduODYwMHFLbm03aVUxd01rV1FNSXBxRW13bUxTWU9hVUFyTHhWVGcxaExVWEFmVzJ30gHLAUFVX3lxTE5lbm05MzNzakdSOGdTYUhFSDRsaE1KcURlaXdMNzJfNVlVdzk3aEwzTWtKbEFnY1hJbmY5c1RZRWRBUlRhb1FLTWlRRzFSVjlEV0xqa0tYNkxfRnhuOTRqSkVZVW53bkVBcV84Rm9od1JMb0dQaEtibG5vaTRPOWl0U2pCU09pR2NyeFhxY1dObWk1Q1ltenRULWhDZjB3OVBWRHlaQ1AtMW1RNWJrVUdQYV9QeGVrMlhYX0xpdDAzZzBrV04tY3N0WkVV?oc=5"
+    },
+    {
+      "id": "6a97402a869a41ed2f66e866",
+      "title": "Two seats, many claimants: Nagendra’s exit leaves Shivakumar with another balancing act - The Times of India",
       "sourceName": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbUZlNV94bkpxa1JlaFpaZE1LV3M4M2VxQlMxX05Ccnh3aWdDRUg0UDMzVzJ6c3VYcDA1XzY5V0pZcmJJWlg5c29GUGRaekFKZlZjUndocUtUSjFTMW5CajBSTWFaVzFmLU9VaERXQ3Jsa1pjcWstX0kxTEVOdnVjQjZkNHZjYi15M0tnYXMwQ0tDQkRGNTRfMjI5ZXBESGIzZGdCNGdJWFV0d2ZHbGhFMDhDR2JwZjZCYnFZVTU1c0hBa3pPNzlhaDRGV0NYZXQ3RTVWeFVnenNyWW9zQkxpa1dGQWVGQ3d1S1o1TV9aN1ROSDkxenJqQXplOGlqMzhhZEMtVG53QdIBjAJBVV95cUxQU3YtMjhpMnRUSjZkRXpTc3RkNGFXQW9sTzVTRlh0NXpQNjlRaGEtUWRKbWxUY2JOalF1Nk1ocXpiVGJwcDVZaEFTdTJRS0t2WXN0ZTZLdnVLNGk0RWpOLTNxbXRnRnl6aE5BbUFWT2dMdTlFdTdZdmtLWV9QVXBjN1U5LUI1cHJiNG8xZVF0Q0c5RmFCY2dlWDBHVGxuWUdvN25iT0drdDV0M3FQLUpzMURJUzBuS3J5S0FMb19zVjBFWTBqUEJPNmI1LVhWMUt5TUtWcUc3UjJwLVhkTS1UcXhhZENocWNnU2s0SHF5bzFJbDlGVG1kbVRrS24tMjl4SEF5NDNqWnRZZzBn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY2QyTnR6a0pObkxRSG5XV0hQSHhVblQ4cGVWc0l3ZW14Wi1adzJjN0hsWE0wT0R4Y3NkaW1NWjdyNk1VanJvdVViWUxQOTA3bkhxOVpqQ0xfSHRXZEFNT1BpZmFGRzlyUDlsWU50M3d4YXl5RW90NDl2UFlLTmp0S0dOS1pzQWtGakdVZUtFWTRhMGVubWNIV0EwX3hpRG50YUU5OEtrR2p5aUpBeUh3UGNEdUlkVFViWjdvNDMySl9XYnNPNHJibWlNOEZ4UzZCRkk0WHdkeFpOLVE0ODlnNUNZUjc5LURZTUZSTE40NWdUMjjSAfgBQVVfeXFMUHk5TkNELUpjWDdsdUd3dVN0SXdJYkNkU1BGSTZoVnVHV3pjMUJSaXdGdVI3ZzZkR2NGT1hkX1hTVVUwRU1pV1pObldWVmQ0SGFwU3hfVEhfZGJlRTFHY01RQ1hJZUthbXpkc1ZFTVJHeUNjT3EtaFBsWEkxdEg3anhta09aMUhFZVdGMkdzNU5nNzhmaEJuY0JuZE5pVzlGWGstaXhKbjJwTjgxaUlXWktNaDZqSlNZT21tSW5EVVhOSFB1MExtbTdXUkxRQkU1aXVuVWgtRllSLVVEMEotYUdaOWxEeUtIdnVocElzUjNsLTlVQnlaaUE?oc=5"
     },
     {
-      "id": "6a96c86d869a41ed2f66df36",
-      "title": "Abhijeet Dipke Slams Delhi Police Over Minorâ€™s Gang Rape Case - NDTV",
-      "sourceName": "NDTV",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHVtYVhBZmdwSFBEdFJlS0hRVXJoZGxhNlVFY2JUR0R3aGpLc1V3bUJHUTd2eVgtQTFsMnJoN2JxdHpSRDkzcXdxeWRaaFlGSDU0MHdCTGJKeUUwUmJvYUsyaWdZWmJrTEZHb2JxSUVQTnEzUTNZV283Tm12U1phdlNxZngyaHB4U2ZoUTFmUllVWmppazhVSXBtQ0M?oc=5"
-    },
-    {
-      "id": "6a96c86d869a41ed2f66df35",
-      "title": "‘Sonam Wangchuk praised us, viral clip shows only 1%’: CJP's Abhijeet Dipke on ‘not saints’ remark | India News - Hindustan Times",
-      "sourceName": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUkdGOEJWaGRuV1dUWEpMaUJEemI2SHlUX1d5TG00YjhuMW9hYVU2dktNSS12ME54bVpJaEdPX25QNUVWNjBIXzNJamE0ZHV3bGJlNUlBUk1yN0pDb2dUVmdIdU9aTElkeGtNR2dRVTRndFBfQUhqMFh2VVFKYTk2SVRNQXU5S04xNVFibXFSVXZROGNKbW1jQXczZ0VBOUoxelNvMkMzQjBqM1B4eGRPWlpHRHgtcU96Zkd4WGpVSW9ua3NPNkEzWHFhZGE1NnNabWRvTWVGamYxbElDRlB0TUYzYWdPZzBFQUdiYmgwN0U0RDDSAfgBQVVfeXFMUC05X3psZTRJVVZpcTNlX2VmQUZhUHRHdzI2NzZuMGJEaTJjSHdiZ2RJLUtPVEJfZFdGU1YwMW9NQlh4MVF4Qnp4ekRiZE5CVWFWc2lmT2VINzRGSnZMbWlPQTA1WGdiYk5iV0FkVXJaMmtoRWc1b29OU1B1VW5qQmRKb0liQW44WS1qc01PVnI4R2pVSzF3b3ZhUXlXXzA1Rm1jT2ExVmhzM01KeUpKYkR0WFRRY3ZfTlJZMU5uLWFlUWYwYnZEQ0ZKd3BONWVWWlVGTnNMUlRXbTQ0VVhKMmZEenQ0bklVTjlNOE13TjU4cTEzbVd4R2I?oc=5"
-    },
-    {
-      "id": "6a96c86d869a41ed2f66df34",
-      "title": "Opinion | India’s ‘Cockroaches’ Are Fighting Back - The New York Times",
-      "sourceName": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2xPVmViZHd1S0hNWWwtMnBUcUxabjRZdW40ekpydVRhSFo5NlNLNEc2NHVWZ2xDcmx2RnFnWkNUS3hLVmhaTFZRX3JWczJ5eWN3MmtORWM1TFZ1VWZFaU84WF9SWWY3alFxRE9YekYzeU55OFRzRkZzVUpPVG55elRlZXQ?oc=5"
-    },
-    {
-      "id": "6a96c86c869a41ed2f66df33",
-      "title": "TVK chief Joseph Vijay meets Tamil Nadu Governor Vishwanath Arlekar for second time at Lok Bhavan - News On AIR",
-      "sourceName": "News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEtCd2t4bzQ5QUFRX1I3TkFfNXRCaEM2WkdRM3Jvc3lzWE5tR1lTdFZXTUFlVnlBTXVlOWVzZ2I5SzJpLUJ2UUZZZG9XRVhnTl96Y2x5RFpsa1FuV28xLVExT3hEeFd0VnNMWkhCaEh4X08zLWVDSGFHSHRGcnN3NVJyWXFYSmVaTWdydGFiWU9XZWpNOVFQekhFdnV3ZzZYYlVhb2QxWG1IQmYyeGpxVXRFekZPOVpsMUstUVoxdHI?oc=5"
-    },
-    {
-      "id": "6a96c86c869a41ed2f66df32",
-      "title": "No material to prove Thaman was paid ₹10 lakh to compose TVK song, Vijay tells Madras High Court - The Hindu",
+      "id": "6a97402a869a41ed2f66e865",
+      "title": "Congress will form counter-strategy to politically tackle BJP’s padayatra: Karnataka Chief Minister - The Hindu",
       "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUUtscXNFVTJKQTFTRElHSWxKSHZFbVJtSHlhUmd5YVh1MG85VjJ5VEtrRjUwOGc0dHAwWmZlUjNnSHJnMk9jS0EzeUZPWHNEQlFWREJyUk1KNVdDaWlaS0R4S2Rkd3J3QlVnNDZNLTRVR1ROOHl3bmlHbGdtVEdVMFN2ZGhVeE4wM1NXU0Q0NFY3RnFQcVRzRFV3eXhJa0ZKcjhGTmdmcTg4bG14YjllRmQwSHBjb1BzdnBma29tYVotUm5MXzkxZ1pjT1ZQTlZ6RHBud0lkRk1VaWpfUjNuNHczeFg3ajYxWDNkbmt1S0UxV2pjYzNj0gH-AUFVX3lxTE1aMlNXZHR4cXp0OC1PV01WME9mWHpnTkJ5VHVlX3ZSYTZEcGhwWE5oeHBHWHdCVmFFYlNjWWwxMHBYZEpON0RkLUhFOUQ1VFFDZEFMWi1CNGI2YkF1RVNtUDQ1Q1RjTGxIOUlkdW05NUJRQkM5MUNneXE0NFB0QkFTN05qZkQ5bU9MSDZ0RWJWM1lpMW9VQzc4OTVMb0VHVktCVjVXYjdLdUxRWjAyMjhjZUllQzU0bXZhaHNKbW5HU21yT0o2ODRBSlhfSm9kaWh0SUlNT3BVNndvVm81QWNHOEtxWHlqMjlmRXZxZC14X3BCQ2ZJd284RU4tc1NB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMWRYM3ZMVURndXgyYmh0ZmFzbi1CZGJTVmpJbWFFZ3VlaTZ6YXc4elhqMjAyeDhOak1sa1lPTExFaU5zM245ckpEZTlDSHdYYXlHTDR4V1RCWTFMZUItY1RXai1TZVpKXzRJSFNGdUZvdlJHUnNDS01iZzlGN3g0eDdfamYzcVhxUnZVYjRueGhCNUVPTDgwcTZKd3R2OTI3aEhrRHRDdFdwTW5sM0J5a3BwajJSTDAzSFQ3eWV3UFplUktpT3VJd1lBamU4NG1jTXlMRVp5eXZJLUNmVWxMSy1KY3VKRGZscWtjUm81VV9lWkxJYU5BQ0530gGAAkFVX3lxTFBTWnpXR0ZqOU1EckJCaF9BaUxpRnIwYmJsMG9HNXNWZjBmZ2tYeXgxSWxOYmN3M0JGUEViZHFaa2pXckd3TnJtQUFMUGltcTI3Vkd4V2pSLW0zNGxSR3FnTWVEdTg2Y0NyanFjbkwxRTBZREtHVXlGRVlzRVNzZlhFNzlOcmFINnRTVG9aZDBUbzF6QXYwLVJrc2tTYnBZbHNrTUp5VjRpcWhISjl4c1B2cmdLVUVfODZGYTJZQUEyT2lPY0haUGhWTVp6SmRxbl9rc29CandKc0V1RmMwekFQb05WWHhxdlZ6WnpGa0lQMFlrMmJOVDNLUFE0b3ZOb3E?oc=5"
     },
     {
-      "id": "6a96c86b869a41ed2f66df31",
-      "title": "Karnataka CM DK Shivakumar condemns FIR against Rahul over Haldwani ‘purification’ row - The Economic Times",
-      "sourceName": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYkcyTW5UYUlWdUJJU2Q5QjZjTklRc3BxTk4yM2R0T0huYnQ0M0NEV3liYlhNak1LNlV6ZDZCQ0RpMEFnaldvenc2VWtJN0hUczBZa3ltXzFRbS1nQUVsMHlYNlI4cUoyendYdWh4RS1FamdtYThuZFNwZ05MMHNqX3BMdTQzQXhtbmk0YjFqaXplWWZBVk9LejRtaG8wdWZqcFdHUDNJdVNDUG5nUEdoamNCSzFGX0JzMXFLM0RlcEU5dUEwWnRKUlB4ZUdyWmdkQk9EN1hubDNIX0FrUHp2MERybHhnSWlQWDlfLUlZRHAxSFU1QkN5eVBWbWJ3OFJJZXfSAfsBQVVfeXFMT0M1MFdyaVhPeUZCcFdOSVF1ZUdhM083UDhVQlpUa3F1LW1iSmpJSEZCbTAwTTd6MUZXRVBHLVRDa0xnWmh6Vm91UHpLd1VBRkRnWGJoa3I0ZTVJODdfaDdZdVBFRlcyejM1VVQ3ZlpNQUhVQkJWOGg3d0RobWM0TmZrckt6aTd3dXhuV0VQTnUtRVlGMmVPakdkRjZ2TTR4Y1FSUU93amF6N3I2UmRZSHJnamROWVFtNUJEWUFoNEJJR1J5TUxnUDBOVUpCWHRtRlBvQXFqdXJHQzNUZWppREJxWjZPWnNZXzM5Vm5mYjdqbDF0dlc3VVRKRU0?oc=5"
-    },
-    {
-      "id": "6a96c86a869a41ed2f66df2f",
-      "title": "Park amendment bill can be discussed again in the Assembly: Karnataka Chief Minister D.K. Shivakumar - The Hindu",
-      "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUWxkYXRfR1AzU1dteVZ2OG9xLUhibUxEU3g1OWJJaDNVZjh6d2lxTmRkQlYwWlE1SnBWQzZhTk81c3pHNVBwdFhaWGZSRVpUWWxhWGljQ0RWSWRqZGdVTDNFOFp3S2lMaE1zTktldTltcmZzcllwbVdZYTlmQ0RXLU1RZzJ2X3VWd3RPWlpVdkNhdUxBUXFlWlJRbUdQWXNXQWNaam53NDZBNGlTRUNKM3JtbndqRm44bzZwZHlpSHhDajNxWXFhQzJvSFZ5U1BDYlJJSTdVRWVueHJhdk5zODA5MnNNc29fWG9jaTZVQ3RRcE9VQnVN?oc=5"
+      "id": "6a97402a869a41ed2f66e864",
+      "title": "KPSC row: Kumaraswamy is fighting BJP, not Congress, says CM Shivakumar - Deccan Herald",
+      "sourceName": "Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONXFtYkliTXJjd3ZpbG5ldGhkcmFhOHF5VEFrdmhmQWo0M3lpZWxCT1NTd2MyTEpUZEw3LW9ZQ2ZGWkNHU3pZTWRQcmNfVldJWTJkcmNWQXg5UUwzdEp1N3lBamJOQ1NxTnhaZ3hUYkc5Zm9scGYxVG5LMVF0ZWlMY0FKbmQ2OFV3VVpHSEZEblY5SkJvZWlwcjBFSzVnV3NfQzllTU03dW1GZ1pSeUxJbVRFaWYxUVdBRkxDNFFB?oc=5"
     }
   ]
 }

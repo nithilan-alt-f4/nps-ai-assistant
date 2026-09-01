@@ -1,5 +1,777 @@
 [
   {
+    "id": "6a97402d869a41ed2f66e86b",
+    "source": "news",
+    "type": "news",
+    "title": "Dipke questions police over women’s safety after Delhi bus rape - ThePrint",
+    "content": "ThePrint",
+    "postedDate": "2026-09-01T21:14:21.524Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Abhijeet Dipke",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUzRLMGRja0tOU0I3aTdKYlBhaHVsT0VlUWFjTVlDaUN3NHlBMkpaR0ZyVG8xMW9fM3EyZ25WUHVXbDZwMnZXTXp3SVZWRVhKNWdndzkwaHJ5LVlpbE4zZGU0dzhkZXB5emt0NUI4QlJZdVpSR05VbjN4ODFPcU91Ti0tUXYybW9uS0pFN3RFVUVLQ1RsQVR1aVdsem5TQdIBowFBVV95cUxQZGh3ZU5MODdNb2s3ZXpUUHR5ck9tYkx3U0IyWnc1bDU5LXVrUzB4TUtoRW93b1hNblYzVU9KdVFLN0dEaWRxV2tHaUtmTldoY0tQMzU5YmhRMVV6Ql9mMjVXeHlUTjRzMUhYQmx5NlQ5cHIyVHlLUzZoUW1hOTBCdWExNzFzelNoUEtWZW5BWWZuUTBhb1FreFBleG9haW8yMi1r?oc=5",
+      "source": "ThePrint",
+      "publishedAt": "2026-08-31T17:46:03.000Z"
+    }
+  },
+  {
+    "id": "6a97402c869a41ed2f66e86a",
+    "source": "news",
+    "type": "news",
+    "title": "Amid PM face row with TVK, Congress MP Praveen Chakravarty meets CM Vijay at Secretariat - DT Next",
+    "content": "DT Next",
+    "postedDate": "2026-09-01T21:14:20.187Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Joseph Vijay TVK",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLWtmQkoxYVBKbC1pNGM5QnRLZWJBVHdRd2tSc3ZoTmNLRzJuVUxDSUd5T3k5WXRwU3RrREpFNTFFblF0NmV4LVlLc0hPZFV6S25CVmNfR2NfMHR5c0hZLUFrUW1Vc0J2TFhKQ01RZzI2M1NOekJGOUpBS2djRHh0ZkFncTZ4cjNQUFBodktFSmNRQ1RKMUpZYlVUUnVHd1J2bUZOMFBRRFg2UWJXVXRjbGQyekFERVg3UjFSek4tNkhRQdIBzwFBVV95cUxNaTZYMDBWODhJOWxyRkpEWTNjLXhkbWNCWTBSUkR5OUx5TGk0bEJFYVZxLTVoZ0xKMTFndFV0UTJGenRzQW1haDhrcGJIUGNISFk1cDZRVllKNXgtWWttaDFWMU9XRTRxTkRpek1VRTRSaHBPb1hWRlFfSFhRSE9uQVIxUGdlWFpEcTd5WHNYNXkyQkJfbE12WE1fdm5TS203VWVab3d5TzRBNkJPOWpKWnJ3Y1U0clRNS0VsVC1iUF9MaHF2NzNaS3NiMzBCOFU?oc=5",
+      "source": "DT Next",
+      "publishedAt": "2026-09-01T01:59:36.000Z"
+    }
+  },
+  {
+    "id": "6a97402c869a41ed2f66e869",
+    "source": "news",
+    "type": "news",
+    "title": "Waqf funds, free tuition for Muslim girls: Analysing TVK government's freebies and appeasement model - opindia.com",
+    "content": "opindia.com",
+    "postedDate": "2026-09-01T21:14:19.960Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Joseph Vijay TVK",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeVRxalhBRkhDMi1kOVlaZjJOdE1Wa0Q0a2tqZ203YU5MbUoySG1jVXdYWEFPTVRuUHlaREF1aV9NRElnTmxob2RLbU01cjZQeVBwVGl1RWdrNEs5bFl3TUlxc2FrNzBqWjliWVg2bGhCNUJVVGlDNEZCZ0VSR1UxeklsWDVIdWltUnpxWE5uMTZvdXZWZVJhcVNLUWxZcW1mbFNxOVA3dFh0bmhrdXFvQy0yR2s2WGRVeTJMU1ZJUXJWNnFWZEpFcjJxaDBlT2pjMXZzTg?oc=5",
+      "source": "opindia.com",
+      "publishedAt": "2026-08-31T15:12:46.000Z"
+    }
+  },
+  {
+    "id": "6a97402b869a41ed2f66e868",
+    "source": "news",
+    "type": "news",
+    "title": "TVK backs 'Vijay for PM' campaign; Congress claims Rahul Gandhi is PM face- Will the alliance survive? - newindianexpress.com",
+    "content": "newindianexpress.com",
+    "postedDate": "2026-09-01T21:14:19.733Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Joseph Vijay TVK",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNnlSVThIbHFXSU9XMHRVVTZsT0VPQ2sxa1FqTS1iNVFVZEMxZVYzYkw1cVR2VTJSV2pweFpPSC1fVGhqVHUyb3JGWm9Sb25ySG8zeUZrMDBvaGdKd3hwYWxLYVNIdDNGWXMxVDV6cXJLUDR3cGdfOENibHAzdUF3eldoVFhuWFJFVzIyT0c5Q0lPc3J3cmFKcWxkbVlsd29KV0dIQm1mWTRnQk5XakxuLUY2SGUxdVE4bmI0Z3puZGpKSEhEZGE3VktjdGtKQXpWWkktZFdXRlljemlSdTdkcDR0UmNfdTUwVEk40gH4AUFVX3lxTE0yeHlfdXhRWmJnTlFfOWV3ZEhPeFQwRE9KU25iU3QxRWhIR1BWUlg4M0gyR2EtcjEweUk2WnVXOGVLU015ZnZSLThMY3pzQTJKVkx2cGpmMnBUazF3aVdNT0RoR3NOSkI0ejFieW90cldXMThnUW8xbFBTSzlWVWdKZ2JDRVktQTlFWmRKcWJnVzJSNTF6aXVIbUVBT0R5Zlg1WUZ2OHFKS0dZS19oRXFmLXNuek1IRTktSzlEb2Jad0F1alM2TTlqV2dNSVNSS0RJSjlaQTNpdWJNUzlFM2psUjVWN1BSMDA0THR4OFFENUVQR0I4Q20y?oc=5",
+      "source": "newindianexpress.com",
+      "publishedAt": "2026-08-31T11:56:58.000Z"
+    }
+  },
+  {
+    "id": "6a97402a869a41ed2f66e867",
+    "source": "news",
+    "type": "news",
+    "title": "Karnataka CM DK Shivakumar’s promise: Will the state fulfil the dreams of our youth? - The News Minute",
+    "content": "The News Minute",
+    "postedDate": "2026-09-01T21:14:18.806Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "D.K. Shivakumar",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYzJEWFd1RHRsNkh1TVRycjlIT1A5UEIza3BwckNzUE5yNDg4QXhPTVlIZkdqU1duUzF1RU5WVjY3dW1mcktMUWFkQzdrU2VLVXhtVGtYbTVNOV9ENHFKb1ZzVElHS05zX3laQnFDTEpFa3NOV2hNRjQtVjljeFNsWVRkM3ZVRUhScnZuNkduODYwMHFLbm03aVUxd01rV1FNSXBxRW13bUxTWU9hVUFyTHhWVGcxaExVWEFmVzJ30gHLAUFVX3lxTE5lbm05MzNzakdSOGdTYUhFSDRsaE1KcURlaXdMNzJfNVlVdzk3aEwzTWtKbEFnY1hJbmY5c1RZRWRBUlRhb1FLTWlRRzFSVjlEV0xqa0tYNkxfRnhuOTRqSkVZVW53bkVBcV84Rm9od1JMb0dQaEtibG5vaTRPOWl0U2pCU09pR2NyeFhxY1dObWk1Q1ltenRULWhDZjB3OVBWRHlaQ1AtMW1RNWJrVUdQYV9QeGVrMlhYX0xpdDAzZzBrV04tY3N0WkVV?oc=5",
+      "source": "The News Minute",
+      "publishedAt": "2026-09-01T13:08:58.000Z"
+    }
+  },
+  {
+    "id": "6a97402a869a41ed2f66e866",
+    "source": "news",
+    "type": "news",
+    "title": "Two seats, many claimants: Nagendra’s exit leaves Shivakumar with another balancing act - The Times of India",
+    "content": "The Times of India",
+    "postedDate": "2026-09-01T21:14:18.580Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "D.K. Shivakumar",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY2QyTnR6a0pObkxRSG5XV0hQSHhVblQ4cGVWc0l3ZW14Wi1adzJjN0hsWE0wT0R4Y3NkaW1NWjdyNk1VanJvdVViWUxQOTA3bkhxOVpqQ0xfSHRXZEFNT1BpZmFGRzlyUDlsWU50M3d4YXl5RW90NDl2UFlLTmp0S0dOS1pzQWtGakdVZUtFWTRhMGVubWNIV0EwX3hpRG50YUU5OEtrR2p5aUpBeUh3UGNEdUlkVFViWjdvNDMySl9XYnNPNHJibWlNOEZ4UzZCRkk0WHdkeFpOLVE0ODlnNUNZUjc5LURZTUZSTE40NWdUMjjSAfgBQVVfeXFMUHk5TkNELUpjWDdsdUd3dVN0SXdJYkNkU1BGSTZoVnVHV3pjMUJSaXdGdVI3ZzZkR2NGT1hkX1hTVVUwRU1pV1pObldWVmQ0SGFwU3hfVEhfZGJlRTFHY01RQ1hJZUthbXpkc1ZFTVJHeUNjT3EtaFBsWEkxdEg3anhta09aMUhFZVdGMkdzNU5nNzhmaEJuY0JuZE5pVzlGWGstaXhKbjJwTjgxaUlXWktNaDZqSlNZT21tSW5EVVhOSFB1MExtbTdXUkxRQkU1aXVuVWgtRllSLVVEMEotYUdaOWxEeUtIdnVocElzUjNsLTlVQnlaaUE?oc=5",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-01T16:44:00.000Z"
+    }
+  },
+  {
+    "id": "6a97402a869a41ed2f66e865",
+    "source": "news",
+    "type": "news",
+    "title": "Congress will form counter-strategy to politically tackle BJP’s padayatra: Karnataka Chief Minister - The Hindu",
+    "content": "The Hindu",
+    "postedDate": "2026-09-01T21:14:18.353Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "D.K. Shivakumar",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMWRYM3ZMVURndXgyYmh0ZmFzbi1CZGJTVmpJbWFFZ3VlaTZ6YXc4elhqMjAyeDhOak1sa1lPTExFaU5zM245ckpEZTlDSHdYYXlHTDR4V1RCWTFMZUItY1RXai1TZVpKXzRJSFNGdUZvdlJHUnNDS01iZzlGN3g0eDdfamYzcVhxUnZVYjRueGhCNUVPTDgwcTZKd3R2OTI3aEhrRHRDdFdwTW5sM0J5a3BwajJSTDAzSFQ3eWV3UFplUktpT3VJd1lBamU4NG1jTXlMRVp5eXZJLUNmVWxMSy1KY3VKRGZscWtjUm81VV9lWkxJYU5BQ0530gGAAkFVX3lxTFBTWnpXR0ZqOU1EckJCaF9BaUxpRnIwYmJsMG9HNXNWZjBmZ2tYeXgxSWxOYmN3M0JGUEViZHFaa2pXckd3TnJtQUFMUGltcTI3Vkd4V2pSLW0zNGxSR3FnTWVEdTg2Y0NyanFjbkwxRTBZREtHVXlGRVlzRVNzZlhFNzlOcmFINnRTVG9aZDBUbzF6QXYwLVJrc2tTYnBZbHNrTUp5VjRpcWhISjl4c1B2cmdLVUVfODZGYTJZQUEyT2lPY0haUGhWTVp6SmRxbl9rc29CandKc0V1RmMwekFQb05WWHhxdlZ6WnpGa0lQMFlrMmJOVDNLUFE0b3ZOb3E?oc=5",
+      "source": "The Hindu",
+      "publishedAt": "2026-09-01T18:50:29.000Z"
+    }
+  },
+  {
+    "id": "6a97402a869a41ed2f66e864",
+    "source": "news",
+    "type": "news",
+    "title": "KPSC row: Kumaraswamy is fighting BJP, not Congress, says CM Shivakumar - Deccan Herald",
+    "content": "Deccan Herald",
+    "postedDate": "2026-09-01T21:14:18.125Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "D.K. Shivakumar",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONXFtYkliTXJjd3ZpbG5ldGhkcmFhOHF5VEFrdmhmQWo0M3lpZWxCT1NTd2MyTEpUZEw3LW9ZQ2ZGWkNHU3pZTWRQcmNfVldJWTJkcmNWQXg5UUwzdEp1N3lBamJOQ1NxTnhaZ3hUYkc5Zm9scGYxVG5LMVF0ZWlMY0FKbmQ2OFV3VVpHSEZEblY5SkJvZWlwcjBFSzVnV3NfQzllTU03dW1GZ1pSeUxJbVRFaWYxUVdBRkxDNFFB?oc=5",
+      "source": "Deccan Herald",
+      "publishedAt": "2026-08-31T22:57:58.000Z"
+    }
+  },
+  {
+    "id": "6a974029869a41ed2f66e863",
+    "source": "news",
+    "type": "news",
+    "title": "‘Modi govt destroyed MGNREGA- lifeline of poor to fill crony capitalists’ coffers’: Congress - Telegraph India",
+    "content": "Telegraph India",
+    "postedDate": "2026-09-01T21:14:17.400Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Narendra Modi",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcC1mc0gzeXJLVWw3ZGJhWVRDWUVUX3JEMkZyRnpSR1loUVFmRGNVNUhRNjJEVjNZQU1xYWVBVnNSVDNRRGZNMVh0a2d5OXFWM2NyYW5YX3ZUdXFuMkZoMlhqX2xqbVAzbVRBSnRGZjgyWnpSakVheUJHT09XMWdZUkJsTHVlUlVqOFQ2V0VPOTExYTdLWXFGWjhTRFNMQzRXX05rem12VDc3QllrcG1EdTZhUWNtdncxOWNkbWpqRUxlQUNqZ1czUXRHQjZXY0VyMl8wTE5TaUlZdjdFNGfSAeMBQVVfeXFMTmpVc3hfenBaT1JmNE9Ja2VkOVB5QmRpaGZGZGtIS1lUcFF4dGRHTzR4ZVFzSHhndG9mQl9GOFl0aVFLTDlYM3ZQUjd3VFhha2hkZHo4RFI5Rzh1NGlsOVZ1RkdYZWhFRk5OLVVtbGZTbklsYU9NdnRWM01pbGRaS3pOMXFtM1pZSkNZek9tYVpwTVk2bzRiTk1rdlBUd3dyLWtpQlF5ZWxlUWx4c2lyWnRqdFRweTJMQ3U5OGJYTkRNSW1IQmt5MVBheENQVXdaaEtBclJPVHllV0E2Rjg1M1hUbk0?oc=5",
+      "source": "Telegraph India",
+      "publishedAt": "2026-09-01T07:33:41.000Z"
+    }
+  },
+  {
+    "id": "6a974029869a41ed2f66e862",
+    "source": "news",
+    "type": "news",
+    "title": "PM Modi urges Iran to ensure peace, freedom of navigation - The Hindu",
+    "content": "The Hindu",
+    "postedDate": "2026-09-01T21:14:17.172Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Narendra Modi",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE9VeVRRTU1MTFhvSU5NR0VfWGE1Y3d4NjNpSlpvSTFCT01RczJPRDNHX2I2T05QVExOUEQ2WGlzSGlscGUwejBPOVQ1bDFNT2wzY2Fmd096WFhrUUdjc2xJaGNGcFdxc3NpTzl6dWtiZWphb2xKdUR2QnJTaUdFc1NxYUNZcmdwOGlJMTBYRzUweTBYa2FFVl8yaF9ZY2l5N2xxY01rbGdUTlJuelBxaGxEemctbVpmekZhSWJKcXJvQWxMTXEyWVpPa18ydU1QTGxOcmpNVmNYRWRqczZKUmJJb9IB6gFBVV95cUxPUThSMTZPa2lFaHVvbmxITndvT1dwNUwxOFFEVEs1Si04emFoX0pYZXQxdEZ3NG5YbllxNFlUVTZYMmZuV2RpTktxcTR1UEY0aEt5MUdzLU9jUmNBLUpFT3BkdDNSY3pqbHZjOEJGN1N4eXViLVVwVF9ESVhLSVJLN3h6eFlqZ2FHZkEwTHB1cEVIU1JPMVAySWtyeUpNVVBkUHN6YXA0c1R4VndXN2x6Snl6d3BubGFsSmxjZHFMcWduYjJRWnpjZnBhX05rOTdjRTZsRFl0U1JHWXlCYUNTTl9YNFdSZ0tvTWc?oc=5",
+      "source": "The Hindu",
+      "publishedAt": "2026-08-31T09:52:29.000Z"
+    }
+  },
+  {
+    "id": "6a974028869a41ed2f66e861",
+    "source": "news",
+    "type": "news",
+    "title": "PM Modi's Strong Comment On Terror At SCO, With Shehbaz Sharif In Attendance - NDTV",
+    "content": "NDTV",
+    "postedDate": "2026-09-01T21:14:16.722Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Narendra Modi",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc0ZET2xSWXV0dzZ5R3Q0dEI5VGdqbURIU3N6Z18tTDNZOHJ2QXdpd3lnTS1UM3VNOHR0OE5wZ2o4eVVvcWxSdno3eE5JeGZ0bC1YWTRWc21TSGU1cW1qQ0pMYjlKY1VyNTVoNjNPU1lsZW1RN2dsZVNNaldDTXBsQmp1dGVVVERWQ3JROEFwSS1KVU84eXNDdHFKZkZaWkh3SjhOb2FPVVpFNy1BUE40WER0WdIBuwFBVV95cUxNb09GU0FPZFY3Zm1MLU80QnlKZHJtb3Q2NkVOTkZuejRSSnJuX2pxZDVEQllseW1LdUp2bU1KTjhLeENkLU1zOHRySUxGVVdvNjNudlNTMmVGYVFJUVNzb2dteGlYTXVGaUNZeW5MY09RZldEaXdFZ2V6Z2JjMUQ5VGMxZkpSMTJDN1pTQnZYeXFZNFVZbVp3ekxXUWQ0Wkc1NU9PRnVZbExXbFY2VWNaTW1NTnBkZS0zZ2NF?oc=5",
+      "source": "NDTV",
+      "publishedAt": "2026-09-01T05:58:14.000Z"
+    }
+  },
+  {
+    "id": "6a974027869a41ed2f66e860",
+    "source": "news",
+    "type": "news",
+    "title": "‘Who knows if it will survive’: Experts question how long Trump’s Venezuela oil deal will last - Politico",
+    "content": "Politico",
+    "postedDate": "2026-09-01T21:14:15.796Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Donald Trump",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rdmxaR2dyejJqLUVuUlh0SnZPNEVTZWExbFB6ZWxhaVhzaWJqWTQtYUFUNkRWcnlfc0VwQUpWZGdUb05sMUtjcU9SeUFjZlB6eGVyR25lbVlTVmxMNzJJVFNWVklITE1zVjJzckJGNEx4dV83OXQ3eUJmSXJZNjg?oc=5",
+      "source": "Politico",
+      "publishedAt": "2026-09-01T21:00:00.000Z"
+    }
+  },
+  {
+    "id": "6a974027869a41ed2f66e85f",
+    "source": "news",
+    "type": "news",
+    "title": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends - AP News",
+    "content": "AP News",
+    "postedDate": "2026-09-01T21:14:15.567Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "topic": "Donald Trump",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
+      "source": "AP News",
+      "publishedAt": "2026-09-01T19:50:00.000Z"
+    }
+  },
+  {
+    "id": "6a974021c4de47b3a0d954d2",
+    "source": "gmail",
+    "type": "email",
+    "title": "NEW in Dehancer iOS: Built-in video editor",
+    "content": "Dehancer iOS 7.0 Video editing is now built into Dehancer iOS! Cut, split and organize your clips inside a project, then apply a film look to your edit — the same color science you already use on your",
+    "postedDate": "2026-09-01T21:14:09.936Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "from": "Dehancer Team <support@dehancer.com>",
+      "date": "Tue,  1 Sep 2026 13:04:10 +0000",
+      "gmailId": "1a05d1592d3a71d8",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05d1592d3a71d8"
+    }
+  },
+  {
+    "id": "6a974021c4de47b3a0d954d1",
+    "source": "gmail",
+    "type": "email",
+    "title": "Esprit Analytique Co-Founder you may know",
+    "content": "Co-Founder, Esprit Analytique ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+    "postedDate": "2026-09-01T21:14:09.230Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "from": "LinkedIn <messages-noreply@linkedin.com>",
+      "date": "Tue, 1 Sep 2026 14:24:09 +0000 (UTC)",
+      "gmailId": "1a05d5b259588c92",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05d5b259588c92"
+    }
+  },
+  {
+    "id": "6a974020c4de47b3a0d954d0",
+    "source": "gmail",
+    "type": "email",
+    "title": "Server failure detected on project-hermes",
+    "content": "Render We recently detected a server failure for project-hermes: Exited with status 1 This alert means one of the instances running your service became unavailable. In many cases, this issue resolves",
+    "postedDate": "2026-09-01T21:14:08.523Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "from": "Render <no-reply@render.com>",
+      "date": "Tue, 01 Sep 2026 14:35:31 +0000",
+      "gmailId": "1a05d658c4a62a0a",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05d658c4a62a0a"
+    }
+  },
+  {
+    "id": "6a97401fc4de47b3a0d954cf",
+    "source": "gmail",
+    "type": "email",
+    "title": "[nithilan-alt-f4/daily-briefing] Run failed: Sync Briefing Data - master (73e5684)",
+    "content": "[nithilan-alt-f4/daily-briefing] Sync Briefing Data workflow run Sync Briefing Data: All jobs have failed View workflow run Status Job Annotations Sync Briefing Data / sync Failed in 10 seconds",
+    "postedDate": "2026-09-01T21:14:07.772Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "from": "Nithilan Manivannan <notifications@github.com>",
+      "date": "Tue, 01 Sep 2026 14:12:05 -0700",
+      "gmailId": "1a05ed0a256f97de",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05ed0a256f97de"
+    }
+  },
+  {
+    "id": "6a96d072869a41ed2f66e051",
+    "source": "news",
+    "type": "news",
+    "title": "PM Modi's Strong Comment On Terror At SCO, With Shehbaz Sharif In Attendance - NDTV",
+    "content": "PM Modi's Strong Comment On Terror At SCO, With Shehbaz Sharif In Attendance - NDTV",
+    "summary": "You heard that **PM Modi** made a strong statement about terrorism at the SCO meeting. **Shehbaz Sharif** was also in attendance.",
+    "postedDate": "2026-09-01T05:58:14.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc0ZET2xSWXV0dzZ5R3Q0dEI5VGdqbURIU3N6Z18tTDNZOHJ2QXdpd3lnTS1UM3VNOHR0OE5wZ2o4eVVvcWxSdno3eE5JeGZ0bC1YWTRWc21TSGU1cW1qQ0pMYjlKY1VyNTVoNjNPU1lsZW1RN2dsZVNNaldDTXBsQmp1dGVVVERWQ3JROEFwSS1KVU84eXNDdHFKZkZaWkh3SjhOb2FPVVpFNy1BUE40WER0WdIBuwFBVV95cUxNb09GU0FPZFY3Zm1MLU80QnlKZHJtb3Q2NkVOTkZuejRSSnJuX2pxZDVEQllseW1LdUp2bU1KTjhLeENkLU1zOHRySUxGVVdvNjNudlNTMmVGYVFJUVNzb2dteGlYTXVGaUNZeW5MY09RZldEaXdFZ2V6Z2JjMUQ5VGMxZkpSMTJDN1pTQnZYeXFZNFVZbVp3ekxXUWQ0Wkc1NU9PRnVZbExXbFY2VWNaTW1NTnBkZS0zZ2NF?oc=5",
+      "topic": "Narendra Modi"
+    }
+  },
+  {
+    "id": "6a96d072869a41ed2f66e050",
+    "source": "news",
+    "type": "news",
+    "title": "Ukraine war: What to make of Modi's plea to Putin to end conflict - BBC",
+    "content": "Ukraine war: What to make of Modi's plea to Putin to end conflict - BBC",
+    "summary": "You should know that **Modi** asked **Putin** to stop the Ukraine war, hoping to bring peace. This shows leaders trying to end conflict.",
+    "postedDate": "2026-09-01T11:55:51.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PWENOTXlCNVlubTZiUzE4NURRUkZtUExyZnJ1aFJFRDdFMDhnUzdVZkN5WmtRc0VQZGcwd1g3RHFURF90Qmx4YU5vZUxtUW1IaW8tYkR5ZEd2dw?oc=5",
+      "topic": "Narendra Modi"
+    }
+  },
+  {
+    "id": "6a96d072869a41ed2f66e04f",
+    "source": "news",
+    "type": "news",
+    "title": "World must move from endless war to end of war: PM Modi to Putin - The Hindu",
+    "content": "World must move from endless war to end of war: PM Modi to Putin - The Hindu",
+    "summary": "You read that **PM Modi** told **Putin** that the world should stop endless war and aim for peace.",
+    "postedDate": "2026-08-31T14:03:29.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlZuU0R4VHM3MHdJWXRGR25OT3ZBRVNQdjVqOU9maTFnMUUxRGIwbmRKdkVYZ2dUdmtQbDJxQTF2SFJLWTBzUmE5UEJoNEgyVFpIX2p4cnZfLVRidWJ6bGdSaXBjLVRYd25vUFlwZGpKUXl4R0NuREFyQXJmT0NmR1M1RXhNSl90aVBxalczZlFxT1ljMmtkMzdUNzRuRUp5eFV1OE9ZNndaeDhzRWc00gG2AUFVX3lxTFBiMF9ZakJIeEZGMlJGd1J5VmlBUzUwaUVLWk1HRDlRX0tTZjMyTUlOSFZoVjh1SWlZOXZlMzVYWklBcmVOblUtTU1LVEVuaW4tSWxsb0lEc0ptd2dqVFFJQVRvZUhPSGVEWWZjSnJNdUE4MG54RDR4N213czUxYS14djJfQUtpMDVxX1pUTEZqNFNMZkpodlRjWlYxQlNsQ2s2RUJXanpzNFItd1YzYW41TnppVnln?oc=5",
+      "topic": "Narendra Modi"
+    }
+  },
+  {
+    "id": "6a96d072869a41ed2f66e04e",
+    "source": "news",
+    "type": "news",
+    "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil - CNBC",
+    "content": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil - CNBC",
+    "summary": "You should know that **Modi** asked **Putin** to end the Ukraine war while the U.S. threatened tariffs on Russian oil [[News: Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil - CNBC]]",
+    "postedDate": "2026-09-01T01:51:00.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN2xOMTZWRlBPVG9URC1jc01hN2Ytd2daYmJCS0lvYlJaOGs5U3Jwcm55ZXlBenpQcERvcUdLdERXTF95RmM2TThVXzNZSDZVWHdQdUp2UW1oMjVSRnlxZzRPenVmVmpsWnNmMFZIOV9IYUljSEVhcFJYOUZZaG5LOVlR0gGHAUFVX3lxTFBIT0hRTmZMMTQ2MnlLV2Y2UU1IYVRZZktxNl9PcVl2VURxWlRZVFQxN2s4RDRNT2JJa2F3VFJpQ08wZEhadTVzOFFPdHh5MDNwZUZQMC1mQ085X1hpZjJXSkxvVHFpM3NVWWF6blRQbkxBTTBaMGlkcVdZUEtqbXNVZFVSWnRUVQ?oc=5",
+      "topic": "Narendra Modi"
+    }
+  },
+  {
+    "id": "6a96d071869a41ed2f66e04d",
+    "source": "news",
+    "type": "news",
+    "title": "USA and Israel Put Drug Cartel-Linked US Citizen in Power in Colombia",
+    "content": "The United States has a long history of meddling in the internal affairs of Latin America. But in recent years, US interference has become even more extreme and explicit.\nAnd it is not just the US that is meddling in …\nThe post USA and Israel Put Drug Cartel-…",
+    "summary": "In the story [[News: USA and Israel Put Drug Cartel-Linked US Citizen in Power in Colombia]], you learn that the **USA** and **Israel** helped a drug‑cartel‑linked U.S. citizen gain a powerful position in Colombia. This shows how foreign powers can influence other countries.",
+    "postedDate": "2026-08-31T13:13:30.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Globalresearch.ca",
+      "url": "https://www.globalresearch.ca/usa-israel-put-drug-cartel-linked-us-citizen-power-colombia/5938489",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96d071869a41ed2f66e04c",
+    "source": "news",
+    "type": "news",
+    "title": "NY Gov. Kathy Hochul Wore A Hijab And You Know What Happened Next",
+    "content": "The state leader took a beating from right-wingers like Riley Gaines and Spencer Pratt over the silliest issue.",
+    "summary": "You might have heard that **Kathy Hochul** wore a **hijab** and faced criticism from some right‑wingers. This shows how politics can turn a simple choice into a big controversy.",
+    "postedDate": "2026-08-31T13:14:45.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "HuffPost",
+      "url": "https://www.huffpost.com/entry/kathy-hochul-hijab-maga-response_n_6a9548bfe4b02b920196e8a3",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96ce9f869a41ed2f66e01b",
+    "source": "news",
+    "type": "news",
+    "title": "‘Strong numbers': PM Modi hails 7.8% GDP growth, hits out at ‘jhooth ki goonj’ - The Times of India",
+    "content": "‘Strong numbers': PM Modi hails 7.8% GDP growth, hits out at ‘jhooth ki goonj’ - The Times of India",
+    "summary": "You should know that **PM Modi** praised India’s strong **GDP growth** of 7.8 % and criticized the spread of false news.",
+    "postedDate": "2026-09-01T03:50:00.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOR2FrOU1WNksxT25VV084ZEVWckh4dEJFYmFWdGlmbm1Uc3lrZFJtRGppQjRPZjIxY1p4MnRZRTYxWWt4dlFhLTZpZ2hWMC1xYmZITEZiOWVfY3B2MmlBQmxIOE1IcEItbkhLblBndVZXZDRyaEFDV25KcFZZbGxNZklxNUdzQWxzNlNxbHEyTWQ0dFF1Zlg2c3ZTUFBWWDNYWExwVl9kd2dXMHh3c1dwZ3hPc3JfeGl2NjZMLUNqSTBtbDBHUEhJbW1iX2x0aEt0c2dSM1JBbEtaMlhTNzVfNkhBYUxsMzZKSTV1Z3dn0gHzAUFVX3lxTE5qOVQ3SHRBRk45NVNfTTAtZDFLZVFpR1g1dUh5emtFQmhIWURQelBuYlFVYk9tOHcwRkVqZmY2Q2VXTEtpZzlaUG5vUGgtRFMzSkxBQUxiRk82Z2VTVnZnc2ZFeWg5a3ZHVTk0ck94Q1FULVFFRHE4MkZIa1RUb1ZvWWNfZXRxb0E4UVVpTVlpbjBNcXlRNUFkQnRkVFNERTVhcEVCNlVXZFE4c3Z1QlVaQ0FRSnhlQVFKX1o0c0pkcDhJZDV6VmtuWEVnclRMampWRWRzclBLQ3YwQkZub0FpcmdzUzZCdUZ6WHZmVFdvS0hMTQ?oc=5",
+      "topic": "Narendra Modi"
+    }
+  },
+  {
+    "id": "6a96ce9f869a41ed2f66e01a",
+    "source": "news",
+    "type": "news",
+    "title": "PM Modi's 'Wed In India' Mantra: 5 Celebrity Wedding Venues That Prove You Don't Need To Go Abroad - NDTV",
+    "content": "PM Modi's 'Wed In India' Mantra: 5 Celebrity Wedding Venues That Prove You Don't Need To Go Abroad - NDTV",
+    "summary": "You can see how **PM Modi**'s \"Wed In India\" Mantra is used by celebrities, with 5 wedding venues in **India** that show you don't need to go abroad [[News: PM Modi's 'Wed In India' Mantra: 5 Celebrity Wedding Venues That Prove You Don't Need To Go Abroad - NDTV]]",
+    "postedDate": "2026-09-01T12:39:20.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSFJGeFhXNGwyZ2ZhRlZ2TDZNV0ctSGxqYWx1cVN2NTdvLW82cGwtOUp3QWlJWmFUYkVBNnB0Y3U2SE93MGlJbjVNcTlVQXdVR1FUUVNtQWcxYjVLdzdndmV5ckhOYUVtYlBDdXR6TEdQek56aEtTV05ZRmxRNVlPRTNOZjQxdUR4MEtFRGNDQ3RlNE1KVWFBVi00LUVBbGZ2Ulc0NVdQb0dlYnNKN2t5MWxRNDBsaFRVc1U4LVFjbFA5SEFjQWpvN0RB0gHSAUFVX3lxTE01Ulk2QkRrSXlOUk5tTWZteFFBUmlhMkZPaXNQVGNhQzlsc2FaOWxTQVh5X196Zk9jNHRMQUdJbjU5Zzd0cmJmSU9oOHFNd0RwNFRtM05iUTlYWWNEcHlBYXY2bHEtZDZrU0tta3Q2NFk0M2liTkJWUFBFMThJdG1KVEtXcGV6YXB5UElIUXVxdEx3R3VXX0NSaUpreHhVelZUSzVwQnFVaHN0azI1Rm5YLUFtbjJzcFlUNHk1LXRwdzZhUmE3bEoyMUF3SWVJU2lUQQ?oc=5",
+      "topic": "Narendra Modi"
+    }
+  },
+  {
+    "id": "6a96ce9f869a41ed2f66e019",
+    "source": "news",
+    "type": "news",
+    "title": "Trump teleprompter pays $172,000 to end insider trading probe",
+    "content": "White House employee, who had access to Trump speeches, allegedly made sports and Trump-related bets on prediction markets. Keep reading.",
+    "summary": "You should know that a **White House employee** who had access to **Trump** speeches was paid $172,000 to end an insider‑trading probe. He allegedly made sports and Trump‑related bets on prediction markets.",
+    "postedDate": "2026-08-31T13:02:54.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Financial Post",
+      "url": "https://financialpost.com/news/trump-teleprompter-pays-end-insider-trading-probe",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96ce9f869a41ed2f66e018",
+    "source": "news",
+    "type": "news",
+    "title": "Rebuke or Punishment",
+    "content": "Plus: Gustavo Gordillo's lies, measles among the Amish, Milo Yiannopoulos deported, and more...",
+    "summary": "You should know that **Gustavo Gordillo** was caught lying, **Milo Yiannopoulos** was deported, and there is a measles outbreak among the Amish.",
+    "postedDate": "2026-08-31T13:03:43.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Reason",
+      "url": "https://reason.com/2026/08/31/rebuke-or-punishment/",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96ce9f869a41ed2f66e017",
+    "source": "news",
+    "type": "news",
+    "title": "CLARITY Act Hits a September 15 Deadline: Is Crypto’s Biggest Regulatory Bet About to Fail?",
+    "content": "The CLARITY Act is set for a big test on September 15, 2026. The U.S. Senate will vote on a motion that will decide whether...\nThe post CLARITY Act Hits a September 15 Deadline: Is Crypto’s Biggest Regulatory Bet About to Fail? appeared first on Bitcoin Found…",
+    "summary": "[[News: CLARITY Act Hits a September 15 Deadline: Is Crypto’s Biggest Regulatory Bet About to Fail?]]  \nYou should know that the **CLARITY Act** will be voted on by the U.S. Senate on September 15, 2026. It could change how **crypto** is regulated.",
+    "postedDate": "2026-08-31T13:05:28.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Bitcoinfoundation.org",
+      "url": "https://bitcoinfoundation.org/news/regulation/clarity-act-hits-a-september-15-deadline/",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96ce9e869a41ed2f66e016",
+    "source": "news",
+    "type": "news",
+    "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
+    "content": "My top 10 things to watch Monday, Aug. 31 1. Oil is up nearly 4% and Chevron , my crude barometer, is trading above $200. U.S. and Iran exchanged attacks for the first time since July. President Donald Trump is threatening to blow up an Iranian oil hub, growi…",
+    "summary": "You should know that **oil** prices are up nearly 4% and that the U.S. and Iran are in conflict again. Also, **Trump** is threatening to attack an Iranian oil hub.",
+    "postedDate": "2026-08-31T13:08:27.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Biztoc.com",
+      "url": "https://biztoc.com/x/0d85ef6fde86fade",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96ce77869a41ed2f66e015",
+    "source": "nps",
+    "type": "notification",
+    "title": "Message from English Teacher",
+    "content": "Message from English Teacher",
+    "postedDate": "2026-09-01T09:14:00.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {}
+  },
+  {
+    "id": "6a96ce77869a41ed2f66e014",
+    "source": "nps",
+    "type": "notification",
+    "title": "Poster Making Competition",
+    "content": "Poster Making Competition",
+    "postedDate": "2026-09-01T11:28:00.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {}
+  },
+  {
+    "id": "6a96ce6d869a41ed2f66e00d",
+    "source": "nps",
+    "type": "assignment",
+    "title": "Assessment of Listening Skills",
+    "content": "Subject: English Dear Students, This is to inform you that the Assessment of Listening Skills for Grade 11 English is scheduled to be conducted on 9 September 2026. The assessment will be for 35 minutes. You will be provided with a worksheet containing questions based on an unseen passage. The teacher will read the passage aloud twice. You will then be given time to carefully read the questions and answer them based on your understanding of the passage. Please listen attentively while the passage is being read and make a note of the important details. Ensure that all answers are based on the information presented in the passage. You are advised to be attentive and focused throughout the assessment. Assessment Details:\nSubject: English\nGrade: 11\nDate: 9 September 2026\nDuration: 35 minutes\nAssessment: Listening Skills All the best! Subject: English Dear Students, This is to inform you that the Assessment of Listening Skills for Grade 11 English is scheduled to be conducted on 9 September 2026. The assessment will be for 35 minutes. You will be provided with a worksheet containing questions based on an unseen passage. The teacher will read the passage aloud twice. You will then be given time to carefully read the questions and answer them based on your understanding of the passage. Please listen attentively while the passage is being read and make a note of the important details. Ensure that all answers are based on the information presented in the passage. You are advised to be attentive and focused throughout the assessment. Assessment Details:\nSubject: English\nGrade: 11\nDate: 9 September 2026\nDuration: 35 minutes\nAssessment: Listening Skills All the best!\nSubject: English\nTeacher: GEETA NAIR",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "subject": "English",
+      "teacher": "GEETA NAIR",
+      "submissionDate": "01-09-2026",
+      "downloadUrl": ""
+    }
+  },
+  {
+    "id": "6a96ce6d869a41ed2f66e00c",
+    "source": "nps",
+    "type": "assignment",
+    "title": "Poster Making Competition",
+    "content": "Subject: Work Education “Please review the document carefully and follow all the instructions, guidelines, and requirements provided in it accordingly.” Subject: Work Education “Please review the document carefully and follow all the instructions, guidelines, and requirements provided in it accordingly.”\nSubject: Work Education\nTeacher: SURESH BABU",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "subject": "Work Education",
+      "teacher": "SURESH BABU",
+      "submissionDate": "01-09-2026",
+      "downloadUrl": "https://parent.npsnorthacadamis.com/assignment/download_assignment?id=Mlh2VTFqZnhGcjNlNkhmbUMwNS80QT09&type=1"
+    }
+  },
+  {
+    "id": "6a96cc6e869a41ed2f66dfc3",
+    "source": "news",
+    "type": "news",
+    "title": "PM Modi Meets Iranian President In Kyrgyzstan: Why It Matters - NDTV",
+    "content": "PM Modi Meets Iranian President In Kyrgyzstan: Why It Matters - NDTV",
+    "summary": "You should know that **PM Modi** met the **Iranian President** in Kyrgyzstan, showing how leaders from different countries can work together. [[News: PM Modi Meets Iranian President In Kyrgyzstan: Why It Matters - NDTV]]",
+    "postedDate": "2026-08-31T09:04:00.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDdFdnNqMGhKb2Q2NkUwWXYtWGVLUUdONUdhYlcxcmx2aHRwMHRUNFlRbS1fMHQ1ZnA5T09xY3RwQWhUUkJPRWZyVUZ0Q3czOWdsUk13MkR4Z181b2VpbE91TGsyM1ozSjVhdE12TTVqSkRsa2Jvd0ZPc0h0LUJqOE1MU3htZURJR0NjYTB1b1Fid2tiSUdFQ0dzalFDOHpFYnN5MV85ZHNBVjRoTG14bVZBbTdQQdIBvgFBVV95cUxQUDYtUnBYV0NrcThJdTg4ZnlkYWZGOXp5d3hFVXhrdWJlY19JOU4tM0NXT2YzTnlWTkJvQmZRNFpnSXVDQjlFTFpLS2x3bjZfUFJwclJyRy1TUnRzcndYZS1ZOXppOFhzdmlQeHhXYlNGV25xU1V0dHUtMENNQk9WV3VMelFIZ2Q5ZnU3Qlc2MDRhYzFFNGIwbVd1WDc0cWFFd0dzN3o4aERUVFFGRl8tczZtN19nLTZENDdFRjRn?oc=5",
+      "topic": "Narendra Modi"
+    }
+  },
+  {
+    "id": "6a96cc6e869a41ed2f66dfc2",
+    "source": "news",
+    "type": "news",
+    "title": "PM Modi urges Iran to ensure peace, freedom of navigation - The Hindu",
+    "content": "PM Modi urges Iran to ensure peace, freedom of navigation - The Hindu",
+    "summary": "You should know that **Modi** asked **Iran** to keep the sea calm and safe, as reported in [[News: PM Modi urges Iran to ensure peace, freedom of navigation - The Hindu]]",
+    "postedDate": "2026-08-31T09:52:29.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE9VeVRRTU1MTFhvSU5NR0VfWGE1Y3d4NjNpSlpvSTFCT01RczJPRDNHX2I2T05QVExOUEQ2WGlzSGlscGUwejBPOVQ1bDFNT2wzY2Fmd096WFhrUUdjc2xJaGNGcFdxc3NpTzl6dWtiZWphb2xKdUR2QnJTaUdFc1NxYUNZcmdwOGlJMTBYRzUweTBYa2FFVl8yaF9ZY2l5N2xxY01rbGdUTlJuelBxaGxEemctbVpmekZhSWJKcXJvQWxMTXEyWVpPa18ydU1QTGxOcmpNVmNYRWRqczZKUmJJb9IB6gFBVV95cUxPUThSMTZPa2lFaHVvbmxITndvT1dwNUwxOFFEVEs1Si04emFoX0pYZXQxdEZ3NG5YbllxNFlUVTZYMmZuV2RpTktxcTR1UEY0aEt5MUdzLU9jUmNBLUpFT3BkdDNSY3pqbHZjOEJGN1N4eXViLVVwVF9ESVhLSVJLN3h6eFlqZ2FHZkEwTHB1cEVIU1JPMVAySWtyeUpNVVBkUHN6YXA0c1R4VndXN2x6Snl6d3BubGFsSmxjZHFMcWduYjJRWnpjZnBhX05rOTdjRTZsRFl0U1JHWXlCYUNTTl9YNFdSZ0tvTWc?oc=5",
+      "topic": "Narendra Modi"
+    }
+  },
+  {
+    "id": "6a96cc6e869a41ed2f66dfc1",
+    "source": "news",
+    "type": "news",
+    "title": "Trump vows to hit Iran hard, says US escorting dozens of ships in Hormuz - Al Jazeera",
+    "content": "Trump vows to hit Iran hard, says US escorting dozens of ships in Hormuz - Al Jazeera",
+    "summary": "You should know that **Trump** says he will hit **Iran** hard. The US is escorting many ships in Hormuz. [[News: Trump vows to hit Iran hard, says US escorting dozens of ships in Hormuz - Al Jazeera]]",
+    "postedDate": "2026-09-01T04:17:06.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdlVjVnJob3NkOWhEQmpuc3JOXy1ycTRJdGgxRGM1LVlWUmNoWmxvc0o0VVludHBLUnZqYVJjN1ZaalVyb3lGTE1RcndhSHlRY1laWmF2azhzaUVTR2JDdk9kZ2NubHVUVDBfMmJtUkl3aWVPSm0yZUFnQVBEZlRieFA5N09WMmRYSktodHlkZ3Zwc3VWZDg2eGg1LUk1S0xjdEpZY9IBqgFBVV95cUxPcmsxTkMwd3FHZHdIQWF0aFNKdEplbjlUY0JqRGF0V1JvRUw3a0tfTjl4ZVhoRGFfczdjcENoN0RZcGJiNjFUQjRNTGd4MmN6dVFkX2I4OXJVa2lybU84MXoxbU9PY2R3SnZCX1JKNDNUOFd3aENpMHNYdTAtaHZnbFhtUGpWNTJWTk9fWVNZUUs2VHR2YnVaTHNvZDdEWnpaRjhJU1dTQmk3UQ?oc=5",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96cc6e869a41ed2f66dfc0",
+    "source": "news",
+    "type": "news",
+    "title": "Immigrants are losing due process rights because of Laken Riley Act, lawyers say",
+    "content": "The law, signed by President Trump in January 2025, requires immigrants accused of certain crimes to be detained, even if they aren’t charged or convicted.",
+    "summary": "You should know that the **Laken Riley Act** signed by **President Trump** in January 2025 means immigrants accused of certain crimes must be detained even if they are not charged or convicted.",
+    "postedDate": "2026-08-31T13:00:00.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "KPBS",
+      "url": "https://www.kpbs.org/news/border-immigration/2026/08/31/immigrants-are-losing-due-process-rights-because-of-laken-riley-act-lawyers-say",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96cc6d869a41ed2f66dfbf",
+    "source": "news",
+    "type": "news",
+    "title": "Is the US already losing to China on innovation, logistics and rapid resupply?",
+    "content": "\"An Army Marches on its Stomach\" takes new meaning as the USS Abraham Lincoln deployment exposes critical military supply chain vulnerabilities.",
+    "summary": "You should know that the **US** is facing challenges in innovation and logistics compared to **China**. The recent deployment of the USS Abraham Lincoln shows serious supply chain problems.",
+    "postedDate": "2026-08-31T13:00:00.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Fox News",
+      "url": "https://www.foxnews.com/opinion/us-losing-china-innovation-logistics-rapid-resupply",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96cc6d869a41ed2f66dfbe",
+    "source": "news",
+    "type": "news",
+    "title": "Can Iran use rockets to mine the Strait of Hormuz, as US claims?",
+    "content": "Analysts say it's implausible but Iran is well-versed in adapting conventional weapons to suit its needs.",
+    "summary": "You might wonder if **Iran** can use **rockets** to mine the Strait of Hormuz, but experts say it is unlikely, even though Iran is good at adapting weapons.",
+    "postedDate": "2026-08-31T13:00:10.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96cc6d869a41ed2f66dfbd",
+    "source": "news",
+    "type": "news",
+    "title": "Canada knows the US can’t be trusted. It’s ready to fight",
+    "content": "How much do you know about the War of 1812? To Canadians, it was unprovoked Yankee aggression",
+    "summary": "You should know that **Canada** feels the **US** is untrustworthy and ready to defend itself. The War of 1812 shows Canadians saw the US as an unprovoked aggressor.",
+    "postedDate": "2026-08-31T13:00:20.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Salon",
+      "url": "https://www.salon.com/2026/08/31/canada-knows-the-us-cant-be-trusted-its-ready-to-fight/",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96cad7869a41ed2f66df8d",
+    "source": "news",
+    "type": "news",
+    "title": "Prime Minister Narendra Modi addresses 26th SCO Summit; calls to end double standards on terrorism - newsonair.gov.in",
+    "content": "Prime Minister Narendra Modi addresses 26th SCO Summit; calls to end double standards on terrorism - newsonair.gov.in",
+    "summary": "You should know that [[News: Prime Minister Narendra Modi addresses 26th SCO Summit; calls to end double standards on terrorism - newsonair.gov.in]]. **Narendra Modi** urged an end to double standards on **terrorism**.",
+    "postedDate": "2026-09-01T10:52:30.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "newsonair.gov.in",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdEQyNnVJNU02TkdGNnR1WXY1b2F0SGZiNXpqUFJVWENURTd5STJZTDNGMEExQVg2cjVfQjRNZVdHdUxzbnVTbE9YR3kzM0ZfZkJ3VzhzTDhvSEpRZnVZbmJZUE44WWF0VWJCZDVwcU1GelNqUDIxVktkc3RrM2RiNW9kZGJOTjM0Wl9QekFjbw?oc=5",
+      "topic": "Narendra Modi"
+    }
+  },
+  {
+    "id": "6a96cad7869a41ed2f66df8c",
+    "source": "news",
+    "type": "news",
+    "title": "After 25 Years, the Shanghai Cooperation Organization Faces an Uncertain Future",
+    "content": "The SCO faces an uncertain future. Its key members fear each other at least as much as they need each other.",
+    "summary": "**Shanghai Cooperation Organization** faces an uncertain **future** because its key members fear each other. **You** should know that this could change international cooperation in the region.",
+    "postedDate": "2026-08-31T12:40:00.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "The Diplomat",
+      "url": "https://thediplomat.com/2026/08/after-25-years-the-shanghai-cooperation-organization-faces-an-uncertain-future/",
+      "topic": "Narendra Modi"
+    }
+  },
+  {
+    "id": "6a96cad7869a41ed2f66df8b",
+    "source": "news",
+    "type": "news",
+    "title": "Doomsayers doomed, India bloomed: PM Modi after Q1 GDP growth quickens to 7.8% amid global tensions",
+    "content": "India achieved a strong 7.8% GDP growth in the first quarter of FY27. Prime Minister Narendra Modi described this economic performance as a significant accomplishment. The nation's economy demonstrated resilience amidst global uncertainties and oil price shoc…",
+    "summary": "You can see that **India** grew its economy by 7.8% in the first quarter, and **Modi** said it was a big win, showing the country can stay strong even when the world is uncertain. [[News: Doomsayers doomed, India bloomed: PM Modi after Q1 GDP growth quickens to 7.8% amid global tensions]]",
+    "postedDate": "2026-08-31T12:44:57.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/doomsayers-doomed-india-bloomed-pm-modi-after-q1-gdp-growth-quickens-to-7-8-amid-global-tensions/articleshow/133653382.cms",
+      "topic": "Narendra Modi"
+    }
+  },
+  {
+    "id": "6a96cad7869a41ed2f66df8a",
+    "source": "news",
+    "type": "news",
+    "title": "Erdoğan joins leaders at regional summit in Bishkek",
+    "content": "President Recep Tayyip Erdoğan arrived in Kyrgyzstan’s capital Bishkek on Aug. 31 to attend a summit of the Shanghai Cooperation Organization and hold bilateral meetings with regional leaders.",
+    "summary": "You can see that **Erdoğan** visited **Bishkek** to meet leaders at the Shanghai Cooperation Organization summit.",
+    "postedDate": "2026-08-31T12:49:24.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/erdogan-joins-leaders-at-regional-summit-in-bishkek-226284",
+      "topic": "Narendra Modi"
+    }
+  },
+  {
+    "id": "6a96cad7869a41ed2f66df89",
+    "source": "news",
+    "type": "news",
+    "title": "UPI reaches Uzbekistan; becomes 11th country to accept payment through platform",
+    "content": "UPI is currently accepted in 10 countries -- Singapore, the United Arab Emirates, France, Mauritius, Nepal, Bhutan, Qatar, Sri Lanka, Cambodia and Greece",
+    "summary": "You might notice that **UPI** now works in **Uzbekistan**. It becomes the 11th country to accept payments through the platform.",
+    "postedDate": "2026-08-31T12:50:55.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/upi-reaches-uzbekistan-becomes-11th-country-to-accept-payment-through-platform/article71410745.ece",
+      "topic": "Narendra Modi"
+    }
+  },
+  {
+    "id": "6a96cad6869a41ed2f66df88",
+    "source": "news",
+    "type": "news",
+    "title": "Trump Loses Bid to Move NY Hush Money Case to Federal Court",
+    "content": "Donald Trump lost another bid to move a challenge to his New York criminal fraud conviction to a federal court as a judge said that payments to an adult film star don’t constitute an official act that would be covered …",
+    "summary": "You might notice that **Trump** lost his attempt to move his New York hush money case to a **federal court**. The judge said the payments to an adult film star don’t count as an official act covered by federal law.",
+    "postedDate": "2026-08-31T12:46:53.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/east/2026/08/31/883412.htm",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96cad6869a41ed2f66df87",
+    "source": "news",
+    "type": "news",
+    "title": "Trump on Iran: 'We're going to hit them hard'",
+    "content": "US President Donald Trump told Fox News on Monday that the US will respond to the Iranian attack on US forces overnight in Jordan. \"We're going to hit them hard; there will be a response.\"The President indicated that all except for one missile were intercepte…",
+    "summary": "You should know that **Trump** said the US will respond strongly to an attack by **Iran**. He said they will hit them hard.",
+    "postedDate": "2026-08-31T12:47:22.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/692698",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96cad6869a41ed2f66df86",
+    "source": "news",
+    "type": "news",
+    "title": "U.S. steel and materials stocks swing amid U.S.-Canada trade war",
+    "content": "The VanEck Steel ETF and State Street Materials Select Sector SPDR swung sharply last week as U.S.-Canada tariff tensions escalated",
+    "summary": "[[News: U.S. steel and materials stocks swing amid U.S.-Canada trade war]]  \nYou see that **steel** and **materials** stocks moved a lot because of the U.S.-Canada trade war. The VanEck Steel ETF and State Street Materials Select Sector SPDR were the ones that changed the most.",
+    "postedDate": "2026-08-31T12:48:02.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Quartz India",
+      "url": "https://qz.com/steel-materials-stocks-us-canada-trade-war-tariffs-083126",
+      "topic": "Donald Trump"
+    }
+  },
+  {
+    "id": "6a96cad6869a41ed2f66df85",
+    "source": "news",
+    "type": "news",
+    "title": "Taiwan says 'unpredictable' China strengthens air and sea control nearby",
+    "content": "TAIPEI, Aug 31 (Reuters) - An increasingly unpredictable Beijing is tightening its grip on the air and sea around Taiwan, Taipei said in an annual review of...",
+    "summary": "You should know that **Taiwan** says Beijing is tightening its control over the air and sea nearby. This makes the situation more **unpredictable**.",
+    "postedDate": "2026-08-31T12:49:19.000Z",
+    "isRead": false,
+    "isCompleted": false,
+    "metadata": {
+      "sourceName": "Yahoo Entertainment",
+      "url": "https://uk.news.yahoo.com/taiwan-says-unpredictable-china-strengthens-124919731.html",
+      "topic": "Donald Trump"
+    }
+  },
+  {
     "id": "6a96c86e869a41ed2f66df37",
     "source": "news",
     "type": "news",
@@ -3748,594 +4520,5 @@
       "endDate": "2026-10-21",
       "rawTitle": "Dussehra Vacation ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )"
     }
-  },
-  {
-    "id": "6a8e8f8b869a41ed2f660cce",
-    "source": "nps",
-    "type": "holiday",
-    "title": "Gandhi Jayanthi",
-    "content": "Gandhi Jayanthi ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )",
-    "postedDate": "2026-10-01T18:30:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-03",
-      "rawTitle": "Gandhi Jayanthi ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )"
-    }
-  },
-  {
-    "id": "6a8e8f8b869a41ed2f660ccd",
-    "source": "nps",
-    "type": "holiday",
-    "title": "Ganesha Chaturthi",
-    "content": "Ganesha Chaturthi ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )",
-    "postedDate": "2026-09-13T18:30:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "startDate": "2026-09-14",
-      "endDate": "2026-09-15",
-      "rawTitle": "Ganesha Chaturthi ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )"
-    }
-  },
-  {
-    "id": "6a8e8f8b869a41ed2f660ccc",
-    "source": "nps",
-    "type": "holiday",
-    "title": "Onam",
-    "content": "Onam ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )",
-    "postedDate": "2026-08-25T18:30:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "startDate": "2026-08-26",
-      "endDate": "2026-08-27",
-      "rawTitle": "Onam ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )"
-    }
-  },
-  {
-    "id": "6a8e8f8b869a41ed2f660ccb",
-    "source": "nps",
-    "type": "holiday",
-    "title": "Varamahalakshmi Vratham",
-    "content": "Varamahalakshmi Vratham ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )",
-    "postedDate": "2026-08-20T18:30:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "startDate": "2026-08-21",
-      "endDate": "2026-08-22",
-      "rawTitle": "Varamahalakshmi Vratham ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )"
-    }
-  },
-  {
-    "id": "6a8e8f8b869a41ed2f660cca",
-    "source": "nps",
-    "type": "holiday",
-    "title": "Bakrid/EID",
-    "content": "Bakrid/EID ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )",
-    "postedDate": "2026-05-26T18:30:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "startDate": "2026-05-27",
-      "endDate": "2026-05-28",
-      "rawTitle": "Bakrid/EID ( LKG,UKG,Grade 1,Grade 2,Grade 3,Grade 4,Grade 5,Grade 6,Grade 7,Grade 8,Grade 9,Grade 10,Grade 11 Science INT,Grade 12 Science INT,Nursery,Grade 11 Science,Grade 11 COMMERCE,Grade 12 Science,Grade 12 COMMERCE )"
-    }
-  },
-  {
-    "id": "6a8e8738869a41ed2f660c11",
-    "source": "gmail",
-    "type": "email",
-    "title": "🎉 More Time. More Style. Fashion for Your Home Sale EXTENDED!",
-    "content": "",
-    "summary": "The home‑sale fashion event has been extended, giving families extra time to shop for stylish items. No specific deadline was provided.",
-    "postedDate": "2026-08-24T08:07:20.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a032cf5cc994d8d",
-      "from": "Pepperfry <hello@mails.pepperfry.com>"
-    }
-  },
-  {
-    "id": "6a8e8738869a41ed2f660c10",
-    "source": "gmail",
-    "type": "email",
-    "title": "Updates to our terms of use",
-    "content": "*Your Services Agreement made clearer*\r\n\r\nHello,\r\nYou’re receiving this email because we are updating the Microsoft Services Agreement, which applies to one or more Microsoft products or services you use. We’re making these updates to clarify our terms and ensure that they remain transparent for you, as well as to cover new Microsoft products, services and features.\r\nThe Microsoft Services Agreement is an agreement between you and Microsoft (or one of its affiliates) that governs your use of Microsoft consumer online products and services.\r\nYou can read the entire Microsoft Services Agreement [here][https://go.microsoft.com/fwlink/?LinkID=2091994&clcid=0x4009]. You can also learn more about these updates on our FAQs page [here][https://go.microsoft.com/fwlink/?LinkID=2092201&clcid=0x4009], including a summary of the most notable changes. The updates to the Microsoft Services Agreement will take effect on 30 September 2026. If you continue to use our products and services on or after 30 September 2026, you are agreeing to the updated Microsoft Services Agreement.\r\nIf you do not agree, you can choose to discontinue using the products and services, and close your Microsoft account before these terms become effective. If you are a parent or guardian, you are responsible for your child’s or teenager’s use of Microsoft products and services, including purchases.\r\nThank you for using Microsoft products and services.\r\n\r\n********************\r\n\r\n[Microsoft Services Agreement]\r\nhttps://go.microsoft.com/fwlink/?LinkID=2091994&clcid=0x4009\r\n[Microsoft Privacy Statement]\r\nhttps://go.microsoft.com/fwlink/?LinkID=521839&clcid=0x4009\r\n[Frequently Asked Questions]\r\nhttps://go.microsoft.com/fwlink/?LinkID=2092201&clcid=0x4009\r\n\r\n********************\r\n\r\nThis email was sent from an unmonitored mailbox.\r\n\r\n[Privacy Statement]\r\nhttps://go.microsoft.com/fwlink/?LinkId=521839&clcid=0x4009\r\n\r\nMicrosoft Corporation, One Microsoft Way, Redmond, WA 98052 USA\r\n\r\n[Microsoft]\r\nhttps://go.microsoft",
-    "summary": "Microsoft is updating its Services Agreement, which will become effective on 30 September 2026; by continuing to use Microsoft products after that date you’ll be accepting the new terms. If you don’t agree, you’ll need to stop using the services and close the account before the deadline.",
-    "postedDate": "2026-08-24T08:27:18.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a032e193a92d47d",
-      "from": "Microsoft <msa@communication.microsoft.com>"
-    }
-  },
-  {
-    "id": "6a8e8738869a41ed2f660c0f",
-    "source": "gmail",
-    "type": "email",
-    "title": "Surprise Inside! 🎁 Rs. 2,500 Credit Just Added to Your Wallet 💸",
-    "content": "",
-    "summary": "A surprise credit of Rs 2,500 has just been added to your account. No action is required—enjoy the extra funds!",
-    "postedDate": "2026-08-25T04:45:05.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a0373c7e7b7144b",
-      "from": "Pepperfry <hello@mails.pepperfry.com>"
-    }
-  },
-  {
-    "id": "6a8e8738869a41ed2f660c0e",
-    "source": "gmail",
-    "type": "email",
-    "title": "Invitation from an unknown sender: Chemistry | LECTURE | Lecture-10 @ Tue Aug 25, 2026 2:10pm - 3:25pm (IST) (nithilan.manivannanj@gmail.com)",
-    "content": "",
-    "summary": "Your child is invited to attend Chemistry Lecture 10 on Tuesday, August 25, 2026, from 2:10 pm to 3:25 pm IST. No response deadline was specified.",
-    "postedDate": "2026-08-25T05:32:10.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a03767977d629b5",
-      "from": "Shreya Pal <shreyapal.fac@aesl.in>"
-    }
-  },
-  {
-    "id": "6a8e8738869a41ed2f660c0d",
-    "source": "gmail",
-    "type": "email",
-    "title": "🏡 Refresh Your Space in Style! ✨ Fashion for Your Home Sale Is LIVE!",
-    "content": "",
-    "summary": "A new “Fashion for Your Home” sale is now live, offering stylish items to refresh your space. Check the portal for details and shop while supplies last.",
-    "postedDate": "2026-08-25T08:52:32.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a0381f14343431b",
-      "from": "Pepperfry <hello@updates.pepperfry.com>"
-    }
-  },
-  {
-    "id": "6a8e8738869a41ed2f660c0c",
-    "source": "gmail",
-    "type": "email",
-    "title": "The Daily teammates have a Zip invite waiting for you. 📬",
-    "content": "Can you solve this?\r\nConnect the dots in order and see how quickly you can fill the grid.\r\nSolve: https://www.linkedin.com/comm/games/zip?lipi=urn%3Ali%3Apage%3Aemail_email_games_discovery_social%3BWQMf0VxiSjenGHWpoeZoVg%3D%3D&midToken=AQGVWzLXQxUZGw&midSig=2sCVkioLypDYo1&trk=eml-email_games_discovery_social-null-0-games_solve_ragebait_zip&trkEmail=eml-email_games_discovery_social-null-0-games_solve_ragebait_zip-null-lsdoxv~mt8ga2ld~7z-null-null&eid=lsdoxv-mt8ga2ld-7z\r\n\r\n      \r\n\r\n----------------------------------------\r\n\r\nThis email was intended for Bon Dans (--)\r\nLearn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_games_discovery_social%3BWQMf0VxiSjenGHWpoeZoVg%3D%3D&midToken=AQGVWzLXQxUZGw&midSig=2sCVkioLypDYo1&trk=eml-email_games_discovery_social-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_games_discovery_social-SecurityHelp-0-textfooterglimmer-null-lsdoxv~mt8ga2ld~7z-null-null&eid=lsdoxv-mt8ga2ld-7z\r\nYou are receiving LinkedIn notification emails.\r\n\r\n\r\nUnsubscribe: https://www.linkedin.com/comm/mypreferences/u/emailunsub?action=updateEmailSubscription&lipi=urn%3Ali%3Apage%3Aemail_email_games_discovery_social%3BWQMf0VxiSjenGHWpoeZoVg%3D%3D&midToken=AQGVWzLXQxUZGw&midSig=2sCVkioLypDYo1&trk=eml-email_games_discovery_social-unsubscribe-0-textfooterglimmer&trkEmail=eml-email_games_discovery_social-unsubscribe-0-textfooterglimmer-null-lsdoxv~mt8ga2ld~7z-null-null&eid=lsdoxv-mt8ga2ld-7z&loid=AQHBoBM_LWJTMAAAAaA4XjHhGkoh1LyZzMqagku7WZvPZ5qoSnSbmuOJSp5cplfkBhRXHzMwl1zPX4_nvagQehMaEMRneYwTnQMLBd6FVYc9\r\nHelp: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_games_discovery_social%3BWQMf0VxiSjenGHWpoeZoVg%3D%3D&midToken=AQGVWzLXQxUZGw&midSig=2sCVkioLypDYo1&trk=eml-email_games_discovery_social-help-0-textfooterglimmer&trkEmail=eml-email_games_discovery_social-help-0-textfooterglimmer-null-lsdoxv~mt8ga2ld~7z-null-null&eid=lsdoxv-mt8ga2ld-7z\r\n\r\n© 2026 Link",
-    "summary": "Your child has a LinkedIn “Zip” game invitation waiting—click the link to connect the dots and complete the puzzle. No deadline is specified.",
-    "postedDate": "2026-08-25T10:01:32.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "messageId": "1a0385e357a2e699",
-      "from": "LinkedIn <messages-noreply@linkedin.com>"
-    }
-  },
-  {
-    "id": "6a8e7ccb869a41ed2f660b40",
-    "source": "nps",
-    "type": "circular",
-    "title": "Free Online Courses on NIELIT Digital University (NDU) for Classes VIII–XII",
-    "content": "Free Online Courses on NIELIT Digital University (NDU) for Classes VIII–XII",
-    "postedDate": "2026-07-03T18:30:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "category": "Board Circulars",
-      "dateStr": "04 Jul 2026"
-    }
-  },
-  {
-    "id": "6a8e7ccb869a41ed2f660b3f",
-    "source": "nps",
-    "type": "circular",
-    "title": "Youth Entrepreneurship Challenge (YEC) Workshop organized by IIT Kanpur",
-    "content": "Youth Entrepreneurship Challenge (YEC) Workshop organized by IIT Kanpur",
-    "postedDate": "2026-08-17T18:30:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {
-      "category": "Board Circulars",
-      "dateStr": "18 Aug 2026"
-    }
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b3e",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent, Greetings",
-    "content": "Dear Parent, Greetings.  Please go through the circular regarding Revised Fee-Instalments - AY 2026-27. under category - School. Regards, Admin National Public School – NORTH",
-    "postedDate": "2026-01-12T10:56:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b3d",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent, Greetings",
-    "content": "Dear Parent, Greetings. Kindly go through the circular regarding School Application Form under category - School. Regards, Admin National Public School-NORTH",
-    "postedDate": "2026-02-04T09:56:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b3c",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent, \n\nGreetings for the day!\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
-    "postedDate": "2026-02-11T04:27:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b3b",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent, Kindly find attached the circular regarding Welcome Note for the Academic Year 2026-27 under SCHOOL categor",
-    "content": "Dear Parent, Kindly find attached the circular regarding Welcome Note for the Academic Year 2026-27 under SCHOOL category. Regards, Admin NPS NORTH",
-    "postedDate": "2026-02-13T10:30:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b3a",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,  Greetings",
-    "content": "Dear Parent,  Greetings. Please go through the circular regarding School Uniform Camp for the AY 2026-27 under category - SCHOOL. Regards, Admin National Public School, NORTH",
-    "postedDate": "2026-02-24T05:36:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b39",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent,\n\nGreetings.\n\nKindly note that the school house (colour) allocation will be updated later on your ward’s Parent Portal under the ‘Profile’ tab.\n\nThis information will be required at the time of purchasing the school uniform.\n\nRegards,\nAdmin \nNPS-NORTH",
-    "postedDate": "2026-02-27T10:22:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b38",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent, Kindly find attached the details regarding the Commencement of Bridge Classes and the Transport Facility un",
-    "content": "Dear Parent, Kindly find attached the details regarding the Commencement of Bridge Classes and the Transport Facility under SCHOOL category. Regards, Admin NPS NORTH",
-    "postedDate": "2026-03-25T08:49:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b37",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent, Kindly find attached the circular regarding Book Fee Details and Book List for the Academic Year 2026-27 un",
-    "content": "Dear Parent, Kindly find attached the circular regarding Book Fee Details and Book List for the Academic Year 2026-27 under SCHOOL category. Regards, Admin NPS NORTH",
-    "postedDate": "2026-04-01T07:04:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b36",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent, Kindly find attached the circular regarding Book Fee Details and Book List for the Academic Year 2026-27 un",
-    "content": "Dear Parent, Kindly find attached the circular regarding Book Fee Details and Book List for the Academic Year 2026-27 under SCHOOL category. Regards, Admin NPS NORTH",
-    "postedDate": "2026-04-01T08:26:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b35",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent,\n\nGreetings.\n\nKindly note that the recommended school uniform vendor will be present in the school campus as per the below schedule:\n\nDates: Saturday, 4th April and Sunday, 5th April 2026\nTimings: 10:00am - 3:00pm\n\nParents are requested to visit the school campus on the above mentioned dates to complete the uniform purchase for their ward.\n\nRegards,\n\nAdmin\nNPS NORTH",
-    "postedDate": "2026-04-02T06:58:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b34",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent,\n\nGreetings.\n\nKindly note that the Bridge Classes (Hybrid Mode) for the academic year 2026–27 will commence from 9th, April 2026 to 5th, May 2026 on Monday, Tuesday, Thursday and Friday between 11:00 am to 2:00pm.\n\nThe credentials of the online classes will be shared by the Aakash team two days prior to the commencement of the classes.\n\nVenue:\nAakash Institute, Banaswadi\nNo. M415, Building 7,\n2nd Floor, Kalyan Nagar Extension,\nAbove Little Italy Restaurant,\nHRBR Layout, Banaswadi,\nBengaluru – 560043\n\nTransport facilities (pick-up and drop) from the nearest designated points will be provided only for the students registered for transportation.\nParents are requested to register through the portal: www.samschoolbus.com. \n\nParents who wish to avail this facility are requested to fill in the details using the Google Form link shared below.\nhttps://forms.gle/HooLrbPyTGWHQPtS8\n\n* Disclaimer - In view of the prevailing uncertainty in the Middle East, school transport services will operate in accordance with government regulations. \nIf the number of students is below the minimum requirement, the transport vendor will not be able to provide transport on that route.\n\nRegards,\nAdmin\nNPS NORTH",
-    "postedDate": "2026-04-02T09:40:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b33",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
-    "postedDate": "2026-04-06T11:00:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b32",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent, Greetings",
-    "content": "Dear Parent, Greetings. Kindly note that to access notifications and circulars, you have to click on 2026-27 under the Academic Year tab. Thank you for your understanding. Regards, IT Support NPS-NORTH",
-    "postedDate": "2026-04-08T06:32:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc3869a41ed2f660b31",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
-    "postedDate": "2026-04-08T11:01:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b30",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent, \n\nGreetings for the day ! \n\nReminder for Fee Payment. \n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee. \n\nKindly ignore if already paid. \n\nThank You. \nAdmin Head \nNPS NORTH",
-    "postedDate": "2026-04-09T12:39:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b2f",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
-    "postedDate": "2026-04-11T06:31:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b2e",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
-    "postedDate": "2026-04-16T03:53:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b2d",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
-    "postedDate": "2026-04-25T03:25:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b2c",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent, Greetings",
-    "content": "Dear Parent, Greetings. Kindly note, the school office will remain closed on Friday, 1st May 2026 on account of Labour Day. Regards, Admin Head NPS NORTH",
-    "postedDate": "2026-04-30T04:18:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b2b",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent, \n\nGreetings for the day ! \n\nReminder for Fee Payment. \n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee. \n\nKindly ignore if already paid. \n\nThank You. \nAdmin Head \nNPS NORTH",
-    "postedDate": "2026-05-04T05:33:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b2a",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
-    "postedDate": "2026-05-08T08:55:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b29",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent,\n\nGreetings.\n\nKindly update the Student and Parent profile information in your ward’s Parent Portal under the Profile section.\n\nPlease ensure that the following details are uploaded/updated:\n\n- Recent formal photograph of each parent (plain background preferred)\n- Student Blood Group\n- Emergency Contact Number\n\nThese details are mandatory for the printing of Parent and Student ID cards.\n\nKindly update the details at the earliest to avoid any delay in issuing the ID cards.\n\nPlease note:\n- The student photograph for the Student ID card will be taken in the school’s formal uniform at the school on commencement of the academic session.\n\n- If any mandatory details are missing or incomplete, the printing of the Parent and Student ID cards cannot be completed.\n\n- If your ward's profile information has already been updated, kindly ignore this message.\n\nRegards,\nAdmin Head\nNPS NORTH",
-    "postedDate": "2026-05-09T04:42:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b28",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent, Greetings",
-    "content": "Dear Parent, Greetings. Kindly note, the school office shall remain closed on Thursday, 14th May 2026, on account of staff training. Regards, Admin Head NPS NORTH",
-    "postedDate": "2026-05-13T04:04:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b27",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parents, Greetings",
-    "content": "Dear Parents, Greetings. Please be informed that student dispersal will be at 2:30 p.m. on Wednesday. From Thursday onwards, school timings will be 8:00 a.m. to 3:30 p.m. Regards, Admin Team NPS-NORTH",
-    "postedDate": "2026-05-15T03:58:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b26",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parents, Greetings",
-    "content": "Dear Parents, Greetings. Please find attached the mobile phone usage circular under the category 'SCHOOL' which is effective from Wednesday , 20th May 2026. Regards, Admin Head, NPS NORTH",
-    "postedDate": "2026-05-15T09:47:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b25",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
-    "postedDate": "2026-05-15T11:24:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b24",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent,\n\nGreetings.\n\nKindly note that the recommended school uniform vendor will be present in the school campus as per the below schedule:\n\nDate: Sunday, 24th May \nTimings: 10:00am - 3:00pm\n\nParents are requested to visit the school campus on the above-mentioned date to complete the uniform purchase for their ward.\n\nRegards,\nAdmin Head\nNPS NORTH",
-    "postedDate": "2026-05-18T09:50:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b23",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent, Greetings",
-    "content": "Dear Parent, Greetings. Kindly note that students are required to carry an umbrella, preferably a raincoat on rainy days, as they need to walk a short distance to board the school buses. Regards, Admin Head NPS NORTH",
-    "postedDate": "2026-05-19T04:27:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b22",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent, Greetings",
-    "content": "Dear Parent, Greetings. Please go through the circular regarding School Transport Guidelines 2026-27 under category - School. Regards, Admin Head National Public School-NORTH",
-    "postedDate": "2026-05-19T04:48:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b21",
-    "source": "nps",
-    "type": "notification",
-    "title": "Your ward Nithilan Manivannan of Grade 11 Science INT A is absent today 21-05-2026",
-    "content": "Your ward Nithilan Manivannan of Grade 11 Science INT A is absent today 21-05-2026. Kindly ignore the message if you have already informed to school through email.",
-    "postedDate": "2026-05-21T05:00:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b20",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent, \n\nGreetings for the day !\n\nReminder for Fee Payment.\n\nKindly check the NPS NORTH parent portal and ensure to complete the fee payment for the AY 2026-27 for your ward within the due date to avoid the late fee.\n\nKindly ignore if already paid.\n\nThank You.\nAdmin Head \nNPS NORTH",
-    "postedDate": "2026-05-21T09:21:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b1f",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent,\n\nGreetings.\n\nKindly note that the recommended school uniform vendor will be present in the school campus as per the below schedule:\n\nDate: Sunday, 24th May \nTimings: 10:00am - 3:00pm\n\nParents are requested to visit the school campus on the above-mentioned date to complete the uniform purchase for their ward.\n\nRegards,\nAdmin Head\nNPS NORTH",
-    "postedDate": "2026-05-21T09:23:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b1e",
-    "source": "nps",
-    "type": "notification",
-    "title": "Your ward Nithilan Manivannan of Grade 11 Science INT A is absent today 22-05-2026",
-    "content": "Your ward Nithilan Manivannan of Grade 11 Science INT A is absent today 22-05-2026. Kindly ignore the message if you have already informed to school through email.",
-    "postedDate": "2026-05-22T06:09:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b1d",
-    "source": "nps",
-    "type": "notification",
-    "title": "Dear Parent,",
-    "content": "Dear Parent,\n\nGreetings.\n\nKindly note that as per the Government order, Thursday, 28th May 2026 has been declared a holiday on account of Bakrid.\n\nWednesday, 27th May 2026 will be a regular working day for the students.\n\nRegards,\nAdmin Head\nNPS NORTH",
-    "postedDate": "2026-05-22T10:13:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b1c",
-    "source": "nps",
-    "type": "notification",
-    "title": "Your ward Nithilan Manivannan of Grade 11 Science INT A is absent today 23-05-2026",
-    "content": "Your ward Nithilan Manivannan of Grade 11 Science INT A is absent today 23-05-2026. Kindly ignore the message if you have already informed to school through email.",
-    "postedDate": "2026-05-23T05:10:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
-  },
-  {
-    "id": "6a8e7cc2869a41ed2f660b1b",
-    "source": "nps",
-    "type": "notification",
-    "title": "Your ward Nithilan Manivannan of Grade 11 Science INT A is absent today 23-05-2026",
-    "content": "Your ward Nithilan Manivannan of Grade 11 Science INT A is absent today 23-05-2026. Kindly ignore the message if you have already informed to school through email.",
-    "postedDate": "2026-05-23T05:11:00.000Z",
-    "isRead": false,
-    "isCompleted": false,
-    "metadata": {}
   }
 ]
