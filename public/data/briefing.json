@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-01",
-  "generatedAt": "2026-09-01T21:14:29.187Z",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T06:01:32.578Z",
   "stats": {
-    "newToday": 110,
+    "newToday": 16,
     "assignments": 15,
     "emails": 5,
     "news": 8
   },
-  "narrative": "Good morning! It’s **71% chance of rain**, so grab your **umbrella** and wear comfortable, easy-to-clean clothes. Keep an eye out for the **Poster Making Competition** [[School: Poster Making Competition]] and don’t forget to check your **English Teacher’s message** [[School: Message from English Teacher]] for any urgent updates. Stay dry, stay focused, and make today count!",
+  "narrative": "Morning! With a **69% rain chance**, definitely grab your umbrella and wear waterproof shoes as you head to school. In the news, the Supreme Court has [News: ‘This is absolute justice’ : Dipke hails SC’s quashing of FIRs against students], which is a significant update for student rights. Your inbox has a [Mail: Run failed: Sync Briefing Data - master (73e5684)] alert, but you can safely ignore it for now. Stay dry and have a productive day!",
   "assignments": [
     {
       "id": "6a96ce6d869a41ed2f66e00d",
@@ -182,6 +182,12 @@
   ],
   "emails": [
     {
+      "id": "6a97bba8f447fcec6f662273",
+      "title": "[nithilan-alt-f4/daily-briefing] Run failed: Sync Briefing Data - master (73e5684)",
+      "from": "Nithilan Manivannan <notifications@github.com>",
+      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a060764aae23f5a"
+    },
+    {
       "id": "6a974021c4de47b3a0d954d2",
       "title": "NEW in Dehancer iOS: Built-in video editor",
       "from": "Dehancer Team <support@dehancer.com>",
@@ -204,62 +210,56 @@
       "title": "[nithilan-alt-f4/daily-briefing] Run failed: Sync Briefing Data - master (73e5684)",
       "from": "Nithilan Manivannan <notifications@github.com>",
       "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05ed0a256f97de"
-    },
-    {
-      "id": "6a96c863971ebda0814ff2df",
-      "title": "🛍️ WHY WAIT FOR DIWALI? Shop the Sale NOW! 🔥",
-      "from": "Pepperfry <hello@mails.pepperfry.com>",
-      "gmailUrl": "https://mail.google.com/mail/u/0/#all/1a05c300cf9ec0cf"
     }
   ],
   "news": [
     {
-      "id": "6a97402d869a41ed2f66e86b",
-      "title": "Dipke questions police over women’s safety after Delhi bus rape - ThePrint",
-      "sourceName": "ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUzRLMGRja0tOU0I3aTdKYlBhaHVsT0VlUWFjTVlDaUN3NHlBMkpaR0ZyVG8xMW9fM3EyZ25WUHVXbDZwMnZXTXp3SVZWRVhKNWdndzkwaHJ5LVlpbE4zZGU0dzhkZXB5emt0NUI4QlJZdVpSR05VbjN4ODFPcU91Ti0tUXYybW9uS0pFN3RFVUVLQ1RsQVR1aVdsem5TQdIBowFBVV95cUxQZGh3ZU5MODdNb2s3ZXpUUHR5ck9tYkx3U0IyWnc1bDU5LXVrUzB4TUtoRW93b1hNblYzVU9KdVFLN0dEaWRxV2tHaUtmTldoY0tQMzU5YmhRMVV6Ql9mMjVXeHlUTjRzMUhYQmx5NlQ5cHIyVHlLUzZoUW1hOTBCdWExNzFzelNoUEtWZW5BWWZuUTBhb1FreFBleG9haW8yMi1r?oc=5"
+      "id": "6a97bbb5869a41ed2f66ea89",
+      "title": "‘This is absolute justice’ : Dipke hails SC’s quashing of FIRs against students - Daily Pioneer",
+      "sourceName": "Daily Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWpBMjdYc0ltQURubmI0MWJvbVA5UjA0TU1UbWE1WlY3T2xhUlZyU3ppQy1LMEdOekZ5anpYNFdrWlVNb1NUNUpCLW44TVotcVVob3lIZTRLOTFEYnA4dXptTnBpd1o1TDNoZHAtQURGLU5LcS1NdlJDQmVXeXBuSGpjMWJJb0R6Z1NKeXQ1YlB5Y041UlFiWkgzeVMxbkloZHA2R2pHQjJnS09JSXQyV29B?oc=5"
     },
     {
-      "id": "6a97402c869a41ed2f66e86a",
-      "title": "Amid PM face row with TVK, Congress MP Praveen Chakravarty meets CM Vijay at Secretariat - DT Next",
-      "sourceName": "DT Next",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLWtmQkoxYVBKbC1pNGM5QnRLZWJBVHdRd2tSc3ZoTmNLRzJuVUxDSUd5T3k5WXRwU3RrREpFNTFFblF0NmV4LVlLc0hPZFV6S25CVmNfR2NfMHR5c0hZLUFrUW1Vc0J2TFhKQ01RZzI2M1NOekJGOUpBS2djRHh0ZkFncTZ4cjNQUFBodktFSmNRQ1RKMUpZYlVUUnVHd1J2bUZOMFBRRFg2UWJXVXRjbGQyekFERVg3UjFSek4tNkhRQdIBzwFBVV95cUxNaTZYMDBWODhJOWxyRkpEWTNjLXhkbWNCWTBSUkR5OUx5TGk0bEJFYVZxLTVoZ0xKMTFndFV0UTJGenRzQW1haDhrcGJIUGNISFk1cDZRVllKNXgtWWttaDFWMU9XRTRxTkRpek1VRTRSaHBPb1hWRlFfSFhRSE9uQVIxUGdlWFpEcTd5WHNYNXkyQkJfbE12WE1fdm5TS203VWVab3d5TzRBNkJPOWpKWnJ3Y1U0clRNS0VsVC1iUF9MaHF2NzNaS3NiMzBCOFU?oc=5"
+      "id": "6a97bbb4869a41ed2f66ea88",
+      "title": "CJP protest news highlights: 'Jai Hind', says Abhijeet Dipke after SC quashes FIRs against protesters | Hindustan Times - hindustantimes.com",
+      "sourceName": "hindustantimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeFZyRk1PTkh0a3pIeXNpREdJVktpWlZDWVdEM2RlYk1fQjMxMXM5QXdzWEt6WElUU2NVMVkzdmVvRmNJWk1ZTEFOWWhEcEpxa1J6WGxlQmVGTGVSeHluTXhBdXR6MFFKRmJVdWp2SWZRNW1wNGNOQlNuc0hMbE9UZ3dEOWFCZ1VIcEJhOWlNdFJCZHl3U1RoOGJjcGdPUnd3RWNOeTJyZ01zam9YeTRtUmRLT2k5QXpQTDYxOVlwZkYwMlNueHRFS2pzMUtaSzlIdDJYVldFTl9DUlZ4UnZuU0VwWXE4MElNTUQ3RzRPTDJRaHFKQlQzV2hoRDRqVmF6QUVaNm10Rnk0d9IBjwJBVV95cUxNX0JZQnF0YzhDWEVGMTAxSVROa0JYSFNGWFNyTlFvR1V4bHQtcTFLZXlBdjdHODFLU3FNOThrLXFtcnh5MG1TcjlTMjdRTUdIalp5LUx1bExWMVdwVWlha1VpNnVPc1lLcEw0MXpYVjU4alUwUlV0Mnd3OTVDbDVxOTFlZFpiOU5qTVBKc3BRdVdQNnFyZ01haTJPLUVZWHdPRURRd3VzNTJNQ3RldlJhYlZoWDg5OU9nTGsyTUlodGlpTFZxQ2g2YlVkLTVtb2JsYmttNzZkbVBiV0NFNE9iVm9uNmV2bExUNGZwcVY5WVVvOVFrVWlDSkc1ZXVWQUhob1NpOVdWMTZuYmFhc2NF?oc=5"
     },
     {
-      "id": "6a97402c869a41ed2f66e869",
-      "title": "Waqf funds, free tuition for Muslim girls: Analysing TVK government's freebies and appeasement model - opindia.com",
-      "sourceName": "opindia.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeVRxalhBRkhDMi1kOVlaZjJOdE1Wa0Q0a2tqZ203YU5MbUoySG1jVXdYWEFPTVRuUHlaREF1aV9NRElnTmxob2RLbU01cjZQeVBwVGl1RWdrNEs5bFl3TUlxc2FrNzBqWjliWVg2bGhCNUJVVGlDNEZCZ0VSR1UxeklsWDVIdWltUnpxWE5uMTZvdXZWZVJhcVNLUWxZcW1mbFNxOVA3dFh0bmhrdXFvQy0yR2s2WGRVeTJMU1ZJUXJWNnFWZEpFcjJxaDBlT2pjMXZzTg?oc=5"
+      "id": "6a97bbb4869a41ed2f66ea87",
+      "title": "\"True justice served\": CJP leader Abhijeet Dipke hails SC order quashing FIRs linked to student protests - The New Indian Express",
+      "sourceName": "The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUY5eWN0X3gzem9wNHNNNVpQYlBEd0lqM1lmazU2UzF0QndxeUJtdGR0ci1mYVVDOXRmUzhDSll6RFdIeHVWMG4tX0t5NWdLZW1kVmNaNTEzbXBwYWVjZndqT0F2NFZGelFpMnV2ejBMWTcxVmU0UEFMSkFER0VFOWM4UTdSaG10Z2lMNVlkMTZHVFg0UlR2R21PaU1WU2dteU9hUzBJenNHYUpsU2pYTy1DOEMwSF9FVThVSndTZWU5YTJ5dlQzZ2RMUWExc2FEUXd3LWdsamZPcjVOa2JyLTBQN0p1WjhUNEHSAfcBQVVfeXFMT1Z4OTE2c3V4UGNSUlVycWFCVC1RTHlUNDNQSzlPeTFuSmR4UF95Y1JmeWZoWVVUUU9CZXdaTVJpZU9zSWdKNHRwQ2pnc1lBcTFpYXlTbWhFTThBS3NOQ2xVdEd6OXJuYmJ1SWY1UHRxTjlfOGljak0xcmVWQ2MzSkFkLXRMV0ZfZmF4cnk5dEJtNW02UDdteW9TRFdpeGhaT0RhM082M3pqNVhZRk0zeDJWRzNieVRjUHhqb1p0Mkszak5vTzFLeVhXeWFWT21UM3IxQW5mc1AyWUNISF81S19TQ05KNUpOZEFSYVhsdGVlODBnbGV6Zw?oc=5"
     },
     {
-      "id": "6a97402b869a41ed2f66e868",
-      "title": "TVK backs 'Vijay for PM' campaign; Congress claims Rahul Gandhi is PM face- Will the alliance survive? - newindianexpress.com",
-      "sourceName": "newindianexpress.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNnlSVThIbHFXSU9XMHRVVTZsT0VPQ2sxa1FqTS1iNVFVZEMxZVYzYkw1cVR2VTJSV2pweFpPSC1fVGhqVHUyb3JGWm9Sb25ySG8zeUZrMDBvaGdKd3hwYWxLYVNIdDNGWXMxVDV6cXJLUDR3cGdfOENibHAzdUF3eldoVFhuWFJFVzIyT0c5Q0lPc3J3cmFKcWxkbVlsd29KV0dIQm1mWTRnQk5XakxuLUY2SGUxdVE4bmI0Z3puZGpKSEhEZGE3VktjdGtKQXpWWkktZFdXRlljemlSdTdkcDR0UmNfdTUwVEk40gH4AUFVX3lxTE0yeHlfdXhRWmJnTlFfOWV3ZEhPeFQwRE9KU25iU3QxRWhIR1BWUlg4M0gyR2EtcjEweUk2WnVXOGVLU015ZnZSLThMY3pzQTJKVkx2cGpmMnBUazF3aVdNT0RoR3NOSkI0ejFieW90cldXMThnUW8xbFBTSzlWVWdKZ2JDRVktQTlFWmRKcWJnVzJSNTF6aXVIbUVBT0R5Zlg1WUZ2OHFKS0dZS19oRXFmLXNuek1IRTktSzlEb2Jad0F1alM2TTlqV2dNSVNSS0RJSjlaQTNpdWJNUzlFM2psUjVWN1BSMDA0THR4OFFENUVQR0I4Q20y?oc=5"
+      "id": "6a97bbb3869a41ed2f66ea86",
+      "title": "Tamil Nadu Election Results 2026 Highlights: Vijay To Leave Trichy East, MK Stalin's Resignation Accepted - NDTV",
+      "sourceName": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTTVWQnpXdW1ER0lWV1ZvZ1lOS0ZlU3NUX1RYYUJUa2dVUWFiWnRQQWd0WEotb2hkZnJHYmlkT1UyX1lQV3NxTVRZOE9LV1BOZE1Xck5XbXhqMWI4Z2ZPWGkyQlQwNjNaTjFDXy1tNTUxbWlEQTdza29XODlZaDJzRXZQOTJQbHQwWENFMi1fdGlrRmVxc3ZuUXd4eGlQQWNQanFBbHdoNEFxUVB3clV0bXVmeGlLOVNpZEtvQTZpM1JORUU3TUt2MFBYRnJhWTR6ZEtqbDNnbEFaQ0tFVzBjUVBBdnZqa0dKYlJMRkxudG1UeHpKRXp4RGlvYnBYblo0SFRoZHRGRmVUZE9pZVA3Y1hn0gGaAkFVX3lxTE8tMWQxYnlQLVdWX1hBY1RpSHNPZ3dPa18zdUFkOEZkSHBXMWtHVUZxZDRGN25Oa1V3Z1JZZVY0R1BoREczaEpIMXI2dnA5SmhSRXdTOFdOU0FyWjJ5d2lwTG1JbjY5c200dng4bHNwdTVJeVpkY2RxamZPVkV5ZG92SnQtZ0pFN1pjRGZSdVJKMnktZzJyOU9mbnpMMElQbV9zWDFtVTlxUnc3dTJTRVhsclN6RWszdDRVSWo3RE5ZLTgzcFpnTi1zUzlkbGc2QWZoVlRHUlMzTzFkY3ZicW9KZTlJTmpGcTB6eG5vUGd1OWp6QkgyR0pKRktXTnl5MkFKaVQ1UDVIQmtOQlNuRnVDbGQ4dlh5MlFxdw?oc=5"
     },
     {
-      "id": "6a97402a869a41ed2f66e867",
-      "title": "Karnataka CM DK Shivakumar’s promise: Will the state fulfil the dreams of our youth? - The News Minute",
-      "sourceName": "The News Minute",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYzJEWFd1RHRsNkh1TVRycjlIT1A5UEIza3BwckNzUE5yNDg4QXhPTVlIZkdqU1duUzF1RU5WVjY3dW1mcktMUWFkQzdrU2VLVXhtVGtYbTVNOV9ENHFKb1ZzVElHS05zX3laQnFDTEpFa3NOV2hNRjQtVjljeFNsWVRkM3ZVRUhScnZuNkduODYwMHFLbm03aVUxd01rV1FNSXBxRW13bUxTWU9hVUFyTHhWVGcxaExVWEFmVzJ30gHLAUFVX3lxTE5lbm05MzNzakdSOGdTYUhFSDRsaE1KcURlaXdMNzJfNVlVdzk3aEwzTWtKbEFnY1hJbmY5c1RZRWRBUlRhb1FLTWlRRzFSVjlEV0xqa0tYNkxfRnhuOTRqSkVZVW53bkVBcV84Rm9od1JMb0dQaEtibG5vaTRPOWl0U2pCU09pR2NyeFhxY1dObWk1Q1ltenRULWhDZjB3OVBWRHlaQ1AtMW1RNWJrVUdQYV9QeGVrMlhYX0xpdDAzZzBrV04tY3N0WkVV?oc=5"
+      "id": "6a97bbb2869a41ed2f66ea85",
+      "title": "Can’t declare drought just because I’m CM: D K Shivakumar - deccanherald.com",
+      "sourceName": "deccanherald.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUpOcERMZ3JXQ01LWlh6LVJMTjVKaDlMUnpYSWNaY0FCVnp1UVZXRExLVnZWcWVfdXZBMVBfUXUwZmVjSTFiUDAtWktvdThXa3hENmdDcHN4OHNuVThDeFJPMHpIbW83WDFURTd1MXdHVDlyNHluazZzbUV0S1h1SDVyWUowOXBRZzc3blNscTJQUTh1WkNGc2k1Z1RqQlA5N09NcXRNcEVTV2c?oc=5"
     },
     {
-      "id": "6a97402a869a41ed2f66e866",
-      "title": "Two seats, many claimants: Nagendra’s exit leaves Shivakumar with another balancing act - The Times of India",
+      "id": "6a97bbb2869a41ed2f66ea84",
+      "title": "Facing backlash, govt to reintroduce parks bill - The Times of India",
       "sourceName": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY2QyTnR6a0pObkxRSG5XV0hQSHhVblQ4cGVWc0l3ZW14Wi1adzJjN0hsWE0wT0R4Y3NkaW1NWjdyNk1VanJvdVViWUxQOTA3bkhxOVpqQ0xfSHRXZEFNT1BpZmFGRzlyUDlsWU50M3d4YXl5RW90NDl2UFlLTmp0S0dOS1pzQWtGakdVZUtFWTRhMGVubWNIV0EwX3hpRG50YUU5OEtrR2p5aUpBeUh3UGNEdUlkVFViWjdvNDMySl9XYnNPNHJibWlNOEZ4UzZCRkk0WHdkeFpOLVE0ODlnNUNZUjc5LURZTUZSTE40NWdUMjjSAfgBQVVfeXFMUHk5TkNELUpjWDdsdUd3dVN0SXdJYkNkU1BGSTZoVnVHV3pjMUJSaXdGdVI3ZzZkR2NGT1hkX1hTVVUwRU1pV1pObldWVmQ0SGFwU3hfVEhfZGJlRTFHY01RQ1hJZUthbXpkc1ZFTVJHeUNjT3EtaFBsWEkxdEg3anhta09aMUhFZVdGMkdzNU5nNzhmaEJuY0JuZE5pVzlGWGstaXhKbjJwTjgxaUlXWktNaDZqSlNZT21tSW5EVVhOSFB1MExtbTdXUkxRQkU1aXVuVWgtRllSLVVEMEotYUdaOWxEeUtIdnVocElzUjNsLTlVQnlaaUE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWDVQMy00NnB6Zldjc3luN2FqMlJaWTBtWWRfREF0RG1NczM3ZEhzM3pkYUpHSmxGeEN1T2ZfLU5EVzhXbTZEbkU3cElqa1RiR05nU2x3Rkc0cFN2UDFCNnhpR1NVQ1hMd2hadDUtbnBwbGRpZlVSTUVtT2FpZGRaTW4wckFyUnp0RUFBdVU4VWV3d2pYY0c1d0FiR3NaN1ZURndkVW5lWGZuVlRqbnEweV9HX01nalozckZmVjduRGrSAcYBQVVfeXFMTUprUDUtQlYxTHFNOVNfM0gtcHBrUTUxT1Rnd1I1dmRxR2RVQ0hNbVFfTkVtSTZGUENUcmx6RmFSUENFbUNJeHJFSnlxaVpUUDNwcUR0azJNdmE2TnVrNHlMLWpfSFI3VXF6Rks3QTlLMi1palpDM0JrZ0taTl9KVklLa1c0M242d1lTTWlPdF9uVTlLN2pvbzBEOWI4ZkpDNGZXTjNVY200ZjRFOWFYSXFfdFFPVXVqcGVlQ0pGTDluU1dkU3pB?oc=5"
     },
     {
-      "id": "6a97402a869a41ed2f66e865",
-      "title": "Congress will form counter-strategy to politically tackle BJP’s padayatra: Karnataka Chief Minister - The Hindu",
-      "sourceName": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMWRYM3ZMVURndXgyYmh0ZmFzbi1CZGJTVmpJbWFFZ3VlaTZ6YXc4elhqMjAyeDhOak1sa1lPTExFaU5zM245ckpEZTlDSHdYYXlHTDR4V1RCWTFMZUItY1RXai1TZVpKXzRJSFNGdUZvdlJHUnNDS01iZzlGN3g0eDdfamYzcVhxUnZVYjRueGhCNUVPTDgwcTZKd3R2OTI3aEhrRHRDdFdwTW5sM0J5a3BwajJSTDAzSFQ3eWV3UFplUktpT3VJd1lBamU4NG1jTXlMRVp5eXZJLUNmVWxMSy1KY3VKRGZscWtjUm81VV9lWkxJYU5BQ0530gGAAkFVX3lxTFBTWnpXR0ZqOU1EckJCaF9BaUxpRnIwYmJsMG9HNXNWZjBmZ2tYeXgxSWxOYmN3M0JGUEViZHFaa2pXckd3TnJtQUFMUGltcTI3Vkd4V2pSLW0zNGxSR3FnTWVEdTg2Y0NyanFjbkwxRTBZREtHVXlGRVlzRVNzZlhFNzlOcmFINnRTVG9aZDBUbzF6QXYwLVJrc2tTYnBZbHNrTUp5VjRpcWhISjl4c1B2cmdLVUVfODZGYTJZQUEyT2lPY0haUGhWTVp6SmRxbl9rc29CandKc0V1RmMwekFQb05WWHhxdlZ6WnpGa0lQMFlrMmJOVDNLUFE0b3ZOb3E?oc=5"
+      "id": "6a97bbb1869a41ed2f66ea83",
+      "title": "Public protest forces D K Shivakumar to ‘revisit’ Parks Bill | Can Bengaluru’s Lalbagh be saved? - deccanherald.com",
+      "sourceName": "deccanherald.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVldHVUNfWExYLTBIcXF0cTZLU0gwRG1PTVl5WVVlaHR5UUR4NU8wT180dzRoYU5Oc3laR082ankyS29Eb3IxNXpQREJDakR2UkRzY1ZxU0doTm1QdXFzUjJUWlpaanNjcW1fYkpfSnNnNUowNUJYWldUYkdrS29QNTdCNm1Lb2RXZnFhMFpzQ2dMNEFmVkxiejh4SnFwaUhnQmRZTEZsUGdXVTdRZG14SEplZXRlelBTSGNXN1BOYXBPeDlyVVZldnFLZ1J1b0xUemNlNGVFRG1fc0VXd1pFZWszR0FBVV9u?oc=5"
     },
     {
-      "id": "6a97402a869a41ed2f66e864",
-      "title": "KPSC row: Kumaraswamy is fighting BJP, not Congress, says CM Shivakumar - Deccan Herald",
-      "sourceName": "Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONXFtYkliTXJjd3ZpbG5ldGhkcmFhOHF5VEFrdmhmQWo0M3lpZWxCT1NTd2MyTEpUZEw3LW9ZQ2ZGWkNHU3pZTWRQcmNfVldJWTJkcmNWQXg5UUwzdEp1N3lBamJOQ1NxTnhaZ3hUYkc5Zm9scGYxVG5LMVF0ZWlMY0FKbmQ2OFV3VVpHSEZEblY5SkJvZWlwcjBFSzVnV3NfQzllTU03dW1GZ1pSeUxJbVRFaWYxUVdBRkxDNFFB?oc=5"
+      "id": "6a97bbb1869a41ed2f66ea82",
+      "title": "Will revisit Karnataka law allowing 5% park land for public projects, says DK Shivakumar - thenewsminute.com",
+      "sourceName": "thenewsminute.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQUk1Vkl4Vk1YaE1ndmhHNXBVZmt4UjBxS0dta2dNTXZoTUlNbzVsUW5xSDZUVnRJdlhLV3NLVHFVZHZYWWlHMlh1OEFRT3lZci1yd2Y0Q2xHdUdDYWtLQmVvTGx3Y3RiVFdYa2NXUWpOZTFaVTV3YkVhdmg0V2RTVFA4bzJhakN4TE45NnliR2dXWndvMTJkQmswQUhuWm03aWEzd0YyakpZcWRXWjdraWdKRUkyX2xZYmczSVUtNkxWczJE0gHSAUFVX3lxTE52dmt6TGNTLWVOYXFESmhfQTI5YmthUUNLMkJOazhvdHNibUtrY0x0ZlZlaE1TWkNGRzBQdERBWF9fTC1kYkdhYVBMaENVSGdPQm5FcFlySDVvLTR0NHhLOVI1TlRxMjg4WnIzVjFwaTE3dUJPV3ljTldWYXpmb3A3TXdROVJrMWdUQUJYMmR1TFJtV3I0QWRJQ0FldXYwUi1nQThuU3lnSmZxM0NHRTlvMTBzSHVtVnZHOHpRckl4QzFJemRkM0ZqSllkME5zcElrUQ?oc=5"
     }
   ]
 }
